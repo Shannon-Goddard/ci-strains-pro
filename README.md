@@ -27,4 +27,10 @@ This project is a **Human-AI Partnership**:
 - **Architect:** Shannon Goddard (Vision, Strategy, Domain Expertise)
 - **Technical Partner:** Amazon Q (Architecture, Scrapers, API logic)
 
-[View the Full Ecosystem Roadmap](./docs/ROADMAP.md)
+[View the Full Ecosystem Roadmap](./docs/ROADMAP.md)  
+## 🌿 Powered by Cannabis Intelligence
+> *[Mission Statement Snippet]*: Establishing the global standard for validated botanical data through Human-AI partnership.
+
+![CI Power Icon](./assets/branding/ci-badge-color.svg)
+
+**[Read more about the CI Vision & Logo Concept](./assets/docs/logo_concept.md)**
