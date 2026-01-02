@@ -1,8 +1,8 @@
 # 2026 Build Log
-**Status (as of 2026-01-01):** Phase 2 Monetization 🔄 | Strains: 15,783 | Revenue YTD: $0 | Verification: 100% complete | Bright Data: ($23.31) | Vertex AI: ($50.26) + $50.26 Google Cloud credit = $0
+
+**Status (as of 2026-01-02):** Phase 2 Monetization 🔄 | Strains: 15,783 | Revenue YTD: $0 | Verification: 100% complete | Bright Data: $23.31 | Vertex AI: $50.26 (covered by Google Cloud credit → $0 out-of-pocket)
 
 Transparent daily(ish) log of the **Cannabis Intelligence** ecosystem build.  
-
 ### Solo grind, real numbers, real progress.
 
 ## Quick Jump to Months
@@ -22,24 +22,24 @@ Transparent daily(ish) log of the **Cannabis Intelligence** ecosystem build.
 ## January 2026
 
 ### 2026-01-01
-- Created ci-strains-pro **GitHub repo** README.md 
-- Added folder skeleton
-- Finalized 2026 roadmap **ROADMAP.md**
-- Created **.amazonq** .amazonq\context\project-vision.md | amazonq\rules\data-processing.md | amazonq\rules\extraction-logic.md
-- Designed **Cannabis Intelligence branding** assets\branding\brand_guidelines.md | assets\branding\ci_badge_white.svg |assets\branding\ci-badge-black.svg | assets\branding\ci-badge-color.svg | assets\docs\logo_concept.md |  assets\docs\mission_statement.md
-- Added **Pipeline files with methodology** pipeline\PIPELINE.md | pipeline\01_extract_cannabinoids\EXTRACT_CANNABINOIDS.md |  pipeline\01_extract_cannabinoids\extract_cannabinoids.py | pipeline\02_extract_genetics\EXTRACT_GENETICS.md | pipeline\02_extract_genetics\extract_genetics.py | pipeline\03_strain_name_cleaned\STRAIN_NAME_CLEANED.md
-- Added **licenses** COMMERCIAL_TERMS.md | DATA_LICENSE.md | LICENSE
-- **Gemini Flash 2.0 verification run** kicked off on 15,783 URLs on 12/31/25 9:30pm pst (finishing tonight) 0.83% errors Free credits/zero cost
-- Bright Data scrape ~87.4% complete for ~$20.36 currently 1/1/26 9:42pm pst
-
+- Created ci-strains-pro GitHub repo + README.md
+- Added full folder skeleton
+- Finalized 2026 roadmap in docs/ROADMAP.md
+- Set up .amazonq context and rules files
+- Designed initial Cannabis Intelligence branding assets (guidelines, SVGs, mission docs)
+- Added pipeline methodology files and early Python scripts (cannabinoids, genetics, strain name cleaning)
+- Added licenses: COMMERCIAL_TERMS.md | DATA_LICENSE.md | MIT LICENSE
+- Kicked off Gemini Flash 2.0 verification run on 15,783 URLs (started 12/31/25 9:30 PM PST)
+- Bright Data scrape ~87.4% complete (~$20.36 spend at EOD)
 
 ### 2026-01-02
-- **Gemini Flash 2.0 verification run** 2026-01-02 00:53:50,069 - INFO - Full dataset validation completed successfully! | Bright Data: ($23.31) | Vertex AI: ($50.26) + $50.26 Google Cloud credit = $0 |
-[FULL_DATASET_VALIDATION.md](../pipeline/04_full_dataset_validation\FULL_DATASET_VALIDATION.md)
-- 
-- 
+- Gemini Flash 2.0 verification run completed at 00:53 AM 🇺🇸 100% strains processed
+- Final costs locked: Bright Data $23.31 | Vertex AI $50.26 (fully covered by Google Cloud credit → $0 out-of-pocket)
+- Dropped comprehensive validation report: [pipeline/04_full_dataset_validation/FULL_DATASET_VALIDATION.md](../pipeline/04_full_dataset_validation/FULL_DATASET_VALIDATION.md)
+- Continued uploading Python pipeline scripts
+- Next up: CSV before/after snippets for each pipeline stage
 
 ## February 2026
 
 ### 2026-02-01
-- 
+-
