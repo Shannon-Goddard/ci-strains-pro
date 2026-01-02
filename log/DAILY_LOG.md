@@ -37,7 +37,9 @@ Transparent daily(ish) log of the **Cannabis Intelligence** ecosystem build.
 - Final costs locked: Bright Data $23.31 | Vertex AI $50.26 (fully covered by Google Cloud credit → $0 out-of-pocket)
 - Dropped comprehensive validation report: [pipeline/04_full_dataset_validation/FULL_DATASET_VALIDATION.md](../pipeline/04_full_dataset_validation/FULL_DATASET_VALIDATION.md)
 - Continued uploading Python pipeline scripts
-- Next up: CSV before/after snippets for each pipeline stage
+- Updated licenses for both repos
+- CSV before/after snippets for each pipeline stage
+- Started reviewing and manual cleaning validated dataset
 
 ## February 2026
 
