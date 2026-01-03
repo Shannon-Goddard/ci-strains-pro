@@ -29,7 +29,7 @@ Transparent daily(ish) log of the **Cannabis Intelligence** ecosystem build.
 - Designed initial Cannabis Intelligence branding assets (guidelines, SVGs, mission docs)
 - Added pipeline methodology files and early Python scripts (cannabinoids, genetics, strain name cleaning)
 - Added licenses: COMMERCIAL_TERMS.md | DATA_LICENSE.md | MIT LICENSE
-- Kicked off Gemini Flash 2.0 verification run on 15,783 URLs (started 12/31/25 9:30 PM PST)
+- Kicked off Gemini Flash 2.0 verification run on 15,778 URLs (started 12/31/25 9:30 PM PST)
 - Bright Data scrape ~87.4% complete (~$20.36 spend at EOD)
 
 ### 2026-01-02
@@ -40,6 +40,14 @@ Transparent daily(ish) log of the **Cannabis Intelligence** ecosystem build.
 - Updated licenses for both repos
 - CSV before/after snippets for each pipeline stage
 - Started reviewing and manual cleaning validated dataset
+- Found 193 broken urls
+- Fix 187 urls and reran the 187 strains for validation
+- ✅ Dataset merge successful: 15,778 total validated strains
+- Manual review in progress: 187 strains recovered, 6 removed
+-  [pipeline\HTML_COLLECTION_ACTION_PLAN.md](pipeline\HTML_COLLECTION_ACTION_PLAN.md)  
+
+### 2026-01-03
+- 
 
 ## February 2026
 
