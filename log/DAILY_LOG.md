@@ -1,6 +1,6 @@
 # 2026 Build Log
 
-**Status (as of 2026-01-02):** Phase 2 Monetization 🔄 | Strains: 15,783 | Revenue YTD: $0 | Verification: 100% complete | Bright Data: $23.31 | Vertex AI: $50.26 (covered by Google Cloud credit → $0 out-of-pocket)
+**Status (as of 2026-01-02):** Phase 2 Monetization 🔄 | Strains: 15,778 | Revenue YTD: $0 | Verification: 100% complete | Bright Data: $38.95 pay as you go | Vertex AI: $50.26 (covered by Google Cloud credit → $0 out-of-pocket) | ScrapingBee $49.99 for month of January | AWS $4.32
 
 Transparent daily(ish) log of the **Cannabis Intelligence** ecosystem build.  
 ### Solo grind, real numbers, real progress.
@@ -33,21 +33,31 @@ Transparent daily(ish) log of the **Cannabis Intelligence** ecosystem build.
 - Bright Data scrape ~87.4% complete (~$20.36 spend at EOD)
 
 ### 2026-01-02
-- Gemini Flash 2.0 verification run completed at 00:53 AM 🇺🇸 100% strains processed
+- Gemini Flash 2.0 verification run completed at 00:53 AM 🇺🇸 — 100% strains processed
 - Final costs locked: Bright Data $23.31 | Vertex AI $50.26 (fully covered by Google Cloud credit → $0 out-of-pocket)
 - Dropped comprehensive validation report: [pipeline/04_full_dataset_validation/FULL_DATASET_VALIDATION.md](../pipeline/04_full_dataset_validation/FULL_DATASET_VALIDATION.md)
 - Continued uploading Python pipeline scripts
 - Updated licenses for both repos
-- CSV before/after snippets for each pipeline stage
+- Uploaded CSV before/after snippets for each pipeline stage
 - Started reviewing and manual cleaning validated dataset
-- Found 193 broken urls
-- Fix 187 urls and reran the 187 strains for validation
+- Found 193 broken URLs
+- Fixed 187 URLs and reran validation on those 187 strains
 - ✅ Dataset merge successful: 15,778 total validated strains
 - Manual review in progress: 187 strains recovered, 6 removed
--  [pipeline\HTML_COLLECTION_ACTION_PLAN.md](pipeline\HTML_COLLECTION_ACTION_PLAN.md)  
+- Added [pipeline/HTML_COLLECTION_ACTION_PLAN.md](../pipeline/HTML_COLLECTION_ACTION_PLAN.md)
 
 ### 2026-01-03
-- 
+- Continued manual column-by-column review/cleaning of Cannabis_Database_Validated_Complete.csv (numbers vs. text fields, consistency polish)
+- Multitasking win: Kicked off bulletproof HTML collection pipeline ~8am PST while cleaning
+- Upgraded vision: Full HTML archive as immutable source of truth → eliminates future link rot, enables user verification forever
+- Dropped [pipeline/HTML_COLLECTION_BULLETPROOF_PLAN.md](../pipeline/HTML_COLLECTION_BULLETPROOF_PLAN.md) — production architecture for 99.5%+ capture rate
+- Estimated unique URLs: ~12,000–13,000 after deduplication became 15,524 unique with 254 duplicates
+- One-time cost target: ~$50–70 | Ongoing: ~$11/month
+- **HTML Collection COMPLETE**: 14,075/15,524 URLs collected (90.7% success rate)
+  - Initial run: 13,163 URLs (6h 55m)
+  - Comprehensive retry: +912 URLs (3.9h)
+  - Remaining 1,449 URLs flagged as "no source of truth"
+- Ready for Phase 7: HTML parsing and data extraction
 
 ## February 2026
 
