@@ -57,7 +57,13 @@ Transparent daily(ish) log of the **Cannabis Intelligence** ecosystem build.
   - Initial run: 13,163 URLs (6h 55m)
   - Comprehensive retry: +912 URLs (3.9h)
   - Remaining 1,449 URLs flagged as "no source of truth"
-- Ready for Phase 7: HTML parsing and data extraction
+- Ready for Phase 7: HTML parsing and data extraction  
+
+### 2026-01-03
+- Continued manual column-by-column review/cleaning of Cannabis_Database_Validated_Complete.csv (numbers vs. text fields, consistency polish)
+- lineage column had a lot of good data mixed in. Added columns to retrieve
+- Also added seed to havest min max columns
+- Google Flash 2.0 validated columns were mostly uselful. Some were irrelevant;lineage_validated was way off. After I spent 12 hours mannually cleaning it, the inconsistancies were very noticeable. TBC
 
 ## February 2026
 
