@@ -59,11 +59,30 @@ Transparent daily(ish) log of the **Cannabis Intelligence** ecosystem build.
   - Remaining 1,449 URLs flagged as "no source of truth"
 - Ready for Phase 7: HTML parsing and data extraction  
 
-### 2026-01-03
+### 2026-01-04
 - Continued manual column-by-column review/cleaning of Cannabis_Database_Validated_Complete.csv (numbers vs. text fields, consistency polish)
 - lineage column had a lot of good data mixed in. Added columns to retrieve
 - Also added seed to havest min max columns
 - Google Flash 2.0 validated columns were mostly uselful. Some were irrelevant;lineage_validated was way off. After I spent 12 hours mannually cleaning it, the inconsistancies were very noticeable. TBC
+
+### 2026-01-04 to 2026-01-05 (Weekend Grind Edition)
+- Deep dive into the lineage column — the true gold mine of the dataset
+- Added new structured columns: Parent A, Parent B, Generation (F1/S1/BX/etc.), Hybrid Type, Landrace Flags, and more
+- Manual cleaning progress: ~20+ hours across Jan 4–5, row by row, turning raw text crosses into structured genetics intelligence
+- Painful discovery: ID column got mangled before a split/merge step → Gemini validation outputs misaligned
+- Root cause: My own process error (lesson learned: IDs are sacred, version everything)
+- Silver lining: Pre-split CSV backup intact → no total loss
+- Decision: Roll back lineage work and reclean from the clean base — tedious but necessary for bulletproof accuracy
+- Outcome: Lineage column reset and restart, but with sharper eyes, better column design, and permanent process upgrades
+- Mood: Frustrated but fired up — this detour guarantees the final lineage data will be the most accurate and structured in the game
+- **Amazon Q Source of Truth Integration**: Built bulletproof source verification system
+  - Cross-referenced 15,783 validated strains against HTML collection results
+  - **14,333 strains WITH verified HTML sources** (90.8% coverage)
+  - **1,450 strains flagged as "no source of truth"** (9.2%)
+  - Added `source_of_truth` column for legal protection and customer transparency
+  - Note: Strain IDs in pipeline/07_source_of_truth CSVs are corrupted due to earlier ID column mangling
+  - Ready for lineage reclean with source verification built-in from day one
+- Next: Finish lineage reclean → rerun Amazon Q + Gemini on full archived HTML → watch completeness explode
 
 ## February 2026
 
