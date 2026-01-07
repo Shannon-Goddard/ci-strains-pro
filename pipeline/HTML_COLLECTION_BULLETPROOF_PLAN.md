@@ -487,22 +487,70 @@ export default async function handler(req, res) {
 ---
 
 ## Implementation Notes Section
-*[To be filled during implementation]*
+
+### Collection Results (January 3-5, 2026)
+
+#### Final Statistics
+- **Total Runtime**: 10.85 hours (6h 55m initial + 3.9h retry)
+- **Success Rate**: 90.7% (14,075/15,524 URLs)
+- **Cost**: ~$38.95 Bright Data + $49.99 ScrapingBee
+- **Storage**: 14,075 HTML files in S3 (~3.1GB encrypted)
+
+#### Performance by Method
+1. **Bright Data API**: 85% primary success rate
+2. **ScrapingBee Fallback**: 12% recovery rate  
+3. **Direct Requests**: 3% final recovery
+4. **Comprehensive Retry**: 38.6% recovery of initial failures
+
+#### Domain-Specific Challenges
+- **multiversebeans.com**: 1,217 failures (83% of total failures)
+  - Heavy bot protection, requires residential proxies
+  - API returned HTML instead of JSON frequently
+- **seedsman.com**: 42 failures
+  - Aggressive rate limiting, 403 blocks
+- **northatlanticseed.com**: 151 failures
+  - Intermittent timeouts, geographic restrictions
 
 ### What We Actually Did
-- 
+- Built multi-layer scraping architecture with Bright Data → ScrapingBee → Direct fallbacks
+- Implemented SQLite progress tracking with checkpoint recovery
+- Created comprehensive retry system with 38.6% failure recovery rate
+- Added source of truth flagging for 90.8% dataset coverage
+- Stored 14,075 encrypted HTML files in S3 with metadata
 
 ### What Worked Well
-- 
+- **Multi-layer fallbacks**: Prevented catastrophic failures, achieved 90.7% success
+- **Progress tracking**: Enabled seamless resume after interruptions
+- **Rate limiting**: Respectful delays prevented IP bans throughout 10+ hour collection
+- **HTML validation**: Quality thresholds caught blocked pages and error responses
+- **Retry strategy**: Extended timeouts and user agent rotation recovered 912 additional URLs
 
 ### What We'd Do Differently
-- 
+- **Unicode handling**: Test logging on Windows console earlier to avoid emoji encoding errors
+- **Status consistency**: Use single status value ('completed') instead of mixed ('success'/'completed')
+- **API response validation**: Add stricter MIME type checking for Bright Data responses
+- **Selenium integration**: Implement browser automation for heavily protected sites from start
 
 ### Lessons Learned
-- 
+- **Domain patterns matter**: 83% of failures came from single domain (multiversebeans.com)
+- **Retry persistence pays**: 38.6% recovery rate on "impossible" URLs justified the effort
+- **Quality validation essential**: Size and content checks prevented garbage data storage
+- **Progress tracking critical**: 10+ hour collections need bulletproof resume capability
+- **Cost vs coverage**: 90.7% success rate excellent for web scraping at this scale
 
 ### Next Time Improvements
-- 
+- Implement Selenium WebDriver for JavaScript-heavy sites
+- Add residential proxy rotation for blocked domains
+- Enhance mobile user agent simulation
+- Consider CAPTCHA solving services for premium sites
+- Build real-time domain health monitoring
+- Add automatic retry scheduling for failed URLs
+
+### Source of Truth Integration
+- **Process**: Cross-referenced collection results against validated dataset
+- **Coverage**: 90.8% of strains have verified HTML sources (14,333/15,783)
+- **Business Impact**: Clear legal protection and customer transparency
+- **Data Quality**: Bulletproof audit trail for strain authenticity
 
 ---
 
