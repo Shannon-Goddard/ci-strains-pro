@@ -22,6 +22,19 @@ To transform cannabis data from a research proof-of-concept into the world's mos
 
 ---
 
+## 📊 Pipeline Status
+
+| Seed Bank | Status | Strains Extracted | Success Rate |
+| :--- | :--- | :--- | :--- |
+| **North Atlantic** | ✅ **Complete** | **2,727** | **94.8%** |
+| Neptune | ✅ Complete | 1,234 | 89.2% |
+| ILGM | 🚧 In Progress | - | - |
+| Seedsman | 📋 Planned | - | - |
+
+**Total Extracted:** 3,961+ strains from S3 HTML archive
+
+---
+
 ## 🛠 Transparency & Attribution
 This project is a **Human-AI Partnership**:
 - **Architect:** Shannon Goddard (Vision, Strategy, Domain Expertise)

@@ -1,0 +1,6 @@
+strain_id,source_of_truth,source_url,strain_name,thc_min,thc_max,thc,cbd_min,cbd_max,cbd,terpenes,effects,flavors,flowering_day_min,flowering_day_max,grow_difficulty,lineage,height_indoor_min_cm,height_indoor_max_cm,scraped_at
+1,True,https://mephistogenetics.com/products/canna-cheese-1-1,Canna Cheese,,,,,,,,"euphoric, energetic",,56.0,63.0,,,,,2025-01-27T10:00:00Z
+2,True,https://neptuneseedbank.com/product/sour-crack,Sour Crack,19.0,19.0,19.0,,,,,,"Fruity, Sour",60.0,70.0,,,,,2025-01-27T10:00:00Z
+3,False,https://example.com/no-html,Test Strain,,,,,,,Existing terpenes,,,,,Easy,,,,2025-01-27T10:00:00Z
+4,True,https://neptuneseedbank.com/product/honey-melon-rolex-strain/,Honey Melon Rolex,,,,,,,,,,,,,,,,2025-01-27T10:00:00Z
+5,True,https://mephistogenetics.com/products/mephistoz,Mephistoz,,,,,,,,,,70.0,56.0,Expert,,,,2025-01-27T10:00:00Z
