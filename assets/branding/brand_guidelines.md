@@ -1,32 +1,35 @@
 # CI-Strains Brand & Badge Guidelines
 
 ## 🌿 The "Powered by CI" Promise
-The **Cannabis Intelligence (CI)** badge is a seal of data integrity. When displayed, it signifies that the underlying dataset or application is powered by the CI-Strains database—a product of rigorous manual normalization and AI-driven validation.
+The **Cannabis Intelligence (CI)** badge is a visual seal of data integrity.  
+When displayed, it certifies that the underlying dataset or application is powered by the CI-Strains database — a product of rigorous manual normalization, AI-driven validation, and human oversight.
 
 ## 1. Official Badge Assets
-All official assets are located in the `/assets/branding/` folder of this repository.
+All files are in `/assets/branding/` in this repository:
 
-* **SVG Format**: Recommended for web use to ensure crisp scaling at any resolution.
-* **PNG Format**: Provided for legacy systems or simple document embedding.
+- `ci-badge-color.svg` — Full-color version (recommended for most uses)
+- `ci-badge-white.svg` — White monochrome (dark backgrounds)
+- `ci-badge-black.svg` — Black monochrome (light backgrounds/print)
+- PNG versions available for legacy needs
 
 ## 2. Usage Tiers
-* **Personal Use**: You are encouraged to display the badge on personal grow logs or research projects.
-* **Commercial Use**: Use of the badge is required for all holders of a Commercial License when displaying CI data publicly (e.g., on a seed bank product page).
+- **Personal Use**: Encouraged on grow logs, blogs, research projects, or non-commercial sites.
+- **Commercial Use**: Required for all Commercial License holders when displaying CI data publicly (e.g., product pages, apps, marketing).
 
 ## 3. Visual Requirements
-To maintain the professional "Intelligence" aesthetic, please follow these rules:
+To preserve the professional "Intelligence" aesthetic:
 
-* **Clear Space**: Maintain a minimum "breathing room" around the badge equal to the height of the "C" in "Cannabis".
-* **No Distortion**: Do not stretch, skew, or rotate the logo.
-* **Color Selection**:
-    * Use the **Full Color** badge on white or light-grey backgrounds.
-    * Use the **White Monochrome** badge on dark or high-contrast backgrounds.
-    * Use the **Black Monochrome** badge for grayscale print materials.
+- **Clear Space**: Minimum breathing room around the badge = height of the "C" in "Cannabis".
+- **No Distortion**: Never stretch, skew, rotate, or recolor the badge.
+- **Color Guidelines**:
+  - Full Color → white/light-grey backgrounds
+  - White Monochrome → dark/high-contrast backgrounds
+  - Black Monochrome → grayscale/print materials
 
-## 4. Link & Attribution
-Whenever the badge is used on a website or app, it must link back to the official repository to allow users to verify the data provenance:
-`https://github.com/your-username/ci-strains-pro`
+## 4. Linking & Attribution
+On websites/apps, always link the badge back to the source repo for verification:
 
-## 5. Prohibited Use
-* Do not use the CI badge to imply endorsement of non-validated data or illegal activities.
-* Do not modify the "Power Icon" leaf or the typography.
+```html
+<a href="https://github.com/Shannon-Goddard/ci-strains-pro" target="_blank">
+  <img src="path/to/ci-badge-color.svg" alt="Powered by Cannabis Intelligence" width="200">
+</a>
