@@ -3,7 +3,7 @@
 **Current Status (as of Jan 11, 2026)**  
 🔄 Phase 3 Enhanced S3 Extraction | **14,840 strains** | Revenue YTD: **$0**  
 Source of Truth: **100% complete** | HTML archive coverage: **100%**  
-Costs so far: Bright Data $41.25 • Vertex AI $0 (credits) • ScrapingBee $49.99 • AWS $10.77  
+Costs so far: Bright Data $41.27 • Vertex AI $0 (credits) • ScrapingBee $49.99 • AWS $12.46 
 
 **Transparent daily(ish) chronicle of building the world's most rigorous cannabis dataset ecosystem.**  
 Solo dev, real costs, real setbacks, real breakthroughs.
