@@ -1,0 +1,219 @@
+2026-01-13 16:11:12,618 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-01-13 16:11:13,993 - INFO - AWS CLI available: aws-cli/2.31.27 Python/3.13.9 Windows/11 exe/AMD64
+2026-01-13 16:11:15,412 - INFO - Successfully retrieved secret: cannabis-brightdata-api
+2026-01-13 16:11:16,627 - INFO - Successfully retrieved secret: cannabis_scrapingbee_api
+2026-01-13 16:11:16,627 - INFO - Retrieved credentials: BRIGHT_DATA_USERNAME, BRIGHT_DATA_PASSWORD, BRIGHT_DATA_ENDPOINT, SCRAPINGBEE_API_KEY
+2026-01-13 16:11:16,627 - INFO - Credentials loaded
+2026-01-13 16:11:16,627 - INFO - Starting catalog collection for 201 pages
+2026-01-13 16:11:16,631 - INFO - Processing 50 catalog pages...
+2026-01-13 16:11:19,830 - INFO - PASS Amsterdam Marijuana Seeds - Found 12 products
+2026-01-13 16:11:21,294 - INFO - PASS Gorilla Seeds Bank - Found 27 products
+2026-01-13 16:11:23,739 - INFO - PASS Herbies Head Shop - Found 0 products
+2026-01-13 16:11:25,143 - INFO - PASS Herbies Head Shop - Found 0 products
+2026-01-13 16:11:27,120 - INFO - PASS Gorilla Seeds Bank - Found 25 products
+2026-01-13 16:11:28,155 - INFO - PASS Herbies Head Shop - Found 0 products
+2026-01-13 16:11:28,610 - INFO - PASS Herbies Head Shop - Found 0 products
+2026-01-13 16:11:29,368 - INFO - PASS Gorilla Seeds Bank - Found 26 products
+2026-01-13 16:11:30,077 - INFO - PASS Herbies Head Shop - Found 0 products
+2026-01-13 16:11:32,420 - INFO - PASS Gorilla Seeds Bank - Found 27 products
+2026-01-13 16:11:35,068 - INFO - PASS Herbies Head Shop - Found 0 products
+2026-01-13 16:11:37,057 - INFO - PASS Herbies Head Shop - Found 0 products
+2026-01-13 16:11:38,741 - INFO - PASS Gorilla Seeds Bank - Found 22 products
+2026-01-13 16:11:41,810 - INFO - PASS Herbies Head Shop - Found 0 products
+2026-01-13 16:11:44,766 - INFO - PASS Herbies Head Shop - Found 0 products
+2026-01-13 16:11:47,010 - INFO - PASS Herbies Head Shop - Found 0 products
+2026-01-13 16:11:48,427 - INFO - PASS Gorilla Seeds Bank - Found 25 products
+2026-01-13 16:11:49,525 - INFO - PASS Gorilla Seeds Bank - Found 26 products
+2026-01-13 16:11:51,269 - INFO - PASS Gorilla Seeds Bank - Found 26 products
+2026-01-13 16:11:53,058 - INFO - PASS Gorilla Seeds Bank - Found 27 products
+2026-01-13 16:11:55,120 - INFO - PASS Gorilla Seeds Bank - Found 28 products
+2026-01-13 16:11:57,845 - INFO - PASS Amsterdam Marijuana Seeds - Found 12 products
+2026-01-13 16:12:00,396 - INFO - PASS Herbies Head Shop - Found 0 products
+2026-01-13 16:12:02,665 - INFO - PASS Herbies Head Shop - Found 0 products
+2026-01-13 16:12:03,812 - INFO - PASS Gorilla Seeds Bank - Found 25 products
+2026-01-13 16:12:05,070 - INFO - PASS Herbies Head Shop - Found 0 products
+2026-01-13 16:12:06,015 - INFO - PASS Herbies Head Shop - Found 0 products
+2026-01-13 16:12:06,561 - INFO - PASS Amsterdam Marijuana Seeds - Found 12 products
+2026-01-13 16:12:07,174 - INFO - PASS Gorilla Seeds Bank - Found 25 products
+2026-01-13 16:12:07,724 - INFO - PASS Gorilla Seeds Bank - Found 23 products
+2026-01-13 16:12:08,294 - INFO - PASS Gorilla Seeds Bank - Found 25 products
+2026-01-13 16:12:09,091 - INFO - PASS Amsterdam Marijuana Seeds - Found 12 products
+2026-01-13 16:12:09,561 - INFO - PASS Amsterdam Marijuana Seeds - Found 12 products
+2026-01-13 16:12:10,019 - INFO - PASS Amsterdam Marijuana Seeds - Found 12 products
+2026-01-13 16:12:10,465 - INFO - PASS Amsterdam Marijuana Seeds - Found 12 products
+2026-01-13 16:12:11,277 - INFO - PASS Amsterdam Marijuana Seeds - Found 12 products
+2026-01-13 16:12:11,648 - INFO - PASS Amsterdam Marijuana Seeds - Found 7 products
+2026-01-13 16:12:12,026 - INFO - PASS Amsterdam Marijuana Seeds - Found 12 products
+2026-01-13 16:12:12,410 - INFO - PASS Amsterdam Marijuana Seeds - Found 12 products
+2026-01-13 16:12:13,158 - INFO - PASS Amsterdam Marijuana Seeds - Found 12 products
+2026-01-13 16:12:13,534 - INFO - PASS Amsterdam Marijuana Seeds - Found 12 products
+2026-01-13 16:12:13,905 - INFO - PASS Amsterdam Marijuana Seeds - Found 12 products
+2026-01-13 16:12:14,656 - INFO - PASS Herbies Head Shop - Found 0 products
+2026-01-13 16:12:15,162 - INFO - PASS Herbies Head Shop - Found 0 products
+2026-01-13 16:12:15,553 - INFO - PASS Herbies Head Shop - Found 0 products
+2026-01-13 16:12:15,902 - INFO - PASS Herbies Head Shop - Found 0 products
+2026-01-13 16:12:16,384 - INFO - PASS Herbies Head Shop - Found 0 products
+2026-01-13 16:12:27,548 - INFO - PASS Herbies Head Shop - Found 0 products
+2026-01-13 16:12:48,162 - INFO - PASS Herbies Head Shop - Found 0 products
+2026-01-13 16:12:48,979 - INFO - PASS Herbies Head Shop - Found 0 products
+2026-01-13 16:12:48,980 - INFO - Progress: 50/201 catalogs | 520 products discovered
+2026-01-13 16:12:48,981 - INFO - Processing 50 catalog pages...
+2026-01-13 16:12:52,116 - INFO - PASS Gorilla Seeds Bank - Found 26 products
+2026-01-13 16:12:54,711 - INFO - PASS Gorilla Seeds Bank - Found 24 products
+2026-01-13 16:12:56,819 - INFO - PASS Gorilla Seeds Bank - Found 26 products
+2026-01-13 16:12:59,239 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:13:01,173 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:13:03,480 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:13:05,645 - INFO - PASS Gorilla Seeds Bank - Found 25 products
+2026-01-13 16:13:07,713 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:13:10,102 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:13:12,199 - INFO - PASS Gorilla Seeds Bank - Found 27 products
+2026-01-13 16:13:14,373 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:13:16,667 - INFO - PASS Gorilla Seeds Bank - Found 27 products
+2026-01-13 16:13:18,583 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:13:20,936 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:13:25,394 - INFO - PASS Gorilla Seeds Bank - Found 28 products
+2026-01-13 16:13:27,510 - INFO - PASS Gorilla Seeds Bank - Found 24 products
+2026-01-13 16:13:30,365 - INFO - PASS Gorilla Seeds Bank - Found 25 products
+2026-01-13 16:13:32,501 - INFO - PASS Gorilla Seeds Bank - Found 25 products
+2026-01-13 16:13:34,497 - INFO - PASS Gorilla Seeds Bank - Found 24 products
+2026-01-13 16:13:37,134 - INFO - PASS Gorilla Seeds Bank - Found 25 products
+2026-01-13 16:13:39,037 - INFO - PASS Gorilla Seeds Bank - Found 27 products
+2026-01-13 16:13:43,787 - INFO - PASS Gorilla Seeds Bank - Found 25 products
+2026-01-13 16:13:46,003 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:13:48,313 - INFO - PASS Gorilla Seeds Bank - Found 25 products
+2026-01-13 16:13:53,063 - INFO - PASS Gorilla Seeds Bank - Found 26 products
+2026-01-13 16:14:00,432 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:14:01,853 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:14:09,434 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:14:11,116 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:14:15,612 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:14:18,046 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:14:22,364 - INFO - PASS Gorilla Seeds Bank - Found 26 products
+2026-01-13 16:14:34,272 - INFO - PASS Gorilla Seeds Bank - Found 28 products
+2026-01-13 16:14:38,517 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:14:42,426 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:14:46,586 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:14:55,680 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:14:56,988 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:14:58,922 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:15:05,938 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:15:14,011 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:15:17,391 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:15:28,207 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:15:31,477 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:15:37,544 - INFO - PASS Gorilla Seeds Bank - Found 23 products
+2026-01-13 16:15:52,371 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:15:55,798 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:15:59,618 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:16:05,615 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:16:07,678 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:16:07,679 - INFO - Progress: 100/201 catalogs | 1,905 products discovered
+2026-01-13 16:16:07,680 - INFO - Processing 50 catalog pages...
+2026-01-13 16:16:11,964 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:16:13,957 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:16:15,904 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:16:17,945 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:16:18,476 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:16:19,247 - INFO - PASS Gorilla Seeds Bank - Found 26 products
+2026-01-13 16:16:19,811 - INFO - PASS Gorilla Seeds Bank - Found 27 products
+2026-01-13 16:16:20,461 - INFO - PASS Gorilla Seeds Bank - Found 24 products
+2026-01-13 16:16:22,366 - INFO - PASS Gorilla Seeds Bank - Found 30 products
+2026-01-13 16:16:22,941 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:16:23,438 - INFO - PASS Gorilla Seeds Bank - Found 25 products
+2026-01-13 16:16:24,028 - INFO - PASS Gorilla Seeds Bank - Found 28 products
+2026-01-13 16:16:24,815 - INFO - PASS Gorilla Seeds Bank - Found 28 products
+2026-01-13 16:16:25,606 - INFO - PASS Gorilla Seeds Bank - Found 28 products
+2026-01-13 16:16:27,566 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:16:28,135 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:16:30,222 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:16:32,885 - INFO - PASS Gorilla Seeds Bank - Found 16 products
+2026-01-13 16:16:34,980 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:16:36,819 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:16:37,377 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:16:39,387 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:16:41,387 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:16:43,343 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:16:45,334 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:16:47,466 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:16:49,586 - INFO - PASS Gorilla Seeds Bank - Found 30 products
+2026-01-13 16:16:51,734 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:16:53,751 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:16:55,741 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:16:57,728 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:16:59,704 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:17:01,800 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:17:02,515 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:17:03,185 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:17:05,907 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:17:06,977 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:17:09,191 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:17:11,749 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:17:12,398 - INFO - PASS Gorilla Seeds Bank - Found 25 products
+2026-01-13 16:17:14,390 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:17:16,441 - INFO - PASS Gorilla Seeds Bank - Found 30 products
+2026-01-13 16:17:18,385 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:17:18,821 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:17:19,399 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:17:19,907 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:17:21,071 - INFO - PASS Gorilla Seeds Bank - Found 27 products
+2026-01-13 16:17:23,107 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:17:23,613 - INFO - PASS Gorilla Seeds Bank - Found 26 products
+2026-01-13 16:17:24,176 - INFO - PASS Gorilla Seeds Bank - Found 25 products
+2026-01-13 16:17:24,178 - INFO - Progress: 150/201 catalogs | 3,315 products discovered
+2026-01-13 16:17:24,179 - INFO - Processing 50 catalog pages...
+2026-01-13 16:17:25,556 - INFO - PASS Tiki Madman - Found 0 products
+2026-01-13 16:17:25,892 - INFO - PASS Compound Genetics - Found 1 products
+2026-01-13 16:17:26,258 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:17:26,529 - INFO - PASS Original Seeds Store - Found 0 products
+2026-01-13 16:17:27,402 - INFO - PASS Zamnesia - Found 0 products
+2026-01-13 16:17:28,293 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:17:28,907 - INFO - PASS Gorilla Seeds Bank - Found 25 products
+2026-01-13 16:17:29,419 - INFO - PASS Gorilla Seeds Bank - Found 30 products
+2026-01-13 16:17:29,791 - INFO - PASS Exotic Genetix - Found 0 products
+2026-01-13 16:17:30,187 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:17:30,490 - INFO - PASS Exotic Genetix - Found 0 products
+2026-01-13 16:17:30,870 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:17:31,158 - INFO - PASS Exotic Genetix - Found 0 products
+2026-01-13 16:17:31,438 - INFO - PASS Exotic Genetix - Found 0 products
+2026-01-13 16:17:31,817 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:17:32,305 - INFO - PASS Exotic Genetix - Found 0 products
+2026-01-13 16:17:33,755 - INFO - PASS Exotic Genetix - Found 0 products
+2026-01-13 16:17:34,452 - INFO - PASS Exotic Genetix - Found 0 products
+2026-01-13 16:17:34,733 - INFO - PASS Exotic Genetix - Found 0 products
+2026-01-13 16:17:35,486 - INFO - PASS Zamnesia - Found 0 products
+2026-01-13 16:17:35,761 - INFO - PASS Exotic Genetix - Found 0 products
+2026-01-13 16:17:36,125 - INFO - PASS Exotic Genetix - Found 0 products
+2026-01-13 16:17:36,426 - INFO - PASS Exotic Genetix - Found 0 products
+2026-01-13 16:17:36,717 - INFO - PASS Exotic Genetix - Found 0 products
+2026-01-13 16:17:36,989 - INFO - PASS Exotic Genetix - Found 0 products
+2026-01-13 16:17:37,304 - INFO - PASS Exotic Genetix - Found 0 products
+2026-01-13 16:17:38,046 - INFO - PASS Zamnesia - Found 0 products
+2026-01-13 16:17:38,860 - INFO - PASS Exotic Genetix - Found 0 products
+2026-01-13 16:17:39,773 - INFO - PASS Zamnesia - Found 0 products
+2026-01-13 16:17:40,701 - INFO - PASS Zamnesia - Found 0 products
+2026-01-13 16:17:41,392 - INFO - PASS Gorilla Seeds Bank - Found 30 products
+2026-01-13 16:17:41,674 - INFO - PASS Exotic Genetix - Found 0 products
+2026-01-13 16:17:41,971 - INFO - PASS Exotic Genetix - Found 0 products
+2026-01-13 16:17:42,232 - INFO - PASS Compound Genetics - Found 1 products
+2026-01-13 16:17:42,650 - INFO - PASS Compound Genetics - Found 1 products
+2026-01-13 16:17:43,393 - INFO - PASS Zamnesia - Found 0 products
+2026-01-13 16:17:44,259 - INFO - PASS Zamnesia - Found 0 products
+2026-01-13 16:17:44,521 - INFO - PASS Original Seeds Store - Found 0 products
+2026-01-13 16:17:45,636 - INFO - PASS Zamnesia - Found 0 products
+2026-01-13 16:17:46,554 - INFO - PASS Zamnesia - Found 0 products
+2026-01-13 16:17:46,930 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:17:47,232 - INFO - PASS Exotic Genetix - Found 0 products
+2026-01-13 16:17:47,629 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:17:48,049 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:17:49,392 - INFO - PASS Zamnesia - Found 0 products
+2026-01-13 16:17:50,512 - INFO - PASS Gorilla Seeds Bank - Found 29 products
+2026-01-13 16:17:50,844 - INFO - PASS Exotic Genetix - Found 0 products
+2026-01-13 16:17:51,121 - INFO - PASS Exotic Genetix - Found 0 products
+2026-01-13 16:17:51,432 - INFO - PASS Exotic Genetix - Found 0 products
+2026-01-13 16:17:51,725 - INFO - PASS Exotic Genetix - Found 0 products
+2026-01-13 16:17:51,727 - INFO - Progress: 200/201 catalogs | 3,664 products discovered
+2026-01-13 16:17:51,729 - INFO - Processing 1 catalog pages...
+2026-01-13 16:17:52,354 - INFO - PASS Compound Genetics - Found 1 products
+2026-01-13 16:17:52,356 - INFO - Progress: 201/201 catalogs | 3,665 products discovered
+2026-01-13 16:17:52,362 - INFO - Collection complete! Discovered 3,665 product URLs

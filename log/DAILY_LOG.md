@@ -80,7 +80,37 @@ Solo dev, real costs, real setbacks, real breakthroughs.
 - **Coverage**: 100% on 4 banks, 22 Professional tier strains identified
 - **Impact**: 878 strains (5.9%) excluded but quality standards maintained
 
-**Next up**: Rescrape Seedsman website for S3 bucket we will continue tomorrow.
+### Jan 13 – Pipeline 06: Elite Seedbanks & 20K Milestone
+- 🎉 **BROKE 20,000 STRAINS!** 🎉
+- **New Seedbanks Maximum Extraction**:  (from Pipeline 04 collection)
+  - Crop King: 3,336 strains (97 cols, 54.1% quality) - 582 Professional + 2,754 Standard
+  - Sensi Seeds: 620 strains (131 cols, 46.7% quality) - 95 Professional + 386 Standard + 139 Basic
+  - Barney's Farm: 88 strains (94 cols, 60.6% quality) - 80 Professional + 5 Standard + 3 Basic
+  - ILGM: 36 strains (52 cols, 27.3% quality) - 1 Standard + 35 Basic
+  - **Total**: 4,080 strains extracted using Dutch Passion 8-method pipeline
+- **Elite Seedbanks Collection System**: 
+  - Phase 1: URL Discovery - 3,154 URLs discovered (5 seedbanks)
+    - Simple crawler: 2,174 URLs (Gorilla, Amsterdam, Compound)
+    - Bulletproof crawler (ScrapingBee): 980 URLs (Herbies, Exotic Genetix)
+    - Failed: Zamnesia, Original Seeds, Tiki Madman (strong bot protection)
+  - Phase 2: HTML Collection - 3,153 pages collected (100% success rate)
+    - Collection time: 1 hour 23 minutes
+    - S3 encrypted storage: `ci-strains-html-archive/pipeline06/`
+    - Archive expanded: 16,623 → 19,776 pages (+19.0%)
+  - Phase 3: Maximum Extraction - 3,153 strains extracted (10 min 38 sec)
+    - 5 individual CSVs with custom columns per seedbank
+    - Gorilla: 2,009 strains (19 cols, 47.9% quality)
+    - Herbies: 753 strains (19 cols, 79.9% quality) ⭐
+    - Exotic Genetix: 227 strains (13 cols, 33.8% quality)
+    - Amsterdam: 163 strains (17 cols, 37.7% quality)
+    - Compound: 1 strain (9 cols, 25.2% quality)
+- **Database Milestone**: 17,243 → **20,396 total strains** (exceeded 20K by 396!)
+- **Combined Pipeline 05 + 06**: 7,233 strains added in one day
+- **Market Tiers**: 540 Enterprise (17.1%), 808 Professional (25.6%), 738 Standard (23.4%)
+- **System**: 8-method extraction pipeline, bulletproof ScrapingBee methodology
+- **Full credit**: Amazon Q (architecture, execution, extraction) | Verified by Shannon Goddard
+
+**Next up**: Phase 4 planning or additional seedbank expansion??? Procrastinating trying to get Seedsman extracted.
 
 ## February 2026
 

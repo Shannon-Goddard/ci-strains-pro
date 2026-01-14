@@ -1,0 +1,1025 @@
+2026-01-13 08:06:28,568 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-01-13 08:06:30,164 - INFO - AWS CLI available: aws-cli/2.31.27 Python/3.13.9 Windows/11 exe/AMD64
+2026-01-13 08:06:31,527 - INFO - Successfully retrieved secret: cannabis-brightdata-api
+2026-01-13 08:06:32,708 - INFO - Successfully retrieved secret: cannabis_scrapingbee_api
+2026-01-13 08:06:32,708 - INFO - Retrieved credentials: BRIGHT_DATA_USERNAME, BRIGHT_DATA_PASSWORD, BRIGHT_DATA_ENDPOINT, SCRAPINGBEE_API_KEY
+2026-01-13 08:06:32,708 - INFO - Credentials loaded successfully
+2026-01-13 08:06:32,709 - INFO - Starting COMPLETE seedbank crawling and collection system
+2026-01-13 08:06:32,715 - INFO - Starting comprehensive seedbank crawling for ALL strain URLs
+2026-01-13 08:06:32,715 - INFO - Crawling sensiseeds.us starting from https://sensiseeds.us/cannabis-seeds/
+2026-01-13 08:06:32,715 - INFO - Crawling page 1 on sensiseeds.us: https://sensiseeds.us/cannabis-seeds/
+2026-01-13 08:06:35,250 - INFO - Crawling page 2 on sensiseeds.us: https://sensiseeds.us/breeding-grounds/
+2026-01-13 08:06:39,791 - INFO - Crawling page 3 on sensiseeds.us: https://sensiseeds.us/cdn-cgi/l/email-protection#43303633332c31370330262d302a30262627306d3630
+2026-01-13 08:06:39,808 - INFO - Crawling page 4 on sensiseeds.us: https://sensiseeds.us/breeding-grounds/fat-beans/
+2026-01-13 08:06:43,319 - INFO - Crawling page 5 on sensiseeds.us: https://sensiseeds.us/privacy-policy/
+2026-01-13 08:06:46,494 - INFO - Crawling page 6 on sensiseeds.us: https://service.sensiseeds.us/hc/en-us/sections/9452518779164-Order-Questions
+2026-01-13 08:06:49,292 - INFO - Crawling page 7 on sensiseeds.us: https://sensiseeds.us/legal-disclaimer/
+2026-01-13 08:06:52,575 - INFO - Crawling page 8 on sensiseeds.us: https://sensiseeds.us/breeding-grounds/aficionado/
+2026-01-13 08:06:56,014 - INFO - Crawling page 9 on sensiseeds.us: https://sensiseeds.us/wp-login.php?redirect_to=https%3A%2F%2Fsensiseeds.us%2Fbreeding-grounds%2Faficionado%2F
+2026-01-13 08:06:58,650 - INFO - Crawling page 10 on sensiseeds.us: https://sensiseeds.us/cdn-cgi/l/email-protection#95e6e0e5e5fae7e1d5e6f0fbe6fce6f0f0f1e6bbe0e6
+2026-01-13 08:06:58,677 - INFO - Crawling page 11 on sensiseeds.us: https://sensiseeds.us/wp-login.php?redirect_to=https%3A%2F%2Fsensiseeds.us%2Fcannabis-seeds%2F
+2026-01-13 08:07:01,292 - INFO - Crawling page 12 on sensiseeds.us: https://sensiseeds.us/refund-returns-policy/
+2026-01-13 08:07:04,519 - INFO - Crawling page 13 on sensiseeds.us: https://sensiseeds.us/wp-login.php?redirect_to=https%3A%2F%2Fsensiseeds.us%2Fbreeding-grounds%2Ffat-beans%2F
+2026-01-13 08:07:07,105 - INFO - Crawling page 14 on sensiseeds.us: https://service.sensiseeds.us/hc/en-us/sections/9534941888284-Product-Questions
+2026-01-13 08:07:09,458 - INFO - Crawling page 15 on sensiseeds.us: https://sensiseeds.us/cdn-cgi/l/email-protection#b7c4c2c7c7d8c5c3f7c4d2d9c4dec4d2d2d3c499c2c4
+2026-01-13 08:07:09,474 - INFO - Crawling page 16 on sensiseeds.us: https://sensiseeds.us/cannabis-seeds/page/2/
+2026-01-13 08:07:14,239 - INFO - Crawling page 17 on sensiseeds.us: https://sensiseeds.us/breeding-grounds/#content
+2026-01-13 08:07:16,413 - INFO - Crawling page 18 on sensiseeds.us: https://sensiseeds.us/cannabis-seeds/#content
+2026-01-13 08:07:18,590 - INFO - Crawling page 19 on sensiseeds.us: https://sensiseeds.us/
+2026-01-13 08:07:20,729 - INFO - Crawling page 20 on sensiseeds.us: https://service.sensiseeds.us/hc/en-us/articles/9545983147164-What-are-feminized-cannabis-seeds
+2026-01-13 08:07:23,337 - INFO - Crawling page 21 on sensiseeds.us: https://sensiseeds.us/wp-login.php?redirect_to=https%3A%2F%2Fsensiseeds.us%2Flegal-disclaimer%2F
+2026-01-13 08:07:25,967 - INFO - Crawling page 22 on sensiseeds.us: https://service.sensiseeds.us/hc/en-us/articles/9545684966940-How-do-I-change-my-address
+2026-01-13 08:07:28,609 - INFO - Crawling page 23 on sensiseeds.us: https://service.sensiseeds.us/hc/en-us/sections/9534940305052-Payment-Questions
+2026-01-13 08:07:31,184 - INFO - Crawling page 24 on sensiseeds.us: https://sensiseeds.us/cannabis-seeds/page/1/
+2026-01-13 08:07:34,072 - INFO - Crawling page 25 on sensiseeds.us: https://sensiseeds.us/cdn-cgi/l/email-protection#55262025253a27211526303b263c26303031267b2026
+2026-01-13 08:07:34,090 - INFO - Crawling page 26 on sensiseeds.us: https://sensiseeds.us/wp-login.php?redirect_to=https%3A%2F%2Fsensiseeds.us%2Fcannabis-seeds%2Fpage%2F2%2F
+2026-01-13 08:07:36,699 - INFO - Crawling page 27 on sensiseeds.us: https://sensiseeds.us/shopping-cart/
+2026-01-13 08:07:39,971 - INFO - Crawling page 28 on sensiseeds.us: https://sensiseeds.us/wp-login.php?redirect_to=https%3A%2F%2Fsensiseeds.us%2Frefund-returns-policy%2F
+2026-01-13 08:07:42,544 - INFO - Crawling page 29 on sensiseeds.us: https://sensiseeds.us/my-account
+2026-01-13 08:07:46,328 - INFO - Crawling page 30 on sensiseeds.us: https://sensiseeds.us/breeding-grounds/sherbinskis/
+2026-01-13 08:07:49,876 - INFO - Crawling page 31 on sensiseeds.us: https://service.sensiseeds.us/hc/en-us
+2026-01-13 08:07:52,487 - INFO - Crawling page 32 on sensiseeds.us: https://sensiseeds.us/legal-disclaimer/#content
+2026-01-13 08:07:54,627 - INFO - Crawling page 33 on sensiseeds.us: https://sensiseeds.us/wp-login.php?redirect_to=https%3A%2F%2Fsensiseeds.us%2Fmy-account%2F
+2026-01-13 08:07:57,254 - INFO - Crawling page 34 on sensiseeds.us: https://sensiseeds.us/shopping-cart
+2026-01-13 08:08:01,174 - INFO - Crawling page 35 on sensiseeds.us: https://service.sensiseeds.us/hc/en-us/articles/11740800795420-Which-strains-have-the-most-sativa-in-them
+2026-01-13 08:08:03,786 - INFO - Crawling page 36 on sensiseeds.us: https://service.sensiseeds.us/hc/en-us/articles/9544727459356-How-do-I-view-the-status-of-my-current-order
+2026-01-13 08:08:06,453 - INFO - Crawling page 37 on sensiseeds.us: https://sensiseeds.us/wp-login.php?redirect_to=https%3A%2F%2Fsensiseeds.us%2F
+2026-01-13 08:08:09,107 - INFO - Crawling page 38 on sensiseeds.us: https://service.sensiseeds.us/hc/en-us/articles/9546403663644-How-secure-easy-discreet-fast-are-the-different-payment-methods
+2026-01-13 08:08:11,778 - INFO - Crawling page 39 on sensiseeds.us: https://sensiseeds.us/cdn-cgi/l/email-protection#f5868085859a8781b586909b869c8690909186db8086
+2026-01-13 08:08:11,798 - INFO - Crawling page 40 on sensiseeds.us: https://sensiseeds.us/returns-policy/
+2026-01-13 08:08:14,868 - INFO - Crawling page 41 on sensiseeds.us: https://service.sensiseeds.us/hc/en-us/articles/9545808046364-What-s-the-difference-between-indica-and-sativa
+2026-01-13 08:08:17,500 - INFO - Crawling page 42 on sensiseeds.us: https://sensiseeds.us/cdn-cgi/l/email-protection#f98a8c8989968b8db98a9c978a908a9c9c9d8ad78c8a
+2026-01-13 08:08:17,518 - INFO - Crawling page 43 on sensiseeds.us: https://service.sensiseeds.us/hc/en-us/articles/9545777414428-What-s-the-difference-between-Sensi-Seeds-and-White-Label-Seeds
+2026-01-13 08:08:20,127 - INFO - Crawling page 44 on sensiseeds.us: https://sensiseeds.us/cdn-cgi/l/email-protection#23505653534c51576350464d504a50464647500d5650
+2026-01-13 08:08:20,144 - INFO - Crawling page 45 on sensiseeds.us: https://sensiseeds.us/cannabis-seeds/page/1/#content
+2026-01-13 08:08:23,092 - INFO - Crawling page 46 on sensiseeds.us: https://service.sensiseeds.us/hc/en-us/articles/9546481511964-Will-all-of-my-seeds-germinate
+2026-01-13 08:08:25,761 - INFO - Crawling page 47 on sensiseeds.us: https://sensiseeds.us/wp-login.php?redirect_to=https%3A%2F%2Fsensiseeds.us%2Fprivacy-policy%2F
+2026-01-13 08:08:28,311 - INFO - Crawling page 48 on sensiseeds.us: https://sensiseeds.us/my-account#login
+2026-01-13 08:08:32,163 - INFO - Crawling page 49 on sensiseeds.us: https://service.sensiseeds.us/hc/en-us/articles/9546143340956-Will-all-plants-grown-from-feminized-cannabis-seeds-be-female
+2026-01-13 08:08:34,889 - INFO - Crawling page 50 on sensiseeds.us: https://sensiseeds.us/cdn-cgi/l/email-protection#e89b9d9898879a9ca89b8d869b819b8d8d8c9bc69d9b
+2026-01-13 08:08:34,906 - INFO - Crawling page 51 on sensiseeds.us: https://service.sensiseeds.us/hc/en-us/articles/9546117918620-Which-cannabis-seed-strains-are-most-suitable-for-beginners
+2026-01-13 08:08:37,556 - INFO - Crawling page 52 on sensiseeds.us: https://service.sensiseeds.us/hc/en-us/articles/9546292994204-How-do-I-cancel-an-order
+2026-01-13 08:08:40,232 - INFO - Crawling page 53 on sensiseeds.us: https://sensiseeds.us/cdn-cgi/l/email-protection#3d4e484d4d524f497d4e58534e544e5858594e13484e
+2026-01-13 08:08:40,252 - INFO - Crawling page 54 on sensiseeds.us: https://sensiseeds.us/military-discount/
+2026-01-13 08:08:43,491 - INFO - Crawling page 55 on sensiseeds.us: https://sensiseeds.us/wp-login.php?action=lostpassword
+2026-01-13 08:08:46,157 - INFO - Crawling page 56 on sensiseeds.us: https://service.sensiseeds.us/hc/en-us/articles/9544671168028-How-can-I-check-that-you-have-received-my-order-#scrollto
+2026-01-13 08:08:49,063 - INFO - Crawling page 57 on sensiseeds.us: https://service.sensiseeds.us/hc/en-us/articles/9546421420316-How-do-I-find-the-batch-number-on-my-seeds
+2026-01-13 08:08:51,762 - INFO - Crawling page 58 on sensiseeds.us: https://sensiseeds.us/cdn-cgi/l/email-protection#64171114140b16102417010a170d17010100174a1117
+2026-01-13 08:08:51,781 - INFO - Crawling page 59 on sensiseeds.us: https://sensiseeds.us/cdn-cgi/l/email-protection#d2a1a7a2a2bda0a692a1b7bca1bba1b7b7b6a1fca7a1
+2026-01-13 08:08:51,806 - INFO - Crawling page 60 on sensiseeds.us: https://sensiseeds.us/cannabis-seeds/?_indicasativa=indica
+2026-01-13 08:08:56,581 - INFO - Crawling page 61 on sensiseeds.us: https://sensiseeds.us/cannabis-seeds/?_indicasativa=sativa-indica-hybrid
+2026-01-13 08:09:01,399 - INFO - Crawling page 62 on sensiseeds.us: https://service.sensiseeds.us/hc/en-us/articles/9546105156636-How-should-cannabis-seeds-be-germinated-
+2026-01-13 08:09:04,276 - INFO - Crawling page 63 on sensiseeds.us: https://service.sensiseeds.us/hc/en-us/articles/9546432471196-What-s-the-difference-between-Indoor-Indoor-Greenhouse-and-Outdoor-strains
+2026-01-13 08:09:07,075 - INFO - Crawling page 64 on sensiseeds.us: mailto:support@sensiseeds.us
+2026-01-13 08:09:07,075 - INFO - Crawling page 65 on sensiseeds.us: https://sensiseeds.us/cdn-cgi/l/email-protection#c4b7b1b4b4abb6b084b7a1aab7adb7a1a1a0b7eab1b7
+2026-01-13 08:09:07,093 - INFO - Crawling page 66 on sensiseeds.us: https://sensiseeds.us/cdn-cgi/l/email-protection#afdcdadfdfc0dddbefdccac1dcc6dccacacbdc81dadc
+2026-01-13 08:09:07,155 - INFO - Crawling page 67 on sensiseeds.us: https://sensiseeds.us/shopping-cart#content
+2026-01-13 08:09:11,338 - INFO - Crawling page 68 on sensiseeds.us: https://sensiseeds.us/cdn-cgi/l/email-protection#03707673736c71774370666d706a70666667702d7670
+2026-01-13 08:09:11,355 - INFO - Crawling page 69 on sensiseeds.us: https://service.sensiseeds.us/hc/en-us/articles/9546186751644-Which-strains-are-your-fastest-biggest-yielding-most-compact
+2026-01-13 08:09:13,960 - INFO - Crawling page 70 on sensiseeds.us: https://service.sensiseeds.us/hc/en-us/articles/9546197331228-How-does-Sensi-Seeds-care-for-its-stock
+2026-01-13 08:09:16,627 - INFO - Crawling page 71 on sensiseeds.us: https://sensiseeds.us/breeding-grounds/sherbinskis/#content
+2026-01-13 08:09:18,805 - INFO - Crawling page 72 on sensiseeds.us: https://service.sensiseeds.us/hc/en-us/articles/9544671168028-How-can-I-check-that-you-have-received-my-order-
+2026-01-13 08:09:21,176 - INFO - Crawling page 73 on sensiseeds.us: https://service.sensiseeds.us/hc/en-us/sections/9452518764188-Shipping-Questions
+2026-01-13 08:09:23,836 - INFO - Crawling page 74 on sensiseeds.us: https://sensiseeds.us/breeding-grounds/aficionado/#content
+2026-01-13 08:09:25,992 - INFO - Crawling page 75 on sensiseeds.us: https://sensiseeds.us/?s=northern+lights&post_type=product
+2026-01-13 08:09:29,764 - INFO - Crawling page 76 on sensiseeds.us: https://sensiseeds.us/shopping-cart/#content
+2026-01-13 08:09:33,071 - INFO - Crawling page 77 on sensiseeds.us: https://sensiseeds.us/wp-login.php?redirect_to=https%3A%2F%2Fsensiseeds.us%2Fcannabis-seeds%2F%3F_indicasativa%3Dsativa-indica-hybrid
+2026-01-13 08:09:35,694 - INFO - Crawling page 78 on sensiseeds.us: https://sensiseeds.us/cdn-cgi/l/email-protection#0c7f797c7c637e784c7f69627f657f6969687f22797f
+2026-01-13 08:09:35,711 - INFO - Crawling page 79 on sensiseeds.us: https://sensiseeds.us/wp-login.php?redirect_to=https%3A%2F%2Fsensiseeds.us%2F%3Fs%3Dnorthern%2Blights%26post_type%3Dproduct
+2026-01-13 08:09:38,493 - INFO - Crawling page 80 on sensiseeds.us: https://sensiseeds.us/breeding-grounds/serge-cannabis/
+2026-01-13 08:09:41,973 - INFO - Crawling page 81 on sensiseeds.us: https://sensiseeds.us/cdn-cgi/l/email-protection#34474144445b46407447515a475d47515150471a4147
+2026-01-13 08:09:41,989 - INFO - Crawling page 82 on sensiseeds.us: https://sensiseeds.us/cannabis-seeds/skunk-1-automatic/
+2026-01-13 08:09:46,553 - INFO - Crawling page 83 on sensiseeds.us: https://sensiseeds.us/cannabis-seeds/page/2/?_indicasativa=indica
+2026-01-13 08:09:49,941 - INFO - Crawling page 84 on sensiseeds.us: https://service.sensiseeds.us/hc/en-us/articles/9546301035804-Sexing-cannabis-plants-is-my-plant-male-or-female
+2026-01-13 08:09:52,600 - INFO - Crawling page 85 on sensiseeds.us: https://sensiseeds.us/cannabis-seeds/?_indicasativa=indica#content
+2026-01-13 08:09:54,771 - INFO - Crawling page 86 on sensiseeds.us: https://sensiseeds.us/cannabis-seeds/skunk-1-automatic/#product-838
+2026-01-13 08:09:58,077 - INFO - Crawling page 87 on sensiseeds.us: https://sensiseeds.us/cdn-cgi/l/email-protection#a0d3d5d0d0cfd2d4e0d3c5ced3c9d3c5c5c4d38ed5d3
+2026-01-13 08:09:58,096 - INFO - Crawling page 88 on sensiseeds.us: https://service.sensiseeds.us/hc/en-us/articles/9546229972892-What-types-of-payment-do-you-accept
+2026-01-13 08:10:00,674 - INFO - Crawling page 89 on sensiseeds.us: https://sensiseeds.us/cdn-cgi/l/email-protection#5f2c2a2f2f302d2b1f2c3a312c362c3a3a3b2c712a2c
+2026-01-13 08:10:00,692 - INFO - Crawling page 90 on sensiseeds.us: https://service.sensiseeds.us/hc/en-us/articles/9546340305820-How-long-do-cannabis-seeds-stay-fresh
+2026-01-13 08:10:03,517 - INFO - Crawling page 91 on sensiseeds.us: https://service.sensiseeds.us/hc/en-us/articles/9546243472156-How-will-my-purchase-appear-on-my-credit-card-or-bank-statement
+2026-01-13 08:10:06,202 - INFO - Crawling page 92 on sensiseeds.us: https://service.sensiseeds.us/hc/en-us/articles/9546252748828-What-are-autoflowering-or-Automatic-cannabis-seeds
+2026-01-13 08:10:08,850 - INFO - Crawling page 93 on sensiseeds.us: https://sensiseeds.us/cannabis-seeds/page/3/
+2026-01-13 08:10:13,095 - INFO - Crawling page 94 on sensiseeds.us: https://service.sensiseeds.us/hc/en-us/articles/9544671168028-How-can-I-check-that-you-have-received-my-order
+2026-01-13 08:10:15,153 - INFO - Crawling page 95 on sensiseeds.us: https://sensiseeds.us/cdn-cgi/l/email-protection#8dfef8fdfde2fff9cdfee8e3fee4fee8e8e9fea3f8fe
+2026-01-13 08:10:15,168 - INFO - Crawling page 96 on sensiseeds.us: https://sensiseeds.us/breeding-grounds/humboldt-seed-company/
+2026-01-13 08:10:18,857 - INFO - Crawling page 97 on sensiseeds.us: https://sensiseeds.us/cdn-cgi/l/email-protection#b2c1c7c2c2ddc0c6f2c1d7dcc1dbc1d7d7d6c19cc7c1
+2026-01-13 08:10:18,876 - INFO - Crawling page 98 on sensiseeds.us: https://sensiseeds.us/refund-returns-policy/#content
+2026-01-13 08:10:21,017 - INFO - Crawling page 99 on sensiseeds.us: https://sensiseeds.us/my-account/
+2026-01-13 08:10:24,187 - INFO - Crawling page 100 on sensiseeds.us: https://sensiseeds.us/breeding-grounds/fat-beans/#content
+2026-01-13 08:10:26,340 - INFO - Completed crawling sensiseeds.us: 109 strain URLs found
+2026-01-13 08:10:26,348 - INFO - Added 109 new URLs from sensiseeds.us
+2026-01-13 08:10:26,348 - INFO - Discovered 109 strain URLs from sensiseeds.us
+2026-01-13 08:10:31,355 - INFO - Crawling californiahempseeds.com starting from https://californiahempseeds.com/shop-all/
+2026-01-13 08:10:31,355 - INFO - Crawling page 1 on californiahempseeds.com: https://californiahempseeds.com/shop-all/
+2026-01-13 08:10:31,422 - INFO - Completed crawling californiahempseeds.com: 0 strain URLs found
+2026-01-13 08:10:31,424 - INFO - Added 0 new URLs from californiahempseeds.com
+2026-01-13 08:10:31,424 - INFO - Discovered 0 strain URLs from californiahempseeds.com
+2026-01-13 08:10:36,430 - INFO - Crawling cropkingseeds.com starting from https://www.cropkingseeds.com/?s=seeds&post_type=product&dgwt_wcas=1
+2026-01-13 08:10:36,430 - INFO - Crawling page 1 on cropkingseeds.com: https://www.cropkingseeds.com/?s=seeds&post_type=product&dgwt_wcas=1
+2026-01-13 08:10:42,182 - INFO - Crawling page 2 on cropkingseeds.com: https://www.cropkingseeds.com
+2026-01-13 08:10:44,503 - INFO - Crawling page 3 on cropkingseeds.com: https://www.cropkingseeds.com/germination-marijuana-seeds/
+2026-01-13 08:10:46,781 - INFO - Crawling page 4 on cropkingseeds.com: https://www.cropkingseeds.com/
+2026-01-13 08:10:49,067 - INFO - Crawling page 5 on cropkingseeds.com: https://www.cropkingseeds.com/variety/hybrid/
+2026-01-13 08:10:51,458 - INFO - Crawling page 6 on cropkingseeds.com: https://www.cropkingseeds.com#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI2NDU5MiIsInRvZ2dsZSI6ZmFsc2V9
+2026-01-13 08:10:53,787 - INFO - Crawling page 7 on cropkingseeds.com: https://www.cropkingseeds.com/autoflowering-seeds/early-miss-marijuana-seeds/
+2026-01-13 08:10:56,075 - INFO - Crawling page 8 on cropkingseeds.com: https://www.cropkingseeds.com/cup-winner-strains/white-widow-marijuana-seeds-3/
+2026-01-13 08:10:58,357 - INFO - Crawling page 9 on cropkingseeds.com: https://www.cropkingseeds.com/regular-marijuana-seeds/alien-og-regular-bcbd-marijuana-seeds/
+2026-01-13 08:11:00,641 - INFO - Crawling page 10 on cropkingseeds.com: https://www.cropkingseeds.com/variety/hybrid/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI2NDU5MiIsInRvZ2dsZSI6ZmFsc2V9
+2026-01-13 08:11:03,064 - INFO - Crawling page 11 on cropkingseeds.com: https://www.cropkingseeds.com/regular-marijuana-seeds/alien-og-regular-bcbd-marijuana-seeds/?add-to-cart=118191
+2026-01-13 08:11:07,467 - INFO - Crawling page 12 on cropkingseeds.com: https://www.cropkingseeds.com/page/216/?s=seeds&post_type=product&dgwt_wcas=1
+2026-01-13 08:11:12,955 - INFO - Crawling page 13 on cropkingseeds.com: https://www.cropkingseeds.com/high-cbd/
+2026-01-13 08:11:15,412 - INFO - Crawling page 14 on cropkingseeds.com: https://www.cropkingseeds.com/faq/
+2026-01-13 08:11:17,650 - INFO - Crawling page 15 on cropkingseeds.com: https://www.cropkingseeds.com/autoflowering-seeds/early-miss-marijuana-seeds/comment-page-17/#comments
+2026-01-13 08:11:19,935 - INFO - Crawling page 16 on cropkingseeds.com: https://www.cropkingseeds.com/discover-monster-cannabis-yields-using-deep-water-culture-dwc/
+2026-01-13 08:11:22,168 - INFO - Crawling page 17 on cropkingseeds.com: https://www.cropkingseeds.com/high-cbd/black-diamond-strain-cbd-marijuana-seeds/
+2026-01-13 08:11:24,444 - INFO - Crawling page 18 on cropkingseeds.com: https://www.cropkingseeds.com/cup-winner-strains/amnesia-haze-marijuana-seeds/
+2026-01-13 08:11:26,773 - INFO - Crawling page 19 on cropkingseeds.com: https://www.cropkingseeds.com/new-strains/
+2026-01-13 08:11:29,192 - INFO - Crawling page 20 on cropkingseeds.com: https://www.cropkingseeds.com/autoflowering-seeds/early-miss-marijuana-seeds/comment-page-15/#comments
+2026-01-13 08:11:31,493 - INFO - Crawling page 21 on cropkingseeds.com: https://www.cropkingseeds.com/regular-marijuana-seeds/alien-og-regular-bcbd-marijuana-seeds/?add-to-cart=118191#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI2NDU5MiIsInRvZ2dsZSI6ZmFsc2V9
+2026-01-13 08:11:36,024 - INFO - Crawling page 22 on cropkingseeds.com: https://www.cropkingseeds.com/autoflowering-seeds/early-miss-marijuana-seeds/comment-page-19/#comments
+2026-01-13 08:11:38,306 - INFO - Crawling page 23 on cropkingseeds.com: https://www.cropkingseeds.com/autoflowering-seeds/cheese-marijuana-seeds/
+2026-01-13 08:11:40,589 - INFO - Crawling page 24 on cropkingseeds.com: https://www.cropkingseeds.com/assorted-packs/
+2026-01-13 08:11:42,978 - INFO - Crawling page 25 on cropkingseeds.com: https://www.cropkingseeds.com/autoflowering-seeds/amnesia-kush-marijuana-seeds/
+2026-01-13 08:11:45,363 - INFO - Crawling page 26 on cropkingseeds.com: https://www.cropkingseeds.com/regular-marijuana-seeds/alien-og-regular-bcbd-marijuana-seeds/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI2NDU5MiIsInRvZ2dsZSI6ZmFsc2V9
+2026-01-13 08:11:47,661 - INFO - Crawling page 27 on cropkingseeds.com: https://www.cropkingseeds.com/cup-winner-strains/white-widow-marijuana-seeds-3/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI2MDEwMyIsInRvZ2dsZSI6ZmFsc2V9
+2026-01-13 08:11:49,947 - INFO - Crawling page 28 on cropkingseeds.com: https://www.cropkingseeds.com/page/213/?s=seeds&post_type=product&dgwt_wcas=1
+2026-01-13 08:11:55,372 - INFO - Crawling page 29 on cropkingseeds.com: https://www.cropkingseeds.com/high-cbd/page/2/
+2026-01-13 08:11:57,836 - INFO - Crawling page 30 on cropkingseeds.com: https://www.cropkingseeds.com/page/3/?s=seeds&post_type=product&dgwt_wcas=1
+2026-01-13 08:12:03,427 - INFO - Crawling page 31 on cropkingseeds.com: https://www.cropkingseeds.com/cup-winner-strains/amnesia-haze-marijuana-seeds/#tab-reviews
+2026-01-13 08:12:05,705 - INFO - Crawling page 32 on cropkingseeds.com: https://www.cropkingseeds.com/new-strains/permanent-marker-strain-autoflowering-marijuana-seeds/
+2026-01-13 08:12:07,992 - INFO - Crawling page 33 on cropkingseeds.com: https://www.cropkingseeds.com/high-cbd/auto-solomatic-cbd-120-marijuana-seeds/
+2026-01-13 08:12:10,275 - INFO - Crawling page 34 on cropkingseeds.com: https://www.cropkingseeds.com/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI2MDEwMyIsInRvZ2dsZSI6ZmFsc2V9
+2026-01-13 08:12:12,561 - INFO - Crawling page 35 on cropkingseeds.com: https://www.cropkingseeds.com/variety/hybrid/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI2MDEwMyIsInRvZ2dsZSI6ZmFsc2V9
+2026-01-13 08:12:15,007 - INFO - Crawling page 36 on cropkingseeds.com: https://www.cropkingseeds.com/page/216/?s=seeds&post_type=product&dgwt_wcas=1#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI2NDU5MiIsInRvZ2dsZSI6ZmFsc2V9
+2026-01-13 08:12:20,425 - INFO - Crawling page 37 on cropkingseeds.com: https://www.cropkingseeds.com/cup-winner-strains/white-widow-marijuana-seeds-3/comment-page-1/#comments
+2026-01-13 08:12:22,749 - INFO - Crawling page 38 on cropkingseeds.com: https://www.cropkingseeds.com/high-cbd/auto-solomatic-cbd-120-marijuana-seeds/#respond
+2026-01-13 08:12:25,030 - INFO - Crawling page 39 on cropkingseeds.com: https://www.cropkingseeds.com/page/5/?s=seeds&post_type=product&dgwt_wcas=1
+2026-01-13 08:12:30,475 - INFO - Crawling page 40 on cropkingseeds.com: https://www.cropkingseeds.com/regular-marijuana-seeds/
+2026-01-13 08:12:33,032 - INFO - Crawling page 41 on cropkingseeds.com: https://www.cropkingseeds.com/high-cbd/black-diamond-strain-cbd-marijuana-seeds/#reviews
+2026-01-13 08:12:35,314 - INFO - Crawling page 42 on cropkingseeds.com: https://www.cropkingseeds.com/monster-cropping-cannabis-a-growers-complete-guide/
+2026-01-13 08:12:37,549 - INFO - Crawling page 43 on cropkingseeds.com: https://www.cropkingseeds.com/autoflowering-seeds/early-miss-marijuana-seeds/comment-page-14/#comments
+2026-01-13 08:12:39,826 - INFO - Crawling page 44 on cropkingseeds.com: https://www.cropkingseeds.com/autoflowering-seeds/amnesia-kush-marijuana-seeds/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI2MDEwMyIsInRvZ2dsZSI6ZmFsc2V9
+2026-01-13 08:12:42,123 - INFO - Crawling page 45 on cropkingseeds.com: https://www.cropkingseeds.com/high-cbd/auto-solomatic-cbd-120-marijuana-seeds/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI2MDEwMyIsInRvZ2dsZSI6ZmFsc2V9
+2026-01-13 08:12:44,467 - INFO - Crawling page 46 on cropkingseeds.com: https://www.cropkingseeds.com/monster-cropping-cannabis-a-growers-complete-guide/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI2MDEwMyIsInRvZ2dsZSI6ZmFsc2V9
+2026-01-13 08:12:46,698 - INFO - Crawling page 47 on cropkingseeds.com: https://www.cropkingseeds.com/award-winning-strain/zkittlez-marijuana-seeds/
+2026-01-13 08:12:49,031 - INFO - Crawling page 48 on cropkingseeds.com: https://www.cropkingseeds.com/germination-marijuana-seeds
+2026-01-13 08:12:51,272 - INFO - Crawling page 49 on cropkingseeds.com: https://www.cropkingseeds.com/germination-marijuana-seeds#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI2NDU5MiIsInRvZ2dsZSI6ZmFsc2V9
+2026-01-13 08:12:53,575 - INFO - Crawling page 50 on cropkingseeds.com: https://www.cropkingseeds.com/autoflowering-seeds/early-miss-marijuana-seeds/#tab-reviews
+2026-01-13 08:12:55,862 - INFO - Crawling page 51 on cropkingseeds.com: https://www.cropkingseeds.com/regular-marijuana-seeds/black-haze-regular-marijuana-seeds/
+2026-01-13 08:12:58,193 - INFO - Crawling page 52 on cropkingseeds.com: https://www.cropkingseeds.com/page/213/?s=seeds&post_type=product&dgwt_wcas=1#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI2NDU5MiIsInRvZ2dsZSI6ZmFsc2V9
+2026-01-13 08:13:03,578 - INFO - Crawling page 53 on cropkingseeds.com: https://www.cropkingseeds.com/autoflowering-seeds/early-miss-marijuana-seeds/comment-page-15/?add-to-cart=252
+2026-01-13 08:13:07,888 - INFO - Crawling page 54 on cropkingseeds.com: https://www.cropkingseeds.com/autoflowering-seeds/candy-cane-marijuana-seeds/
+2026-01-13 08:13:10,173 - INFO - Crawling page 55 on cropkingseeds.com: https://www.cropkingseeds.com/autoflowering-seeds/nyc-diesel-marijuana-seeds/
+2026-01-13 08:13:12,514 - INFO - Crawling page 56 on cropkingseeds.com: https://www.cropkingseeds.com/variety/sativa/
+2026-01-13 08:13:14,890 - INFO - Crawling page 57 on cropkingseeds.com: https://www.cropkingseeds.com/regular-marijuana-seeds/black-haze-regular-marijuana-seeds/#tab-reviews
+2026-01-13 08:13:17,166 - INFO - Crawling page 58 on cropkingseeds.com: https://www.cropkingseeds.com/high-cbd/auto-cbdv-afghani-marijuana-seeds/
+2026-01-13 08:13:19,439 - INFO - Crawling page 59 on cropkingseeds.com: https://www.cropkingseeds.com/high-cbd/auto-cbdv-marijuana-seeds/
+2026-01-13 08:13:21,824 - INFO - Crawling page 60 on cropkingseeds.com: https://www.cropkingseeds.com/beginners-guide-101-how-to-grow-weed-indoors/
+2026-01-13 08:13:24,099 - INFO - Crawling page 61 on cropkingseeds.com: https://www.cropkingseeds.com/award-winning-strain/master-kush-marijuana-seeds/
+2026-01-13 08:13:26,375 - INFO - Crawling page 62 on cropkingseeds.com: https://www.cropkingseeds.com/regular-marijuana-seeds/bruce-banner-regular-marijuana-seeds/
+2026-01-13 08:13:28,663 - INFO - Crawling page 63 on cropkingseeds.com: https://www.cropkingseeds.com/marijuana-seeds/
+2026-01-13 08:13:31,053 - INFO - Crawling page 64 on cropkingseeds.com: https://www.cropkingseeds.com/high-cbd/acdc-marijuana-seeds/
+2026-01-13 08:13:33,338 - INFO - Crawling page 65 on cropkingseeds.com: https://www.cropkingseeds.com/autoflowering-seeds/amnesia-kush-marijuana-seeds/#respond
+2026-01-13 08:13:35,616 - INFO - Crawling page 66 on cropkingseeds.com: https://www.cropkingseeds.com/autoflowering-seeds/early-miss-marijuana-seeds/comment-page-19/#respond
+2026-01-13 08:13:37,912 - INFO - Crawling page 67 on cropkingseeds.com: https://www.cropkingseeds.com/award-winning-strain/zkittlez-marijuana-seeds/#tab-reviews
+2026-01-13 08:13:40,230 - INFO - Crawling page 68 on cropkingseeds.com: https://www.cropkingseeds.com/?s=seeds&post_type=product&dgwt_wcas=1#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI2MDEwMyIsInRvZ2dsZSI6ZmFsc2V9
+2026-01-13 08:13:45,727 - INFO - Crawling page 69 on cropkingseeds.com: https://www.cropkingseeds.com/page/213/?s=seeds&post_type=product&dgwt_wcas=1#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI2MDEwMyIsInRvZ2dsZSI6ZmFsc2V9
+2026-01-13 08:13:51,191 - INFO - Crawling page 70 on cropkingseeds.com: https://www.cropkingseeds.com/autoflowering-seeds/amnesia-kush-marijuana-seeds/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI2NDU5MiIsInRvZ2dsZSI6ZmFsc2V9
+2026-01-13 08:13:53,520 - INFO - Crawling page 71 on cropkingseeds.com: https://www.cropkingseeds.com/what-and-why-growing-mediums-explained/
+2026-01-13 08:13:55,752 - INFO - Crawling page 72 on cropkingseeds.com: https://www.cropkingseeds.com/regular-marijuana-seeds/alien-technology-marijuana-seeds/
+2026-01-13 08:13:58,034 - INFO - Crawling page 73 on cropkingseeds.com: https://www.cropkingseeds.com/beginners-guide-101-how-to-grow-weed-indoors/#Harvesting_Cannabis
+2026-01-13 08:14:00,330 - INFO - Crawling page 74 on cropkingseeds.com: https://www.cropkingseeds.com/high-cbd/mexican-marijuana-seeds/
+2026-01-13 08:14:02,648 - INFO - Crawling page 75 on cropkingseeds.com: https://www.cropkingseeds.com/autoflowering-seeds/nyc-diesel-marijuana-seeds/#respond
+2026-01-13 08:14:04,926 - INFO - Crawling page 76 on cropkingseeds.com: https://www.cropkingseeds.com/high-cbd/auto-cbd-kush-marijuana-seeds/
+2026-01-13 08:14:07,280 - INFO - Crawling page 77 on cropkingseeds.com: https://www.cropkingseeds.com/high-cbd/page/2/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI2NDU5MiIsInRvZ2dsZSI6ZmFsc2V9
+2026-01-13 08:14:09,717 - INFO - Crawling page 78 on cropkingseeds.com: https://www.cropkingseeds.com/high-yielding-strain/cb-cheese-auto/
+2026-01-13 08:14:12,053 - INFO - Crawling page 79 on cropkingseeds.com: https://www.cropkingseeds.com/autoflowering-seeds/nyc-diesel-marijuana-seeds/?add-to-cart=260
+2026-01-13 08:14:16,376 - INFO - Crawling page 80 on cropkingseeds.com: https://www.cropkingseeds.com/beginners-guide-101-how-to-grow-weed-indoors/#Choosing_a_location
+2026-01-13 08:14:18,690 - INFO - Crawling page 81 on cropkingseeds.com: https://www.cropkingseeds.com/autoflowering-seeds/early-miss-marijuana-seeds/comment-page-17/
+2026-01-13 08:14:20,971 - INFO - Crawling page 82 on cropkingseeds.com: https://www.cropkingseeds.com/high-cbd/auto-cbd-kush-marijuana-seeds/#respond
+2026-01-13 08:14:23,274 - INFO - Crawling page 83 on cropkingseeds.com: https://www.cropkingseeds.com/award-winning-strain/master-kush-marijuana-seeds/comment-page-1/#comments
+2026-01-13 08:14:25,552 - INFO - Crawling page 84 on cropkingseeds.com: https://www.cropkingseeds.com/award-winning-strain/zkittlez-marijuana-seeds/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI2MDEwMyIsInRvZ2dsZSI6ZmFsc2V9
+2026-01-13 08:14:27,831 - INFO - Crawling page 85 on cropkingseeds.com: https://www.cropkingseeds.com/regular-marijuana-seeds/alien-technology-marijuana-seeds/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI2MDEwMyIsInRvZ2dsZSI6ZmFsc2V9
+2026-01-13 08:14:30,173 - INFO - Crawling page 86 on cropkingseeds.com: https://www.cropkingseeds.com/high-cbd/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI3NzM4NiIsInRvZ2dsZSI6ZmFsc2V9
+2026-01-13 08:14:32,597 - INFO - Crawling page 87 on cropkingseeds.com: https://www.cropkingseeds.com/autoflowering-seeds/early-miss-marijuana-seeds/comment-page-15/?add-to-cart=252#tab-reviews
+2026-01-13 08:14:36,975 - INFO - Crawling page 88 on cropkingseeds.com: https://www.cropkingseeds.com/autoflowering-seeds/early-miss-marijuana-seeds/comment-page-19/#tab-reviews
+2026-01-13 08:14:39,259 - INFO - Crawling page 89 on cropkingseeds.com: https://www.cropkingseeds.com/autoflowering-seeds/girl-scout-cookies-marijuana-seeds/
+2026-01-13 08:14:41,582 - INFO - Crawling page 90 on cropkingseeds.com: https://www.cropkingseeds.com/germination-marijuana-seeds#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI2MDEwMyIsInRvZ2dsZSI6ZmFsc2V9
+2026-01-13 08:14:43,850 - INFO - Crawling page 91 on cropkingseeds.com: https://www.cropkingseeds.com/high-cbd/super-silver-haze-cbd-marijuana-seeds/
+2026-01-13 08:14:46,129 - INFO - Crawling page 92 on cropkingseeds.com: https://www.cropkingseeds.com/high-cbd/black-diamond-strain-cbd-marijuana-seeds/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI2NDU5MiIsInRvZ2dsZSI6ZmFsc2V9
+2026-01-13 08:14:48,407 - INFO - Crawling page 93 on cropkingseeds.com: https://www.cropkingseeds.com/monster-cropping-cannabis-a-growers-complete-guide/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI2NDU5MiIsInRvZ2dsZSI6ZmFsc2V9
+2026-01-13 08:14:50,646 - INFO - Crawling page 94 on cropkingseeds.com: https://www.cropkingseeds.com/how-to-choose-the-right-location-for-cannabis-cultivation-indoors/
+2026-01-13 08:14:52,889 - INFO - Crawling page 95 on cropkingseeds.com: https://www.cropkingseeds.com/how-to-prevent-cannabis-nutrient-deficiencies-with-the-right-ph-level/
+2026-01-13 08:14:55,121 - INFO - Crawling page 96 on cropkingseeds.com: https://www.cropkingseeds.com/autoflowering-seeds/early-miss-marijuana-seeds/?add-to-cart=252
+2026-01-13 08:14:59,461 - INFO - Crawling page 97 on cropkingseeds.com: https://www.cropkingseeds.com/high-cbd/black-diamond-strain-cbd-marijuana-seeds/comment-page-1/#comments
+2026-01-13 08:15:01,751 - INFO - Crawling page 98 on cropkingseeds.com: https://www.cropkingseeds.com/page/217/?s=seeds&post_type=product&dgwt_wcas=1
+2026-01-13 08:15:07,261 - INFO - Crawling page 99 on cropkingseeds.com: https://www.cropkingseeds.com/autoflowering-seeds/amnesia-kush-marijuana-seeds/?add-to-cart=3100
+2026-01-13 08:15:11,619 - INFO - Crawling page 100 on cropkingseeds.com: https://www.cropkingseeds.com/autoflowering-seeds/blackberry-marijuana-seeds/
+2026-01-13 08:15:13,901 - INFO - Completed crawling cropkingseeds.com: 286 strain URLs found
+2026-01-13 08:15:13,910 - INFO - Added 286 new URLs from cropkingseeds.com
+2026-01-13 08:15:13,910 - INFO - Discovered 286 strain URLs from cropkingseeds.com
+2026-01-13 08:15:18,925 - INFO - Crawling barneysfarm.com starting from https://www.barneysfarm.com/us/
+2026-01-13 08:15:18,925 - INFO - Crawling page 1 on barneysfarm.com: https://www.barneysfarm.com/us/
+2026-01-13 08:15:22,306 - INFO - Crawling page 2 on barneysfarm.com: https://www.barneysfarm.com/us/feminized-seeds
+2026-01-13 08:15:25,174 - INFO - Crawling page 3 on barneysfarm.com: https://www.barneysfarm.com/us/indica-cannabis-seeds
+2026-01-13 08:15:28,054 - INFO - Crawling page 4 on barneysfarm.com: https://www.barneysfarm.com/us/special-offer-seeds
+2026-01-13 08:15:30,599 - INFO - Crawling page 5 on barneysfarm.com: https://www.barneysfarm.com/us/autoflower-seeds
+2026-01-13 08:15:33,314 - INFO - Crawling page 6 on barneysfarm.com: https://www.barneysfarm.com/us/medical-marijuana-cannabis-seeds
+2026-01-13 08:15:35,877 - INFO - Crawling page 7 on barneysfarm.com: https://www.barneysfarm.com/feminised-seeds
+2026-01-13 08:15:38,738 - INFO - Crawling page 8 on barneysfarm.com: https://www.barneysfarm.com/special-offer-seeds
+2026-01-13 08:15:41,468 - INFO - Crawling page 9 on barneysfarm.com: https://www.barneysfarm.com/us/high-thc-strains-seeds
+2026-01-13 08:15:44,208 - INFO - Crawling page 10 on barneysfarm.com: https://www.barneysfarm.com/regular-seeds
+2026-01-13 08:15:46,942 - INFO - Crawling page 11 on barneysfarm.com: https://www.barneysfarm.com/us/regular-seeds
+2026-01-13 08:15:50,078 - INFO - Crawling page 12 on barneysfarm.com: https://www.barneysfarm.com/sativa-cannabis-strains
+2026-01-13 08:15:52,852 - INFO - Crawling page 13 on barneysfarm.com: https://www.barneysfarm.com/us/best-outdoor-cannabis-seeds-strains
+2026-01-13 08:15:55,718 - INFO - Crawling page 14 on barneysfarm.com: https://www.barneysfarm.com/feminized-seeds
+2026-01-13 08:15:55,956 - INFO - Crawling page 15 on barneysfarm.com: https://www.barneysfarm.com/high-cbd-strain-seeds
+2026-01-13 08:15:56,186 - INFO - Crawling page 16 on barneysfarm.com: https://www.barneysfarm.com/indica-cannabis-seeds
+2026-01-13 08:15:56,742 - INFO - Crawling page 17 on barneysfarm.com: https://www.barneysfarm.com/high-thc-strains-seeds
+2026-01-13 08:15:57,338 - INFO - Crawling page 18 on barneysfarm.com: https://www.barneysfarm.com/us/cannabis-cup-winners
+2026-01-13 08:16:00,060 - INFO - Crawling page 19 on barneysfarm.com: https://www.barneysfarm.com/us/sativa-cannabis-seeds
+2026-01-13 08:16:02,769 - INFO - Crawling page 20 on barneysfarm.com: https://www.barneysfarm.com/medical-marijuana-cannabis-seeds
+2026-01-13 08:16:05,984 - INFO - Crawling page 21 on barneysfarm.com: https://www.barneysfarm.com/indica-cannabis-strains
+2026-01-13 08:16:09,091 - INFO - Crawling page 22 on barneysfarm.com: https://www.barneysfarm.com/sativa-cannabis-seeds
+2026-01-13 08:16:09,316 - INFO - Crawling page 23 on barneysfarm.com: https://www.barneysfarm.com/outdoor-cannabis-seeds
+2026-01-13 08:16:12,153 - INFO - Crawling page 24 on barneysfarm.com: https://www.barneysfarm.com/medical-cannabis-seeds
+2026-01-13 08:16:15,012 - INFO - Crawling page 25 on barneysfarm.com: https://www.barneysfarm.com/autoflower-seeds
+2026-01-13 08:16:15,235 - INFO - Crawling page 26 on barneysfarm.com: https://www.barneysfarm.com/cbd-caramel-_-regular-431
+2026-01-13 08:16:18,003 - INFO - Crawling page 27 on barneysfarm.com: https://www.barneysfarm.com/autoflowering-seeds
+2026-01-13 08:16:20,756 - INFO - Crawling page 28 on barneysfarm.com: https://www.barneysfarm.com/regular-marijuana-cannabis-seeds
+2026-01-13 08:16:20,981 - INFO - Crawling page 29 on barneysfarm.com: https://www.barneysfarm.com/images/products/cbd-caramel-regular_2_209074.jpg
+2026-01-13 08:16:21,035 - INFO - Crawling page 30 on barneysfarm.com: https://www.barneysfarm.com/cannabis-cup-winners
+2026-01-13 08:16:23,800 - INFO - Crawling page 31 on barneysfarm.com: https://www.barneysfarm.com/us/cbd-caramel-_-regular-431
+2026-01-13 08:16:24,018 - INFO - Crawling page 32 on barneysfarm.com: https://www.barneysfarm.com/widow-remedy-_-regular-429
+2026-01-13 08:16:26,767 - INFO - Crawling page 33 on barneysfarm.com: https://www.barneysfarm.com/best-outdoor-cannabis-seeds-strains
+2026-01-13 08:16:26,995 - INFO - Crawling page 34 on barneysfarm.com: https://www.barneysfarm.com/images/products/cbd-caramel-regular_5_209075.jpg
+2026-01-13 08:16:27,127 - INFO - Crawling page 35 on barneysfarm.com: https://www.barneysfarm.com/images/products/widow-remedy-regular_5_211787.jpg
+2026-01-13 08:16:27,980 - INFO - Crawling page 36 on barneysfarm.com: https://www.barneysfarm.com/images/products/__cbd-caramel-regular_circle_new_21_130615.webp
+2026-01-13 08:16:28,966 - INFO - Crawling page 37 on barneysfarm.com: https://www.barneysfarm.com/images/products/widow-remedy-regular_4_211787.jpg
+2026-01-13 08:16:29,840 - INFO - Crawling page 38 on barneysfarm.com: https://www.barneysfarm.com/images/products/cbd-caramel-regular_4_209074.jpg
+2026-01-13 08:16:29,880 - INFO - Crawling page 39 on barneysfarm.com: https://www.barneysfarm.com/images/products/widow-remedy-regular_3_211787.jpg
+2026-01-13 08:16:30,735 - INFO - Crawling page 40 on barneysfarm.com: https://www.barneysfarm.com/images/products/__widow-remedy-regular_circle_new_21_130800.webp
+2026-01-13 08:16:31,596 - INFO - Crawling page 41 on barneysfarm.com: https://www.barneysfarm.com/images/products/cbd-caramel-regular_6_209075.jpg
+2026-01-13 08:16:31,634 - INFO - Crawling page 42 on barneysfarm.com: https://www.barneysfarm.com/images/products/cbd-caramel-regular_1_209074.jpg
+2026-01-13 08:16:31,674 - INFO - Crawling page 43 on barneysfarm.com: https://www.barneysfarm.com/images/products/cbd-caramel-regular_3_209074.jpg
+2026-01-13 08:16:31,708 - INFO - Crawling page 44 on barneysfarm.com: https://www.barneysfarm.com/images/products/widow-remedy-regular_2_211787.jpg
+2026-01-13 08:16:32,582 - INFO - Crawling page 45 on barneysfarm.com: https://www.barneysfarm.com/images/products/widow-remedy-regular_1_211787.jpg
+2026-01-13 08:16:33,449 - INFO - Crawling page 46 on barneysfarm.com: https://www.barneysfarm.com/images/products/widow-remedy-regular_6_211787.jpg
+2026-01-13 08:16:34,298 - INFO - Crawling page 47 on barneysfarm.com: https://www.barneysfarm.com/us/widow-remedy-_-regular-429
+2026-01-13 08:16:34,794 - INFO - Completed crawling barneysfarm.com: 92 strain URLs found
+2026-01-13 08:16:34,803 - INFO - Added 92 new URLs from barneysfarm.com
+2026-01-13 08:16:34,803 - INFO - Discovered 92 strain URLs from barneysfarm.com
+2026-01-13 08:16:39,809 - INFO - Crawling ilgm.com starting from https://ilgm.com/categories/cannabis-seeds
+2026-01-13 08:16:39,809 - INFO - Crawling page 1 on ilgm.com: https://ilgm.com/categories/cannabis-seeds
+2026-01-13 08:16:42,281 - INFO - Crawling page 2 on ilgm.com: https://ilgm.com/collections/high-yield-seeds
+2026-01-13 08:16:44,788 - INFO - Crawling page 3 on ilgm.com: https://ilgm.com/resources/landing/cannabis-strains-for-beginners
+2026-01-13 08:16:47,292 - INFO - Crawling page 4 on ilgm.com: https://ilgm.com/resources/guides/how-to-start-your-cannabis-cultivation-journey
+2026-01-13 08:16:49,845 - INFO - Crawling page 5 on ilgm.com: https://ilgm.com/resources/landing/cannabis-strains-for-beginners#save-space
+2026-01-13 08:16:52,160 - INFO - Crawling page 6 on ilgm.com: https://ilgm.com/resources/guides/how-to-start-your-cannabis-cultivation-journey#where-could-you-start-growing-weed
+2026-01-13 08:16:54,450 - INFO - Crawling page 7 on ilgm.com: https://ilgm.com/resources/guides/how-to-start-your-cannabis-cultivation-journey#legal-considerations-for-growing-your-own
+2026-01-13 08:16:56,739 - INFO - Crawling page 8 on ilgm.com: https://ilgm.com/resources/guides/a-beginners-guide-to-growing-cannabis-safely
+2026-01-13 08:17:00,618 - INFO - Crawling page 9 on ilgm.com: https://ilgm.com/resources/guides/a-beginners-guide-to-growing-cannabis-safely#checklist:-safe-and-secure-cannabis-growing-at-home
+2026-01-13 08:17:02,932 - INFO - Crawling page 10 on ilgm.com: https://ilgm.com/resources/canna-culture/is-growing-cannabis-cheaper-than-buying-weed-at-the-dispensary
+2026-01-13 08:17:06,947 - INFO - Crawling page 11 on ilgm.com: https://ilgm.com/resources/guides/the-basics-of-cannabis-terpenes
+2026-01-13 08:17:10,618 - INFO - Crawling page 12 on ilgm.com: https://ilgm.com/resources/guides/how-to-start-your-cannabis-cultivation-journey#from-seed-to-harvest-and-beyond-ilgm-will-be-your-guide
+2026-01-13 08:17:12,921 - INFO - Crawling page 13 on ilgm.com: https://ilgm.com/resources/guides/a-beginners-guide-to-growing-cannabis-safely#security-first:-protecting-your-home-weed-grow
+2026-01-13 08:17:15,289 - INFO - Crawling page 14 on ilgm.com: https://ilgm.com/resources/guides/easy-tips-for-your-first-indoor-cannabis-grow
+2026-01-13 08:17:19,756 - INFO - Crawling page 15 on ilgm.com: https://ilgm.com/resources/guides/how-to-choose-cannabis-seeds-for-your-first-grow
+2026-01-13 08:17:24,069 - INFO - Crawling page 16 on ilgm.com: https://ilgm.com/resources/guides/the-basics-of-cannabis-terpenes#are-indica-and-sativa-highs-different-because-of-their-terpene-profile
+2026-01-13 08:17:26,303 - INFO - Crawling page 17 on ilgm.com: https://ilgm.com/resources/landing/cannabis-strains-for-beginners#sleep-better
+2026-01-13 08:17:28,661 - INFO - Crawling page 18 on ilgm.com: https://ilgm.com/resources/landing/cannabis-strains-for-an-uplifting-result
+2026-01-13 08:17:32,622 - INFO - Crawling page 19 on ilgm.com: https://ilgm.com/collections/high-thc-seeds
+2026-01-13 08:17:35,043 - INFO - Crawling page 20 on ilgm.com: https://ilgm.com/resources/guides/how-to-choose-cannabis-seeds-for-your-first-grow#photoperiod-seeds-vs.-autoflower-seeds
+2026-01-13 08:17:37,438 - INFO - Crawling page 21 on ilgm.com: https://ilgm.com/resources/guides/a-beginners-guide-to-cannabis-plant-anatomy
+2026-01-13 08:17:41,205 - INFO - Crawling page 22 on ilgm.com: https://ilgm.com/resources/guides/supplies-you-need-to-start-growing-cannabis
+2026-01-13 08:17:45,395 - INFO - Crawling page 23 on ilgm.com: https://ilgm.com/resources/guides/how-to-choose-cannabis-seeds-for-your-first-grow#outdoor
+2026-01-13 08:17:47,759 - INFO - Crawling page 24 on ilgm.com: https://ilgm.com/resources/guides/the-cannabis-life-cycle-in-weeks
+2026-01-13 08:17:50,191 - INFO - Crawling page 25 on ilgm.com: https://ilgm.com/collections/beginner-seeds
+2026-01-13 08:17:52,702 - INFO - Crawling page 26 on ilgm.com: https://ilgm.com/resources/guides/germinate-seeds
+2026-01-13 08:17:56,707 - INFO - Crawling page 27 on ilgm.com: https://ilgm.com/resources/guides/the-cannabis-life-cycle-in-weeks#the-cannabis-plant-life-cycle
+2026-01-13 08:17:58,994 - INFO - Crawling page 28 on ilgm.com: https://ilgm.com/resources/guides/how-to-choose-cannabis-seeds-for-your-first-grow#first-things-first-where-do-you-intend-to-grow
+2026-01-13 08:18:01,350 - INFO - Crawling page 29 on ilgm.com: https://ilgm.com/resources/guides/a-beginners-guide-to-growing-cannabis-safely#handling-cannabis-plants-safely:-avoiding-physical-hazards-in-your-grow
+2026-01-13 08:18:04,038 - INFO - Crawling page 30 on ilgm.com: https://ilgm.com/resources/guides/how-to-choose-cannabis-seeds-for-your-first-grow#plant-choice-and-space-available:-indica-hybrid-or-sativa
+2026-01-13 08:18:06,421 - INFO - Crawling page 31 on ilgm.com: https://ilgm.com/resources/guides/how-to-germinate-cannabis-seeds
+2026-01-13 08:18:09,073 - INFO - Crawling page 32 on ilgm.com: https://ilgm.com/resources/guides/a-beginners-guide-to-cannabis-plant-anatomy#popcorn-buds:-the-little-guys
+2026-01-13 08:18:11,344 - INFO - Crawling page 33 on ilgm.com: https://ilgm.com/resources/guides/how-to-choose-cannabis-seeds-for-your-first-grow#what-strain-should-i-start-with
+2026-01-13 08:18:13,927 - INFO - Crawling page 34 on ilgm.com: https://ilgm.com/resources/guides/how-many-cannabis-plants-fit-in-a-grow-tent
+2026-01-13 08:18:18,153 - INFO - Crawling page 35 on ilgm.com: https://ilgm.com/resources/guides/how-to-choose-cannabis-seeds-for-your-first-grow#climate-and-environment
+2026-01-13 08:18:20,484 - INFO - Crawling page 36 on ilgm.com: https://ilgm.com/collections/medium-thc-seeds
+2026-01-13 08:18:24,825 - INFO - Crawling page 37 on ilgm.com: https://ilgm.com/resources/guides/a-beginners-guide-to-cannabis-plant-anatomy#bract:-protecting-the-calyx
+2026-01-13 08:18:27,082 - INFO - Crawling page 38 on ilgm.com: https://ilgm.com/resources/guides/best-soil-for-cannabis
+2026-01-13 08:18:29,630 - INFO - Crawling page 39 on ilgm.com: https://ilgm.com/categories/cannabis-nutrients
+2026-01-13 08:18:32,019 - INFO - Crawling page 40 on ilgm.com: https://ilgm.com/resources/landing/cannabis-growing-guide-for-beginners
+2026-01-13 08:18:36,744 - INFO - Crawling page 41 on ilgm.com: https://ilgm.com/resources/guides/best-soil-for-cannabis#no-till-cultivation:-benefits-for-cannabis-growth
+2026-01-13 08:18:39,030 - INFO - Crawling page 42 on ilgm.com: https://ilgm.com/categories/cannabis-seeds?climate=indoor
+2026-01-13 08:18:44,029 - INFO - Crawling page 43 on ilgm.com: https://ilgm.com/resources/guides/a-beginners-guide-to-growing-cannabis-safely#fire-safety-in-your-cannabis-grow
+2026-01-13 08:18:46,339 - INFO - Crawling page 44 on ilgm.com: https://ilgm.com/resources/guides/a-beginners-guide-to-cannabis-plant-anatomy#cannabis-colas:-clusters-of-buds
+2026-01-13 08:18:48,823 - INFO - Crawling page 45 on ilgm.com: https://ilgm.com/resources/guides/cannabis-indica-sativa-ruderalis-explained
+2026-01-13 08:18:51,274 - INFO - Crawling page 46 on ilgm.com: https://ilgm.com/resources/guides/how-to-choose-cannabis-seeds-for-your-first-grow#indoor
+2026-01-13 08:18:53,656 - INFO - Crawling page 47 on ilgm.com: https://ilgm.com/resources/guides/best-soil-for-cannabis#soil-types-for-cannabis:-sandy-silty-loamy-and-clay
+2026-01-13 08:18:55,933 - INFO - Crawling page 48 on ilgm.com: https://ilgm.com/resources/guides/the-basics-of-cannabis-terpenes#do-terpenes-get-you-high
+2026-01-13 08:18:58,311 - INFO - Crawling page 49 on ilgm.com: https://ilgm.com/resources/guides/the-basics-of-cannabis-terpenes#what-are-the-most-common-terpenes-found-in-cannabis
+2026-01-13 08:19:00,534 - INFO - Crawling page 50 on ilgm.com: https://ilgm.com/resources/guides/a-beginners-guide-to-growing-cannabis-in-pots
+2026-01-13 08:19:04,239 - INFO - Crawling page 51 on ilgm.com: https://ilgm.com/resources/canna-culture/is-growing-cannabis-cheaper-than-buying-weed-at-the-dispensary#cannabis-home-growing:-more-than-the-yield
+2026-01-13 08:19:06,675 - INFO - Crawling page 52 on ilgm.com: https://ilgm.com/resources/landing/cannabis-strains-containing-caryophyllene-terpenes
+2026-01-13 08:19:09,072 - INFO - Crawling page 53 on ilgm.com: https://ilgm.com/resources/guides/a-beginners-guide-to-growing-cannabis-in-pots#best-mediums-for-growing-cannabis-in-containers
+2026-01-13 08:19:11,363 - INFO - Crawling page 54 on ilgm.com: https://ilgm.com/resources/guides/how-to-germinate-cannabis-seeds-in-water
+2026-01-13 08:19:15,468 - INFO - Crawling page 55 on ilgm.com: https://ilgm.com/resources/guides/how-to-choose-cannabis-seeds-for-your-first-grow#breeder-reputation-and-the-the-importance-of-genetics
+2026-01-13 08:19:17,933 - INFO - Crawling page 56 on ilgm.com: https://ilgm.com/resources/canna-culture/is-growing-cannabis-cheaper-than-buying-weed-at-the-dispensary#the-bill-save-green-on-your-green-by-growing-at-home
+2026-01-13 08:19:20,127 - INFO - Crawling page 57 on ilgm.com: https://ilgm.com/resources/guides/how-to-grow-cannabis-in-coco-coir
+2026-01-13 08:19:23,641 - INFO - Crawling page 58 on ilgm.com: https://ilgm.com/resources/guides/how-many-cannabis-plants-fit-in-a-grow-tent#how-much-light-do-i-need-to-install
+2026-01-13 08:19:26,132 - INFO - Crawling page 59 on ilgm.com: https://ilgm.com/resources/guides/a-beginners-guide-to-growing-cannabis-in-pots#choosing-the-right-weed-growing-container
+2026-01-13 08:19:28,402 - INFO - Crawling page 60 on ilgm.com: https://ilgm.com/products/autoflower-sweet-mix
+2026-01-13 08:19:32,012 - INFO - Crawling page 61 on ilgm.com: https://ilgm.com/resources/guides/how-to-start-your-cannabis-cultivation-journey#setting-up-your-grow-space-indoors
+2026-01-13 08:19:34,478 - INFO - Crawling page 62 on ilgm.com: https://ilgm.com/resources/guides/how-to-choose-cannabis-seeds-for-your-first-grow#final-thoughts
+2026-01-13 08:19:36,846 - INFO - Crawling page 63 on ilgm.com: https://ilgm.com/resources/guides/soaking-cannabis-seeds-before-planting
+2026-01-13 08:19:39,666 - INFO - Crawling page 64 on ilgm.com: https://ilgm.com/resources/guides/how-to-germinate-cannabis-seeds#germinating-cannabis-seeds-using-rockwool-cubes
+2026-01-13 08:19:42,156 - INFO - Crawling page 65 on ilgm.com: https://ilgm.com/resources/guides/how-to-grow-cannabis-in-coco-coir#coco-vs.-soil:-what's-the-difference
+2026-01-13 08:19:44,390 - INFO - Crawling page 66 on ilgm.com: https://ilgm.com/resources/guides/a-beginners-guide-to-drying-cannabis
+2026-01-13 08:19:48,949 - INFO - Crawling page 67 on ilgm.com: https://ilgm.com/resources/guides/easy-tips-for-your-first-indoor-cannabis-grow#tip-4:-cannabis-grow-light-options
+2026-01-13 08:19:51,374 - INFO - Crawling page 68 on ilgm.com: https://ilgm.com/resources/guides/why-cannabis-plants-turn-hermaphrodite-and-what-to-do
+2026-01-13 08:19:54,082 - INFO - Crawling page 69 on ilgm.com: https://ilgm.com/resources/guides/supplies-you-need-to-start-growing-cannabis#essential-cannabis-growing-supplies
+2026-01-13 08:19:56,606 - INFO - Crawling page 70 on ilgm.com: https://ilgm.com/resources/canna-culture/is-growing-cannabis-cheaper-than-buying-weed-at-the-dispensary#grow-closer:-working-together-with-cannabis
+2026-01-13 08:19:59,042 - INFO - Crawling page 71 on ilgm.com: https://ilgm.com/resources/guides/micro-growing-how-to-grow-cannabis-in-tiny-spaces
+2026-01-13 08:20:03,041 - INFO - Crawling page 72 on ilgm.com: https://ilgm.com/resources/guides/cannabis-nutrient-lockout
+2026-01-13 08:20:06,802 - INFO - Crawling page 73 on ilgm.com: https://ilgm.com/resources/guides/everything-you-need-to-know-about-ph-for-growing-cannabis
+2026-01-13 08:20:08,053 - INFO - Crawling page 74 on ilgm.com: https://ilgm.com/resources/guides/the-basics-of-cannabis-terpenes#what-are-terpenes
+2026-01-13 08:20:10,541 - INFO - Crawling page 75 on ilgm.com: https://ilgm.com/resources/guides/how-many-cannabis-plants-fit-in-a-grow-tent#why-the-size-and-shape-of-your-final-plants-matter
+2026-01-13 08:20:12,820 - INFO - Crawling page 76 on ilgm.com: https://ilgm.com/resources/guides/outdoor-cannabis-harvest-checklist
+2026-01-13 08:20:16,752 - INFO - Crawling page 77 on ilgm.com: https://ilgm.com/resources/guides/easy-tips-for-your-first-indoor-cannabis-grow#tip-2:-choose-your-growing-medium-and-water-accordingly
+2026-01-13 08:20:19,047 - INFO - Crawling page 78 on ilgm.com: https://ilgm.com/resources/guides/micro-growing-how-to-grow-cannabis-in-tiny-spaces#key-tips-for-managing-a-micro-grow
+2026-01-13 08:20:21,283 - INFO - Crawling page 79 on ilgm.com: https://ilgm.com/resources/guides/a-beginners-guide-to-cannabis-flowering-stage
+2026-01-13 08:20:24,912 - INFO - Crawling page 80 on ilgm.com: https://ilgm.com/resources/guides/how-many-cannabis-plants-fit-in-a-grow-tent#yield-expectations-per-tent-size
+2026-01-13 08:20:27,424 - INFO - Crawling page 81 on ilgm.com: https://ilgm.com/resources/guides/outdoor-cannabis-harvest-checklist#how-will-you-dry-your-cannabis
+2026-01-13 08:20:29,692 - INFO - Crawling page 82 on ilgm.com: https://ilgm.com/resources/guides/cannabis-nutrient-lockout#nutrient-lockout-in-different-growing-mediums
+2026-01-13 08:20:31,916 - INFO - Crawling page 83 on ilgm.com: https://ilgm.com/resources/guides/the-cannabis-life-cycle-in-weeks#how-long-is-the-cannabis-life-cycle
+2026-01-13 08:20:34,318 - INFO - Crawling page 84 on ilgm.com: https://ilgm.com/resources/guides/how-to-grow-cannabis-in-coco-coir#how-should-i-prepare-coco
+2026-01-13 08:20:36,752 - INFO - Crawling page 85 on ilgm.com: https://ilgm.com/resources/guides/a-beginners-guide-to-drying-cannabis#why-is-drying-cannabis-important
+2026-01-13 08:20:39,292 - INFO - Crawling page 86 on ilgm.com: https://ilgm.com/resources/guides/how-to-germinate-cannabis-seeds#nurturing-your-sprouts:-proper-seed-placement
+2026-01-13 08:20:41,745 - INFO - Crawling page 87 on ilgm.com: https://ilgm.com/resources/guides/high-stress-training-cannabis-plants-for-bigger-yields
+2026-01-13 08:20:45,679 - INFO - Crawling page 88 on ilgm.com: https://ilgm.com/resources/guides/things-to-consider-when-growing-outdoor-cannabis-in-soil
+2026-01-13 08:20:49,676 - INFO - Crawling page 89 on ilgm.com: https://ilgm.com/resources/guides/a-beginners-guide-to-cannabis-flowering-stage#best-environment-for-flowering-cannabis-plants
+2026-01-13 08:20:51,918 - INFO - Crawling page 90 on ilgm.com: https://ilgm.com/resources/guides/how-to-germinate-cannabis-seeds#germinating-cannabis-seeds-using-direct-soil-germination
+2026-01-13 08:20:54,112 - INFO - Crawling page 91 on ilgm.com: https://ilgm.com/resources/guides/a-beginners-guide-to-led-grow-lights-for-cannabis
+2026-01-13 08:20:58,544 - INFO - Crawling page 92 on ilgm.com: https://ilgm.com/resources/guides/a-beginners-guide-to-cannabis-plant-anatomy#wrap-up:-understanding-cannabis-anatomy
+2026-01-13 08:21:00,883 - INFO - Crawling page 93 on ilgm.com: https://ilgm.com/resources/guides/how-to-germinate-cannabis-seeds-in-water#can-i-use-tap-water-to-germinate-cannabis-seeds
+2026-01-13 08:21:03,263 - INFO - Crawling page 94 on ilgm.com: https://ilgm.com/resources/guides/how-to-plant-germinated-cannabis-seeds
+2026-01-13 08:21:07,612 - INFO - Crawling page 95 on ilgm.com: https://ilgm.com/resources/guides/indoor-cannabis-climate-control-for-beginners
+2026-01-13 08:21:11,519 - INFO - Crawling page 96 on ilgm.com: https://ilgm.com/resources/guides/a-beginners-guide-to-growing-cannabis-safely#outdoors:-keeping-your-cannabis-garden-safe
+2026-01-13 08:21:14,082 - INFO - Crawling page 97 on ilgm.com: https://ilgm.com/resources/guides/easy-tips-for-your-first-indoor-cannabis-grow#tip-6:-temperature-control-and-environmental-monitoring
+2026-01-13 08:21:16,561 - INFO - Crawling page 98 on ilgm.com: https://ilgm.com/resources/guides/how-to-start-your-cannabis-cultivation-journey#why-you-should-consider-growing-your-own
+2026-01-13 08:21:18,897 - INFO - Crawling page 99 on ilgm.com: https://ilgm.com/resources/guides/a-beginners-guide-to-growing-cannabis-in-pots#do-you-need-containers-or-pots-to-grow-cannabis-outdoors
+2026-01-13 08:21:21,353 - INFO - Crawling page 100 on ilgm.com: https://ilgm.com/resources/guides/how-to-grow-cannabis-in-coco-coir#more-things-to-know-about-your-coco-grow
+2026-01-13 08:21:23,630 - INFO - Completed crawling ilgm.com: 133 strain URLs found
+2026-01-13 08:21:23,639 - INFO - Added 133 new URLs from ilgm.com
+2026-01-13 08:21:23,639 - INFO - Discovered 133 strain URLs from ilgm.com
+2026-01-13 08:21:28,641 - INFO - Starting HTML collection for all discovered URLs
+2026-01-13 08:21:28,644 - INFO - Processing batch of 50 URLs
+2026-01-13 08:21:31,069 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/white-cherry-runtz-strain-feminized-marijuana-seeds/
+2026-01-13 08:21:31,534 - INFO - SUCCESS: https://www.barneysfarm.com/us/bruce-banner-weed-strain-684
+2026-01-13 08:21:32,205 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/purple-pickle/
+2026-01-13 08:21:34,054 - INFO - SUCCESS: https://ilgm.com/products/hindu-kush-feminized-seeds
+2026-01-13 08:21:35,685 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/blue-frost-feminized-seeds/
+2026-01-13 08:21:36,388 - INFO - SUCCESS: https://www.barneysfarm.com/us/insane-og-weed-strain-745
+2026-01-13 08:21:38,371 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/layer-cake-strain-feminized-marijuana-seeds/
+2026-01-13 08:21:39,914 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/oregon-peach-marijuana-seeds/
+2026-01-13 08:21:42,881 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/white-banner-marijuana-seeds/
+2026-01-13 08:21:48,846 - INFO - SUCCESS: https://ilgm.com/products/california-dream-feminized-seeds
+2026-01-13 08:21:57,032 - INFO - SUCCESS: https://ilgm.com/products/pineapple-diesel-autoflower-seeds
+2026-01-13 08:21:58,496 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/blue-bullet/
+2026-01-13 08:21:59,975 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/cotton-candy-feminized-marijuana-seeds/
+2026-01-13 08:22:01,159 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/apple-crisp-strain-feminized-marijuana-seeds/
+2026-01-13 08:22:03,494 - INFO - SUCCESS: https://ilgm.com/products/durban-poison-feminized-seeds
+2026-01-13 08:22:05,096 - INFO - SUCCESS: https://ilgm.com/products/cheese-autoflower-seeds
+2026-01-13 08:22:06,399 - INFO - SUCCESS: https://ilgm.com/products/blue-dream-autoflower-seeds
+2026-01-13 08:22:06,987 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/candy-buds/
+2026-01-13 08:22:07,987 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/chocolate-runtz-feminized-seeds/
+2026-01-13 08:22:08,434 - INFO - SUCCESS: https://www.barneysfarm.com/us/rainbow-sherbet-weed-strain-714
+2026-01-13 08:22:08,878 - INFO - SUCCESS: https://www.barneysfarm.com/us/moby-dick-auto-autoflower-strain-562
+2026-01-13 08:22:09,315 - INFO - SUCCESS: https://www.barneysfarm.com/us/lemon-cherry-gelato-weed-strain-701
+2026-01-13 08:22:09,937 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/white-widow/
+2026-01-13 08:22:10,527 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/ghostbuzzters-og/
+2026-01-13 08:22:11,152 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/blue-sunset/
+2026-01-13 08:22:11,801 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/venice-og-fem-fast-version-marijuana-seeds/
+2026-01-13 08:22:13,176 - INFO - SUCCESS: https://ilgm.com/products/tangie-feminized-seeds
+2026-01-13 08:22:13,617 - INFO - SUCCESS: https://www.barneysfarm.com/us/wedding-cake-auto-autoflower-strain-514
+2026-01-13 08:22:14,263 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/cherry-bacio/
+2026-01-13 08:22:14,950 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/dutch-delight-feminized-seeds/
+2026-01-13 08:22:15,644 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/nevilles-haze-marijuana-seeds/
+2026-01-13 08:22:16,982 - INFO - SUCCESS: https://ilgm.com/products/granddaddy-purple-feminized-seeds
+2026-01-13 08:22:18,254 - INFO - SUCCESS: https://ilgm.com/products/critical-mass-cbd-feminized-seeds
+2026-01-13 08:22:18,715 - INFO - SUCCESS: https://www.barneysfarm.com/us/shiskaberry-weed-strain-458
+2026-01-13 08:22:19,300 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/tangerine-sugar/
+2026-01-13 08:22:19,951 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/purple-urkle-marijuana-seeds/
+2026-01-13 08:22:21,217 - INFO - SUCCESS: https://ilgm.com/products/la-confidential-feminized-seeds
+2026-01-13 08:22:21,672 - INFO - SUCCESS: https://www.barneysfarm.com/us/mimosa-evo-weed-strain-510
+2026-01-13 08:22:22,135 - INFO - SUCCESS: https://www.barneysfarm.com/us/gg4-auto-autoflower-strain-515
+2026-01-13 08:22:22,802 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/pumpkin-spice/
+2026-01-13 08:22:23,532 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/glue-sniffer-feminized-seeds/
+2026-01-13 08:22:24,104 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/jack-herer/
+2026-01-13 08:22:24,809 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/strawberry-cheesecake-strain-feminized-marijuana-seeds/
+2026-01-13 08:22:25,564 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/citral-glue-strain-feminized-marijuana-seeds/
+2026-01-13 08:22:26,847 - INFO - SUCCESS: https://ilgm.com/products/critical-mass-autoflower-seeds
+2026-01-13 08:22:27,446 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/glamour/
+2026-01-13 08:22:28,178 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/black-cherry-cheesecake-strain-feminized-marijuana-seeds/
+2026-01-13 08:22:29,481 - INFO - SUCCESS: https://ilgm.com/products/papaya-kush-autoflower-seeds
+2026-01-13 08:22:30,820 - INFO - SUCCESS: https://ilgm.com/products/super-silver-haze-feminized-seeds
+2026-01-13 08:22:32,510 - INFO - SUCCESS: https://ilgm.com/products/apple-fritter-feminized-seeds
+2026-01-13 08:22:32,512 - INFO - Progress: 50/620 (8.1%) | Failed: 0 | Pending: 570
+2026-01-13 08:22:32,513 - INFO - Processing batch of 50 URLs
+2026-01-13 08:22:34,273 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/blueberry-frosting-feminized-seeds/
+2026-01-13 08:22:34,694 - INFO - SUCCESS: https://www.barneysfarm.com/us/gary-payton-weed-strain-683
+2026-01-13 08:22:35,274 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/bahama-mama/
+2026-01-13 08:22:36,638 - INFO - SUCCESS: https://ilgm.com/products/jealousy-feminized-seeds
+2026-01-13 08:22:37,511 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/platinum-punch-strain-feminized-marijuana-seeds/
+2026-01-13 08:22:38,206 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/mai-tai-strain-feminized-marijuana-seeds/
+2026-01-13 08:22:38,941 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/critical-plus-feminized-seeds/
+2026-01-13 08:22:39,376 - INFO - SUCCESS: https://www.barneysfarm.com/us/gelato-weed-strain-628
+2026-01-13 08:22:40,842 - INFO - SUCCESS: https://ilgm.com/products/super-skunk-autoflower-seeds
+2026-01-13 08:22:41,319 - INFO - SUCCESS: https://www.barneysfarm.com/us/ayahuasca-purple-weed-strain-18
+2026-01-13 08:22:41,981 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/sativa-star-marijuana-seeds/
+2026-01-13 08:22:43,343 - INFO - SUCCESS: https://ilgm.com/products/white-runtz-feminized-seeds
+2026-01-13 08:22:44,144 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/intergarlactic-budder-strain/
+2026-01-13 08:22:44,809 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/gas-cake-strain-feminized-marijuana-seeds/
+2026-01-13 08:22:46,313 - INFO - SUCCESS: https://ilgm.com/products/tangie-queen-seeds
+2026-01-13 08:22:46,999 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/star-pebbles-feminized-seeds/
+2026-01-13 08:22:48,653 - INFO - SUCCESS: https://ilgm.com/products/carma-cbd-feminized-seeds
+2026-01-13 08:22:49,479 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/super-skunk/
+2026-01-13 08:22:50,499 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/pink-oreoz-feminized-seeds/
+2026-01-13 08:22:51,491 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/biscotti-mintz-strain-feminized-marijuana-seeds/
+2026-01-13 08:22:52,012 - INFO - SUCCESS: https://www.barneysfarm.com/us/zkittlez-og-auto-autoflower-strain-472
+2026-01-13 08:22:55,103 - INFO - SUCCESS: https://ilgm.com/products/andes-mintz-seeds
+2026-01-13 08:22:55,751 - INFO - SUCCESS: https://www.barneysfarm.com/us/purple-punch-weed-strain-483
+2026-01-13 08:22:56,919 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/sweet-cherry-kush/
+2026-01-13 08:22:59,629 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/sorbet-strain/
+2026-01-13 08:23:07,248 - INFO - SUCCESS: https://ilgm.com/products/gelato-autoflower-seeds
+2026-01-13 08:23:08,711 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/black-domina/
+2026-01-13 08:23:10,919 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/jamaican-pearl/
+2026-01-13 08:23:12,955 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/double-cross-strain-feminized-marijuana-seeds/
+2026-01-13 08:23:15,254 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/grapefruit-marijuana-seeds-3/
+2026-01-13 08:23:22,620 - INFO - SUCCESS: https://ilgm.com/products/chocolope-feminized-seeds
+2026-01-13 08:23:25,348 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/rated-r-feminized-seeds/
+2026-01-13 08:23:27,187 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/redline-feminized-seeds/
+2026-01-13 08:23:33,266 - INFO - SUCCESS: https://ilgm.com/products/sour-diesel-feminized-seeds
+2026-01-13 08:23:39,478 - INFO - SUCCESS: https://ilgm.com/products/alien-haze-feminized-seeds
+2026-01-13 08:23:41,958 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/peanut-butter-cookies-strain-feminized-marijuana-seeds/
+2026-01-13 08:23:44,359 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/biscotti-cake-strain-feminized-marijuana-seeds/
+2026-01-13 08:23:50,112 - INFO - SUCCESS: https://ilgm.com/products/biscotti-autoflower-seeds
+2026-01-13 08:23:53,130 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/blue-og-marijuana-seeds/
+2026-01-13 08:23:59,318 - INFO - SUCCESS: https://ilgm.com/products/super-skunk-feminized-seeds
+2026-01-13 08:24:01,935 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/royal-gorilla-strain/
+2026-01-13 08:24:03,661 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/gmo-s1-feminized-seeds/
+2026-01-13 08:24:05,521 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/fat-billy-strain-feminized-marijuana-seeds/
+2026-01-13 08:24:08,861 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/rainbow-feminized-seeds/
+2026-01-13 08:24:12,323 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/oishii-feminized-seeds/
+2026-01-13 08:24:17,536 - INFO - SUCCESS: https://ilgm.com/products/skywalker-og-feminized-seeds
+2026-01-13 08:24:18,133 - INFO - SUCCESS: https://www.barneysfarm.com/us/purple-punch-auto-autoflower-strain-484
+2026-01-13 08:24:19,645 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/g-wagon-strain-feminized-marijuana-seeds/
+2026-01-13 08:24:20,485 - INFO - SUCCESS: https://www.barneysfarm.com/us/skywalker-og-auto-autoflower-strain-535
+2026-01-13 08:24:24,889 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/citrus-fuel/
+2026-01-13 08:24:24,891 - INFO - Progress: 100/620 (16.1%) | Failed: 0 | Pending: 520
+2026-01-13 08:24:24,892 - INFO - Processing batch of 50 URLs
+2026-01-13 08:24:28,660 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/black-scotti-strain-feminized-marijuana-seeds/
+2026-01-13 08:24:32,445 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/bty-og-feminized-seeds/
+2026-01-13 08:24:33,311 - INFO - SUCCESS: https://www.barneysfarm.com/us/strawberry-lemonade-weed-strain-466
+2026-01-13 08:24:35,418 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/10gs-feminized-seeds/
+2026-01-13 08:24:37,189 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/blueberry-marijuana-seeds-4/
+2026-01-13 08:24:38,807 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/92-og-feminized-seeds/
+2026-01-13 08:24:41,001 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/african-orange-feminized-seeds/
+2026-01-13 08:24:44,261 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/haupia-feminized-seeds/
+2026-01-13 08:24:46,104 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/frosted-lemon-feminized-seeds/
+2026-01-13 08:24:46,893 - INFO - SUCCESS: https://www.barneysfarm.com/us/black-cherry-gushers-weed-strain-700
+2026-01-13 08:24:53,118 - INFO - SUCCESS: https://ilgm.com/products/cbd-kush-autoflower-seeds
+2026-01-13 08:24:58,342 - INFO - SUCCESS: https://ilgm.com/products/orange-bud-feminized-seeds
+2026-01-13 08:24:59,702 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/lemon-slushie-strain-feminized-marijuana-seeds/
+2026-01-13 08:25:01,023 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/lemon-bars-strain-feminized-marijuana-seeds/
+2026-01-13 08:25:01,539 - INFO - SUCCESS: https://www.barneysfarm.com/us/blue-cheese-weed-strain-34
+2026-01-13 08:25:02,573 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/mochi-strain-feminized-marijuana-seeds/
+2026-01-13 08:25:04,539 - INFO - SUCCESS: https://ilgm.com/products/lowryder-autoflower-seeds
+2026-01-13 08:25:05,299 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/purple-sunset-strain-feminized-marijuana-seeds/
+2026-01-13 08:25:06,602 - INFO - SUCCESS: https://ilgm.com/products/peanut-butter-breath-feminized-seeds
+2026-01-13 08:25:07,460 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/narnia-feminized-seeds/
+2026-01-13 08:25:08,053 - INFO - SUCCESS: https://sensiseeds.us/regular-seeds/skunk-1/
+2026-01-13 08:25:08,506 - INFO - SUCCESS: https://www.barneysfarm.com/us/limoncello-weed-strain-691
+2026-01-13 08:25:09,114 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/candy-hash/
+2026-01-13 08:25:09,814 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/bahama-mama-strain-feminized-marijuana-seeds/
+2026-01-13 08:25:10,385 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/the-bird/
+2026-01-13 08:25:10,959 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/girl-scout-cookies/
+2026-01-13 08:25:12,362 - INFO - SUCCESS: https://ilgm.com/products/master-kush-feminized-seeds
+2026-01-13 08:25:13,052 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/white-og-strain-feminized-marijuana-seeds/
+2026-01-13 08:25:14,322 - INFO - SUCCESS: https://ilgm.com/products/northern-lights-autoflower-seeds
+2026-01-13 08:25:14,907 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/sensi-amnesia/
+2026-01-13 08:25:15,600 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/banana-bread-strain-feminized-marijuana-seeds/
+2026-01-13 08:25:16,308 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/bluemosa-feminized-seeds/
+2026-01-13 08:25:17,641 - INFO - SUCCESS: https://ilgm.com/products/gruntz-autoflower-seeds
+2026-01-13 08:25:18,955 - INFO - SUCCESS: https://ilgm.com/products/granddaddy-purple-autoflower-seeds
+2026-01-13 08:25:19,631 - INFO - SUCCESS: https://sensiseeds.us/product-category/feminized-seeds/
+2026-01-13 08:25:20,980 - INFO - SUCCESS: https://ilgm.com/products/strawberry-cough-feminized-seeds
+2026-01-13 08:25:21,710 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/kazuma-feminized-seeds/
+2026-01-13 08:25:22,943 - INFO - SUCCESS: https://ilgm.com/products/gooseberry-syrup-autoflower-seeds
+2026-01-13 08:25:23,582 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/durban/
+2026-01-13 08:25:24,373 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/purple-haze-marijuana-seeds-2/
+2026-01-13 08:25:24,968 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/grease-slapper/
+2026-01-13 08:25:25,428 - INFO - SUCCESS: https://www.barneysfarm.com/us/jealousy-weed-strain-709
+2026-01-13 08:25:26,010 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/super-skunk/
+2026-01-13 08:25:27,383 - INFO - SUCCESS: https://ilgm.com/products/blue-dream-feminized-seeds
+2026-01-13 08:25:28,091 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/joes-exotic-feminized-seeds/
+2026-01-13 08:25:28,949 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/oreoz-strain-feminized-marijuana-seeds/
+2026-01-13 08:25:29,381 - INFO - SUCCESS: https://www.barneysfarm.com/us/candy-pack-weed-strain-726
+2026-01-13 08:25:30,685 - INFO - SUCCESS: https://ilgm.com/products/godfather-og-feminized-seeds
+2026-01-13 08:25:31,392 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/bubba-fett-strain-feminized-marijuana-seeds/
+2026-01-13 08:25:32,080 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/bear-claw-feminized-seeds/
+2026-01-13 08:25:32,082 - INFO - Progress: 150/620 (24.2%) | Failed: 0 | Pending: 470
+2026-01-13 08:25:32,083 - INFO - Processing batch of 50 URLs
+2026-01-13 08:25:33,848 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/gg2-feminized-seeds/
+2026-01-13 08:25:34,305 - INFO - SUCCESS: https://www.barneysfarm.com/us/apple-fritter-weed-strain-682
+2026-01-13 08:25:35,677 - INFO - SUCCESS: https://ilgm.com/products/runtz-feminized-seeds
+2026-01-13 08:25:36,545 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/diamond-og-strain-feminized-marijuana-seeds/
+2026-01-13 08:25:37,214 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/its-it-feminized-seeds/
+2026-01-13 08:25:37,641 - INFO - SUCCESS: https://www.barneysfarm.com/us/high-cbd-strain-seeds
+2026-01-13 08:25:38,325 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/starchild-strain/
+2026-01-13 08:25:39,017 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/blueberry-muffin-strain-feminized-marijuana-seeds/
+2026-01-13 08:25:39,637 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/grapevine-candy/
+2026-01-13 08:25:40,089 - INFO - SUCCESS: https://www.barneysfarm.com/us/watermelon-zkittlez-weed-strain-536
+2026-01-13 08:25:41,444 - INFO - SUCCESS: https://ilgm.com/products/blueberry-autoflower-seeds
+2026-01-13 08:25:42,136 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/super-zoldier-serum-strain-feminized-marijuana-seeds/
+2026-01-13 08:25:43,493 - INFO - SUCCESS: https://ilgm.com/products/amnesia-haze-feminized-seeds
+2026-01-13 08:25:43,965 - INFO - SUCCESS: https://www.barneysfarm.com/us/ice-cream-cake-weed-strain-632
+2026-01-13 08:25:44,552 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/hindu-kush/
+2026-01-13 08:25:46,047 - INFO - SUCCESS: https://ilgm.com/products/critical-mass-cbd-autoflower-seeds
+2026-01-13 08:25:46,831 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/godfather-og-strain-feminized-marijuana-seeds/
+2026-01-13 08:25:47,274 - INFO - SUCCESS: https://www.barneysfarm.com/us/critical-kush-weed-strain-23
+2026-01-13 08:25:47,722 - INFO - SUCCESS: https://www.barneysfarm.com/us/tropicanna-banana-weed-strain-500
+2026-01-13 08:25:48,447 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/pearadise-feminized-seeds/
+2026-01-13 08:25:49,598 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/runtz-your-face-off-strain-feminized-marijuana-seeds/
+2026-01-13 08:25:50,789 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/larry-og-strain-feminized-marijuana-seeds/
+2026-01-13 08:25:52,041 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/blue-skunk/
+2026-01-13 08:25:54,065 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/strawberry-cream-cake-strain-feminized-marijuana-seeds/
+2026-01-13 08:26:00,155 - INFO - SUCCESS: https://ilgm.com/products/gorilla-glue-feminized-seeds
+2026-01-13 08:26:02,368 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/chicken-n-wafflez-strain-feminized-seeds/
+2026-01-13 08:26:08,438 - INFO - SUCCESS: https://ilgm.com/products/mango-kush-feminized-seeds
+2026-01-13 08:26:10,182 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/amnesia-jelly/
+2026-01-13 08:26:12,469 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/goat-feminized-seeds/
+2026-01-13 08:26:14,254 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/mango-mintality-feminized-seeds/
+2026-01-13 08:26:16,049 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/cord-strain-relief-feminized-marijuana-seeds/
+2026-01-13 08:26:21,690 - INFO - SUCCESS: https://ilgm.com/products/chem-n-candy-seeds
+2026-01-13 08:26:24,318 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/gummy-buns-strain-feminized-marijuana-seeds/
+2026-01-13 08:26:27,155 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/arise-feminized-seeds/
+2026-01-13 08:26:29,623 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/moose-and-lobsta-feminized-seeds/
+2026-01-13 08:26:31,939 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/big-bud/
+2026-01-13 08:26:34,620 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/bubba-kush-marijuana-seeds/
+2026-01-13 08:26:41,912 - INFO - SUCCESS: https://ilgm.com/products/biscotti-bliss-feminized-seeds
+2026-01-13 08:26:44,307 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/moon-beam-feminized-seeds/
+2026-01-13 08:26:45,958 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/platinum-lemon-cherry-strain-feminized-marijuana-seeds/
+2026-01-13 08:26:49,119 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/humboldt-pound-cake-strain-feminized/
+2026-01-13 08:26:52,397 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/gruntz-feminized-seeds/
+2026-01-13 08:26:54,952 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/sour-runtz-strain-feminized-marijuana-seeds/
+2026-01-13 08:26:58,761 - INFO - SUCCESS: https://ilgm.com/products/white-runtz-autoflower-seeds
+2026-01-13 08:27:00,585 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/banjo-feminized-seeds/
+2026-01-13 08:27:01,486 - INFO - SUCCESS: https://www.barneysfarm.com/us/tangerine-dream-auto-autoflower-strain-330
+2026-01-13 08:27:08,295 - INFO - SUCCESS: https://ilgm.com/products/banana-kush-autoflower-seeds
+2026-01-13 08:27:09,085 - INFO - SUCCESS: https://www.barneysfarm.com/us/mimosa-x-orange-punch-weed-strain-552
+2026-01-13 08:27:12,301 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/headband-kiwi/
+2026-01-13 08:27:17,632 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/sour-diesel-marijuana-seeds/
+2026-01-13 08:27:17,634 - INFO - Progress: 200/620 (32.3%) | Failed: 0 | Pending: 420
+2026-01-13 08:27:17,635 - INFO - Processing batch of 50 URLs
+2026-01-13 08:27:20,214 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/clementine-crush-strain-feminized-seeds/
+2026-01-13 08:27:22,206 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/bc-feminized-seeds/
+2026-01-13 08:27:24,889 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/fudgesicle-strain-feminized-marijuana-seeds/
+2026-01-13 08:27:26,953 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/pineapple/
+2026-01-13 08:27:34,269 - INFO - SUCCESS: https://ilgm.com/products/crystal-feminized-seeds
+2026-01-13 08:27:36,898 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/wedding-cheesecake/
+2026-01-13 08:27:43,036 - INFO - SUCCESS: https://ilgm.com/products/bubblegum-feminized-seeds
+2026-01-13 08:27:45,998 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/black-banana-strain-feminized-marijuana-seeds/
+2026-01-13 08:27:48,938 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/chocolate-covered-strawberries-feminized-seeds/
+2026-01-13 08:27:52,126 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/cherry-lemonade-feminized-marijuana-seeds/
+2026-01-13 08:27:58,945 - INFO - SUCCESS: https://ilgm.com/products/la-kush-cake-feminized-seeds
+2026-01-13 08:28:01,818 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/mob-feminized-seeds/
+2026-01-13 08:28:03,822 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/sherbet-haze/
+2026-01-13 08:28:05,591 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/fallout-og/
+2026-01-13 08:28:07,069 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/og-kush/
+2026-01-13 08:28:09,105 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/permanent-marker-strain-feminized-marijuana-seeds/
+2026-01-13 08:28:11,239 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/sensi-purple-kush/
+2026-01-13 08:28:15,644 - INFO - SUCCESS: https://ilgm.com/products/ak-47-autoflower-seeds
+2026-01-13 08:28:18,156 - INFO - SUCCESS: https://ilgm.com/products/apple-strudel-seeds
+2026-01-13 08:28:19,131 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/blueberry-lemonade-strain-feminized-marijuana-seeds/
+2026-01-13 08:28:21,002 - INFO - SUCCESS: https://ilgm.com/products/agent-orange-feminized-seeds
+2026-01-13 08:28:21,866 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/dragonfruit-chocolate-strain-feminized-seeds/
+2026-01-13 08:28:22,575 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/skunk-marijuana-seeds-3/
+2026-01-13 08:28:23,454 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/ghost-candy-strain-feminized-marijuana-seeds/
+2026-01-13 08:28:23,918 - INFO - SUCCESS: https://www.barneysfarm.com/us/cookie-casket-weed-strain-722
+2026-01-13 08:28:24,334 - INFO - SUCCESS: https://www.barneysfarm.com/us/blue-dream-weed-strain-687
+2026-01-13 08:28:24,749 - INFO - SUCCESS: https://www.barneysfarm.com/us/lsd-auto-autoflower-strain-470
+2026-01-13 08:28:25,434 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/cresco-triangle-feminized-seeds/
+2026-01-13 08:28:26,001 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/pure-power-plant/
+2026-01-13 08:28:27,307 - INFO - SUCCESS: https://ilgm.com/products/gelato-sunrise-feminized-seeds
+2026-01-13 08:28:28,030 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/blackberry-cheesecake-strain-feminized-marijuana-seeds/
+2026-01-13 08:28:28,742 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/doc-og-feminized-seeds/
+2026-01-13 08:28:30,165 - INFO - SUCCESS: https://ilgm.com/products/jack-herer-autoflower-seeds
+2026-01-13 08:28:30,588 - INFO - SUCCESS: https://www.barneysfarm.com/us/zoap-weed-strain-708
+2026-01-13 08:28:31,307 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/fire-water-feminized-seeds/
+2026-01-13 08:28:31,973 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/frosted-cherry-cookies-strain-feminized-marijuana-seeds/
+2026-01-13 08:28:32,665 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/sour-berry-og-strain/
+2026-01-13 08:28:33,224 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/white-skunk/
+2026-01-13 08:28:34,534 - INFO - SUCCESS: https://ilgm.com/products/candy-kush-feminized-seeds
+2026-01-13 08:28:35,189 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/chemdog-feminized-marijuana-seeds/
+2026-01-13 08:28:36,512 - INFO - SUCCESS: https://ilgm.com/products/mimosa-feminized-seeds
+2026-01-13 08:28:36,944 - INFO - SUCCESS: https://www.barneysfarm.com/us/bubblegum-gelato-weed-strain-719
+2026-01-13 08:28:37,643 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/animal-sherbert-strain-feminized-marijuana-seeds/
+2026-01-13 08:28:38,227 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/mexican-sativa/
+2026-01-13 08:28:39,493 - INFO - SUCCESS: https://ilgm.com/products/gold-leaf-feminized-seeds
+2026-01-13 08:28:40,816 - INFO - SUCCESS: https://ilgm.com/products/white-widow-cbd-feminized-seeds
+2026-01-13 08:28:41,515 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/fuji-feminized-seeds/
+2026-01-13 08:28:42,249 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/triple-chocolate-chip-strain-feminized-marijuana-seeds/
+2026-01-13 08:28:43,591 - INFO - SUCCESS: https://ilgm.com/products/la-kush-cake-autoflower-seeds
+2026-01-13 08:28:44,807 - INFO - SUCCESS: https://ilgm.com/products/gmo-cookies-feminized-seeds
+2026-01-13 08:28:44,809 - INFO - Progress: 250/620 (40.3%) | Failed: 0 | Pending: 370
+2026-01-13 08:28:44,810 - INFO - Processing batch of 50 URLs
+2026-01-13 08:28:46,758 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/gumi-feminized-seeds/
+2026-01-13 08:28:47,385 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/jack-herer/
+2026-01-13 08:28:48,754 - INFO - SUCCESS: https://ilgm.com/products/apple-fritter-autoflower-seeds
+2026-01-13 08:28:49,191 - INFO - SUCCESS: https://www.barneysfarm.com/us/strawberry-cheesecake-auto-autoflower-strain-569
+2026-01-13 08:28:49,861 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/silver-haze-feminized-seeds/
+2026-01-13 08:28:50,535 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/pie-hoe-strain-feminized-marijuana-seeds/
+2026-01-13 08:28:51,911 - INFO - SUCCESS: https://ilgm.com/products/fire-og-feminized-seeds
+2026-01-13 08:28:52,342 - INFO - SUCCESS: https://www.barneysfarm.com/us/girl-scout-cookies-weed-strain-626
+2026-01-13 08:28:53,666 - INFO - SUCCESS: https://ilgm.com/products/blueberry-cbd-feminized-seeds
+2026-01-13 08:28:54,419 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/gumdrop-strain-feminized-marijuana-seeds/
+2026-01-13 08:28:54,979 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/skunk-1/
+2026-01-13 08:28:55,424 - INFO - SUCCESS: https://www.barneysfarm.com/us/super-boof-weed-strain-716
+2026-01-13 08:28:56,027 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/sensi-amnesia/
+2026-01-13 08:28:56,470 - INFO - SUCCESS: https://www.barneysfarm.com/us/sour-diesel-weed-strain-647
+2026-01-13 08:28:56,884 - INFO - SUCCESS: https://www.barneysfarm.com/us/pineapple-chunk-weed-strain-15
+2026-01-13 08:28:58,245 - INFO - SUCCESS: https://ilgm.com/products/og-kush-feminized-seeds
+2026-01-13 08:28:59,046 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/snow-dream-feminized-seeds/
+2026-01-13 08:29:00,049 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/big-bud-marijuana-seeds-2/
+2026-01-13 08:29:05,727 - INFO - SUCCESS: https://ilgm.com/products/maui-wowie-feminized-seeds
+2026-01-13 08:29:06,984 - INFO - SUCCESS: https://sensiseeds.us/regular-seeds/early-girl/
+2026-01-13 08:29:08,832 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/la-kush-cake-feminized-marijuana-seeds/
+2026-01-13 08:29:11,451 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/vlad-the-inhaler/
+2026-01-13 08:29:13,374 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/black-dahlia-feminized-seeds/
+2026-01-13 08:29:14,814 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/cognac-feminized-seeds/
+2026-01-13 08:29:20,399 - INFO - SUCCESS: https://ilgm.com/products/gorilla-glue-autoflower-seeds
+2026-01-13 08:29:22,323 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/truffle-strain-feminized-marijuana-seeds/
+2026-01-13 08:29:24,774 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/primus-feminized-seeds/
+2026-01-13 08:29:26,335 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/mandarine-jam/
+2026-01-13 08:29:27,979 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/rollozz-feminized-seeds/
+2026-01-13 08:29:32,481 - INFO - SUCCESS: https://ilgm.com/products/blue-cheese-feminized-seeds
+2026-01-13 08:29:34,131 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/girl-best-friend-strain-feminized-marijuana-seeds/
+2026-01-13 08:29:36,267 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/mandarin-gorilla-feminized-seeds/
+2026-01-13 08:29:38,164 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/thin-mint-kiwi/
+2026-01-13 08:29:40,347 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/pineapple-kush-cake/
+2026-01-13 08:29:45,977 - INFO - SUCCESS: https://ilgm.com/products/super-lemon-haze-autoflower-seeds
+2026-01-13 08:29:47,330 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/choco/
+2026-01-13 08:29:53,996 - INFO - SUCCESS: https://ilgm.com/products/wedding-cake-feminized-seeds
+2026-01-13 08:29:55,874 - INFO - SUCCESS: https://sensiseeds.us/regular-seeds/ed-rosenthal-super-bud/
+2026-01-13 08:30:04,023 - INFO - SUCCESS: https://ilgm.com/products/wedding-cake-autoflower-seeds
+2026-01-13 08:30:06,147 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/blueberry-candiez/
+2026-01-13 08:30:08,439 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/kush-sorbet-feminized-marijuana-seeds/
+2026-01-13 08:30:10,790 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/sundae-driver-strain-feminized-marijuana-seeds/
+2026-01-13 08:30:13,678 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/donkey-butter-strain-feminized-marijuana-seeds/
+2026-01-13 08:30:16,753 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/motorhead-strain-feminized-marijuana-seeds/
+2026-01-13 08:30:18,815 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/alien-technology-marijuana-seeds-2/
+2026-01-13 08:30:19,839 - INFO - SUCCESS: https://www.barneysfarm.com/us/skunk-1-weed-strain-762
+2026-01-13 08:30:22,332 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/papaya-jealousy/
+2026-01-13 08:30:25,842 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/wham-strain-feminized-marijuana-seeds/
+2026-01-13 08:30:27,924 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/military-chocolate-strain-feminized-marijuana-seeds/
+2026-01-13 08:30:31,666 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/drago-strain-feminized-marijuana-seeds/
+2026-01-13 08:30:31,668 - INFO - Progress: 300/620 (48.4%) | Failed: 0 | Pending: 320
+2026-01-13 08:30:31,669 - INFO - Processing batch of 50 URLs
+2026-01-13 08:30:33,625 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/captain-crunch-strain-feminized-marijuana-seeds/
+2026-01-13 08:30:35,123 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/jedi-kush-feminized-cannabis-seeds/
+2026-01-13 08:30:35,664 - INFO - SUCCESS: https://www.barneysfarm.com/us/acapulco-gold-weed-strain-26
+2026-01-13 08:30:36,179 - INFO - SUCCESS: https://www.barneysfarm.com/us/white-widow-xxl-auto-autoflower-strain-592
+2026-01-13 08:30:36,660 - INFO - SUCCESS: https://www.barneysfarm.com/us/runtz-x-layer-cake-weed-strain-597
+2026-01-13 08:30:38,256 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/high-voltage-feminized-seeds/
+2026-01-13 08:30:40,800 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/cherry-malt-strain-feminized-marijuana-seeds/
+2026-01-13 08:30:42,855 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/london-pound-mints-strain-feminized-marijuana-seeds-2/
+2026-01-13 08:30:50,323 - INFO - SUCCESS: https://ilgm.com/products/critical-mass-feminized-seeds
+2026-01-13 08:30:53,148 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/peanut-butter-and-jelly-strain-feminized-marijuana-seeds/
+2026-01-13 08:30:53,933 - INFO - SUCCESS: https://www.barneysfarm.com/us/wedding-cake-weed-strain-511
+2026-01-13 08:30:56,913 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/savage-souffle-strain-feminized-seeds/
+2026-01-13 08:30:59,778 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/moonbeam-feminized-seeds/
+2026-01-13 08:31:03,340 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/apple-sundae-strain-feminized-marijuana-seeds/
+2026-01-13 08:31:06,155 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/horchata-strain-feminized-marijuana-seeds/
+2026-01-13 08:31:08,864 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/royal-watermelon-wreck-strain-feminized-seeds/
+2026-01-13 08:31:09,760 - INFO - SUCCESS: https://www.barneysfarm.com/us/mimosa-x-orange-punch-auto-autoflower-strain-596
+2026-01-13 08:31:12,711 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/japanese-peaches-strain-feminized-marijuana-seeds/
+2026-01-13 08:31:15,018 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/papaya-cake-strain-feminized-marijuana-seeds/
+2026-01-13 08:31:16,822 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/fruit-pops-strain-feminized-marijuana-seeds/
+2026-01-13 08:31:18,441 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/watermelon-zkittlez-strain-feminized-marijuana-seeds/
+2026-01-13 08:31:19,739 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/banana-sundae-feminized-marijuana-seeds/
+2026-01-13 08:31:21,182 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/future-1-strain-feminized-marijuana-seeds/
+2026-01-13 08:31:24,880 - INFO - SUCCESS: https://ilgm.com/products/og-kush-autoflower-seeds
+2026-01-13 08:31:26,283 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/blue-16-feminized-seeds/
+2026-01-13 08:31:27,565 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/venom-og-strain-feminized-marijuana-seeds/
+2026-01-13 08:31:30,144 - INFO - SUCCESS: https://ilgm.com/products/amnesia-haze-autoflower-seeds
+2026-01-13 08:31:32,852 - INFO - SUCCESS: https://ilgm.com/products/banana-kush-feminized-seeds
+2026-01-13 08:31:33,881 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/double-kush-cake/
+2026-01-13 08:31:34,987 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/banana-nerds-strain-feminized-marijuana-seeds/
+2026-01-13 08:31:36,472 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/galaxy-feminized-marijuana-seeds/
+2026-01-13 08:31:37,032 - INFO - SUCCESS: https://www.barneysfarm.com/us/thin-mint-x-sour-pinot-auto-autoflower-strain-723
+2026-01-13 08:31:38,010 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/sticky-orange-xxl/
+2026-01-13 08:31:39,052 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/purple-haze/
+2026-01-13 08:31:41,304 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/lockdown-kush/
+2026-01-13 08:31:42,304 - INFO - SUCCESS: https://www.barneysfarm.com/us/dos-si-dos-auto-autoflower-strain-513
+2026-01-13 08:31:44,127 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/white-biscotti-og-xxl/
+2026-01-13 08:31:47,881 - INFO - SUCCESS: https://ilgm.com/products/mimosa-autoflower-seeds
+2026-01-13 08:31:52,413 - INFO - SUCCESS: https://ilgm.com/products/sour-diesel-autoflower-seeds
+2026-01-13 08:31:54,623 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/purple-cream-strain-feminized-marijuana-seeds/
+2026-01-13 08:31:56,178 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/pinnacle-strain-feminized-marijuana-seeds/
+2026-01-13 08:31:57,333 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/white-haze/
+2026-01-13 08:32:00,943 - INFO - SUCCESS: https://ilgm.com/products/tokyo-sweet-seeds
+2026-01-13 08:32:02,158 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/rs54-strain-feminized-marijuana-seeds/
+2026-01-13 08:32:03,279 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/kitchen-sink-strain-feminized-marijuana-seeds/
+2026-01-13 08:32:04,907 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/pink-pussy-strain-feminized-marijuana-seeds/
+2026-01-13 08:32:08,389 - INFO - SUCCESS: https://ilgm.com/products/ak-47-feminized-seeds
+2026-01-13 08:32:09,747 - INFO - SUCCESS: https://www.barneysfarm.com/us/papaya-frosting-weed-strain-756
+2026-01-13 08:32:11,659 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/night-terror-og-feminized-seeds/
+2026-01-13 08:32:17,924 - INFO - SUCCESS: https://ilgm.com/products/zkittlez-autoflower-seeds
+2026-01-13 08:32:17,926 - INFO - Progress: 350/620 (56.5%) | Failed: 0 | Pending: 270
+2026-01-13 08:32:17,927 - INFO - Processing batch of 50 URLs
+2026-01-13 08:32:19,809 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/lemon-tree-marijuana-seeds/
+2026-01-13 08:32:21,681 - INFO - SUCCESS: https://ilgm.com/products/bruce-banner-feminized-seeds
+2026-01-13 08:32:22,153 - INFO - SUCCESS: https://www.barneysfarm.com/us/amnesia-haze-auto-autoflower-strain-563
+2026-01-13 08:32:23,197 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/gorillaz/
+2026-01-13 08:32:24,042 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/forum-cookies-strain-feminized-marijuana-seeds/
+2026-01-13 08:32:25,098 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/animal-gelato-feminized-seeds/
+2026-01-13 08:32:25,610 - INFO - SUCCESS: https://www.barneysfarm.com/us/biscotti-weed-strain-627
+2026-01-13 08:32:26,893 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/banana-kush-cake/
+2026-01-13 08:32:33,514 - INFO - SUCCESS: https://ilgm.com/products/do-si-dos-autoflower-seeds
+2026-01-13 08:32:35,557 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/bad-apple/
+2026-01-13 08:32:42,857 - INFO - SUCCESS: https://ilgm.com/products/afghan-autoflower-seeds
+2026-01-13 08:32:44,767 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/cali-kush-feminized-marijuana-seeds/
+2026-01-13 08:32:51,696 - INFO - SUCCESS: https://ilgm.com/products/tangie-autoflower-seeds
+2026-01-13 08:32:53,328 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/jack-flash-5/
+2026-01-13 08:32:57,799 - INFO - SUCCESS: https://ilgm.com/products/white-widow-feminized-seeds
+2026-01-13 08:32:59,137 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/scarlet-cherry-walker-strain-feminized-seeds/
+2026-01-13 08:32:59,822 - INFO - SUCCESS: https://www.barneysfarm.com/us/frosted-zinn-x-3-bears-og-auto-autoflower-strain-724
+2026-01-13 08:33:03,989 - INFO - SUCCESS: https://ilgm.com/products/lsd-feminized-seeds
+2026-01-13 08:33:06,193 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/white-widow/
+2026-01-13 08:33:08,205 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/green-wedding-feminized-seeds/
+2026-01-13 08:33:09,745 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/?_seed_bank=sensi-seeds
+2026-01-13 08:33:10,385 - INFO - SUCCESS: https://www.barneysfarm.com/us/bubba-kush-weed-strain-537
+2026-01-13 08:33:11,967 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/pez-feminized-seeds/
+2026-01-13 08:33:15,027 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/nyc-piff-strain-feminized-marijuana-seeds/
+2026-01-13 08:33:17,892 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/alien-sherbet-feminized-seeds/
+2026-01-13 08:33:20,698 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/peanut-butter-acai-strain/
+2026-01-13 08:33:24,823 - INFO - SUCCESS: https://ilgm.com/products/strawberry-kush-cbd-feminized-seeds
+2026-01-13 08:33:25,472 - INFO - SUCCESS: https://www.barneysfarm.com/us/runtz-weed-strain-631
+2026-01-13 08:33:27,659 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/caked-up-cherries-strain-feminized-marijuana-seeds/
+2026-01-13 08:33:28,439 - INFO - SUCCESS: https://www.barneysfarm.com/us/dos-si-dos-33-weed-strain-495
+2026-01-13 08:33:30,238 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/master-kush/
+2026-01-13 08:33:34,382 - INFO - SUCCESS: https://ilgm.com/products/jack-herer-feminized-seeds
+2026-01-13 08:33:38,956 - INFO - SUCCESS: https://ilgm.com/products/gold-leaf-autoflower-seeds
+2026-01-13 08:33:41,797 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/moon-pop-feminized-seeds/
+2026-01-13 08:33:47,531 - INFO - SUCCESS: https://ilgm.com/products/white-widow-cbd-autoflower-seeds
+2026-01-13 08:33:52,139 - INFO - SUCCESS: https://ilgm.com/products/white-widow-autoflower-seeds
+2026-01-13 08:33:53,740 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/big-bud/
+2026-01-13 08:33:56,254 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/orangutan-strain-feminized-marijuana-seeds/
+2026-01-13 08:34:01,097 - INFO - SUCCESS: https://ilgm.com/products/blackberry-kush-feminized-seeds
+2026-01-13 08:34:03,963 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/devil-runtz-feminized-seeds/
+2026-01-13 08:34:10,043 - INFO - SUCCESS: https://ilgm.com/products/durban-poison-autoflower-seeds
+2026-01-13 08:34:11,835 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/silver-haze/
+2026-01-13 08:34:14,617 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/illuminati-strain-feminized-marijuana-seeds/
+2026-01-13 08:34:15,283 - INFO - SUCCESS: https://www.barneysfarm.com/us/garlic-cookies-weed-strain-718
+2026-01-13 08:34:15,909 - INFO - SUCCESS: https://www.barneysfarm.com/us/purple-punch-x-lemon-drizzle-weed-strain-629
+2026-01-13 08:34:18,830 - INFO - SUCCESS: https://ilgm.com/products/grapericot-pie-feminized-seeds
+2026-01-13 08:34:20,061 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/skunk-1/
+2026-01-13 08:34:22,802 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/do-si-dos-marijuana-seeds/
+2026-01-13 08:34:25,502 - INFO - SUCCESS: https://ilgm.com/products/gelonade-autoflower-seeds
+2026-01-13 08:34:26,836 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/super-sherb-strain-feminized-marijuana-seeds/
+2026-01-13 08:34:26,838 - INFO - Progress: 400/620 (64.5%) | Failed: 0 | Pending: 220
+2026-01-13 08:34:26,839 - INFO - Processing batch of 50 URLs
+2026-01-13 08:34:28,591 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/karma-feminized-seeds/
+2026-01-13 08:34:30,120 - INFO - SUCCESS: https://ilgm.com/products/pineapple-haze-feminized-seeds
+2026-01-13 08:34:30,782 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/purple-bud/
+2026-01-13 08:34:31,673 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/double-burger-feminized-strain-seeds/
+2026-01-13 08:34:32,364 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/bakers-delight-feminized-seeds/
+2026-01-13 08:34:33,103 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/strawberries-and-cream-strain-feminized-marijuana-seeds/
+2026-01-13 08:34:33,674 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/sweet-sour-cream/
+2026-01-13 08:34:34,995 - INFO - SUCCESS: https://ilgm.com/products/purple-kush-feminized-seeds
+2026-01-13 08:34:35,432 - INFO - SUCCESS: https://www.barneysfarm.com/us/runtz-auto-autoflower-strain-534
+2026-01-13 08:34:36,684 - INFO - SUCCESS: https://ilgm.com/products/purple-haze-feminized-seeds
+2026-01-13 08:34:37,359 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/cake-batter-feminized-marijuana-seeds/
+2026-01-13 08:34:38,060 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/white-wedding-strain-feminized-marijuana-seeds/
+2026-01-13 08:34:38,763 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/gas-runtz-strain/
+2026-01-13 08:34:39,870 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/granny-mac-strain-feminized-marijuana-seeds/
+2026-01-13 08:34:40,296 - INFO - SUCCESS: https://www.barneysfarm.com/us/lfg-weed-strain-784
+2026-01-13 08:34:41,656 - INFO - SUCCESS: https://ilgm.com/products/cherry-pie-feminized-seeds
+2026-01-13 08:34:42,264 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/sensi-skunk/
+2026-01-13 08:34:42,840 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/blueberry-bubblegum/
+2026-01-13 08:34:44,179 - INFO - SUCCESS: https://ilgm.com/products/northern-lights-feminized-seeds
+2026-01-13 08:34:45,441 - INFO - SUCCESS: https://ilgm.com/products/biscotti-feminized-seeds
+2026-01-13 08:34:46,737 - INFO - SUCCESS: https://ilgm.com/products/cheddar-cheeze-feminized-seeds
+2026-01-13 08:34:47,193 - INFO - SUCCESS: https://www.barneysfarm.com/us/laughing-buddha-weed-strain-8
+2026-01-13 08:34:47,878 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/blood-honey-strain-feminized-marijuana-seeds/
+2026-01-13 08:34:48,457 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/hindu-kush/
+2026-01-13 08:34:49,864 - INFO - SUCCESS: https://ilgm.com/products/tropicana-cookies-feminized-seeds
+2026-01-13 08:34:50,498 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/motor-cake-feminized-seeds/
+2026-01-13 08:34:51,193 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/triangle-kush-marijuana-seeds/
+2026-01-13 08:34:52,432 - INFO - SUCCESS: https://ilgm.com/products/bruce-banner-autoflower-seeds
+2026-01-13 08:34:53,791 - INFO - SUCCESS: https://ilgm.com/products/afghan-feminized-seeds
+2026-01-13 08:34:54,512 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/purple-dream-feminized-fast-version/
+2026-01-13 08:34:55,131 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/purple-papaya-paradise/
+2026-01-13 08:34:55,717 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/beluga-blanc/
+2026-01-13 08:34:56,393 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/flavor-crystals-feminized-seeds/
+2026-01-13 08:34:57,066 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/glueball-strain-feminized-marijuana-seeds/
+2026-01-13 08:34:57,526 - INFO - SUCCESS: https://www.barneysfarm.com/us/ak_47-weed-strain-761
+2026-01-13 08:34:58,272 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/squeeze-feminized-seeds/
+2026-01-13 08:34:58,877 - INFO - SUCCESS: https://www.barneysfarm.com/us/moby-dick-weed-strain-533
+2026-01-13 08:34:59,837 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/orange-cream-strain-feminized-marijuana-seeds/
+2026-01-13 08:35:00,309 - INFO - SUCCESS: https://www.barneysfarm.com/us/watermelon-zkittlez-auto-autoflower-strain-531
+2026-01-13 08:35:00,897 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/early-skunk/
+2026-01-13 08:35:01,486 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/big-berry-bliss/
+2026-01-13 08:35:02,180 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/juicy-j-feminized-seeds/
+2026-01-13 08:35:02,923 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/hot-rod-feminized-seeds/
+2026-01-13 08:35:03,616 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/durian-parfait-strain-feminized-seeds/
+2026-01-13 08:35:04,301 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/primetime-feminized-seeds/
+2026-01-13 08:35:04,875 - INFO - SUCCESS: https://sensiseeds.us/regular-seeds/ruderalis-indica/
+2026-01-13 08:35:05,507 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/pie-face-strain-feminized-marijuana-seeds/
+2026-01-13 08:35:06,236 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/pineapple-diesel-feminized-seeds/
+2026-01-13 08:35:06,650 - INFO - SUCCESS: https://www.barneysfarm.com/us/lsd-weed-strain-10
+2026-01-13 08:35:09,030 - INFO - SUCCESS: https://sensiseeds.us/regular-seeds/maple-leaf-indica-regular-seeds/
+2026-01-13 08:35:09,032 - INFO - Progress: 450/620 (72.6%) | Failed: 0 | Pending: 170
+2026-01-13 08:35:09,033 - INFO - Processing batch of 50 URLs
+2026-01-13 08:35:10,899 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/cherry-lime-gelato-strain-feminized-marijuana-seeds/
+2026-01-13 08:35:11,347 - INFO - SUCCESS: https://www.barneysfarm.com/us/blue-sunset-sherbert-weed-strain-551
+2026-01-13 08:35:11,915 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/early-skunk/
+2026-01-13 08:35:13,361 - INFO - SUCCESS: https://ilgm.com/products/cheese-feminized-seeds
+2026-01-13 08:35:14,248 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/killer-cupcake-strain-feminized-marijuana-seeds/
+2026-01-13 08:35:14,928 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/white-cherry-gelato-strain-feminized-marijuana-seeds/
+2026-01-13 08:35:15,377 - INFO - SUCCESS: https://www.barneysfarm.com/us/glue-gelato-auto-autoflower-strain-471
+2026-01-13 08:35:16,077 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/cherry-cola-strain-feminized-marijuana-seeds/
+2026-01-13 08:35:16,713 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/high-fructose-corn-syrup-strain-feminized-marijuana-seeds/
+2026-01-13 08:35:17,331 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/caramellow-kush/
+2026-01-13 08:35:17,951 - INFO - SUCCESS: https://sensiseeds.us/regular-seeds/maple-leaf-indica/
+2026-01-13 08:35:18,686 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/banana-peel-feminized-seeds/
+2026-01-13 08:35:20,058 - INFO - SUCCESS: https://ilgm.com/products/runtz-autoflower-seeds
+2026-01-13 08:35:20,725 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/moonwalker-feminized-seeds/
+2026-01-13 08:35:21,156 - INFO - SUCCESS: https://www.barneysfarm.com/us/lemon-haze-auto-autoflower-strain-623
+2026-01-13 08:35:22,491 - INFO - SUCCESS: https://ilgm.com/products/gmo-cookies-autoflower-seeds
+2026-01-13 08:35:23,176 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/fruit-by-the-foot-strain-feminized-marijuana-seeds/
+2026-01-13 08:35:23,881 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/og-kush-feminized-marijuana-seeds/
+2026-01-13 08:35:24,449 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/papi-chulo-og/
+2026-01-13 08:35:25,043 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/la-sugar/
+2026-01-13 08:35:25,726 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/head-mount-feminized-seeds/
+2026-01-13 08:35:26,198 - INFO - SUCCESS: https://www.barneysfarm.com/us/white-widow-xxl-weed-strain-593
+2026-01-13 08:35:26,785 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/mimosa-sunrise-xxl/
+2026-01-13 08:35:27,502 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/
+2026-01-13 08:35:28,231 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/terdz-feminized-seeds/
+2026-01-13 08:35:28,878 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/alien-dawg-feminized-seeds/
+2026-01-13 08:35:30,361 - INFO - SUCCESS: https://ilgm.com/products/do-si-dos-feminized-seeds
+2026-01-13 08:35:31,700 - INFO - SUCCESS: https://ilgm.com/products/zkittlez-feminized-seeds
+2026-01-13 08:35:32,119 - INFO - SUCCESS: https://www.barneysfarm.com/us/gas-pack-weed-strain-703
+2026-01-13 08:35:32,839 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/doctor-feminized-seeds/
+2026-01-13 08:35:33,399 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/shiva-skunk/
+2026-01-13 08:35:33,966 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/tezla-og/
+2026-01-13 08:35:34,547 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/strawz/
+2026-01-13 08:35:35,285 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/smackin-feminized-seeds/
+2026-01-13 08:35:36,143 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/pineapple-haze-marijuana-seeds/
+2026-01-13 08:35:36,928 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/black-cherry-punch-strain-feminized-marijuana-seeds/
+2026-01-13 08:35:37,573 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/alien-candy-feminized-seeds/
+2026-01-13 08:35:38,172 - INFO - SUCCESS: https://sensiseeds.us/regular-seeds/
+2026-01-13 08:35:39,545 - INFO - SUCCESS: https://ilgm.com/products/rainbow-glue-feminized-seeds
+2026-01-13 08:35:40,171 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/purple-berry-muffinz/
+2026-01-13 08:35:40,936 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/jah-goo-feminized-seeds/
+2026-01-13 08:35:42,334 - INFO - SUCCESS: https://ilgm.com/products/lsd-autoflower-seeds
+2026-01-13 08:35:43,000 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/life-hack-strain-feminized-marijuana-seeds/
+2026-01-13 08:35:43,875 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/
+2026-01-13 08:35:44,548 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/gelato-marijuana-seeds/
+2026-01-13 08:35:45,159 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/master-kush/
+2026-01-13 08:35:46,419 - INFO - SUCCESS: https://ilgm.com/products/granite-haze-f5-autoflower-seeds
+2026-01-13 08:35:46,857 - INFO - SUCCESS: https://www.barneysfarm.com/us/gmo-cookies-weed-strain-711
+2026-01-13 08:35:48,138 - INFO - SUCCESS: https://ilgm.com/products/gruntz-feminized-seeds
+2026-01-13 08:35:49,577 - INFO - SUCCESS: https://ilgm.com/products/girl-scout-cookies-feminized-seeds
+2026-01-13 08:35:49,579 - INFO - Progress: 500/620 (80.6%) | Failed: 0 | Pending: 120
+2026-01-13 08:35:49,580 - INFO - Processing batch of 50 URLs
+2026-01-13 08:35:51,369 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/gorilla-g-lemon-marijuana-seeds/
+2026-01-13 08:35:52,727 - INFO - SUCCESS: https://ilgm.com/products/blue-cheese-autoflower-seeds
+2026-01-13 08:35:53,333 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/strawberry-kush/
+2026-01-13 08:35:54,404 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/cookie-wreck-strain-feminized-marijuana-seeds/
+2026-01-13 08:35:55,085 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/flower-bomb-kush-feminized-marijuana-seeds/
+2026-01-13 08:35:55,712 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/grape-god-strain-feminized-marijuana-seeds/
+2026-01-13 08:35:56,401 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/cadillac-rainbow-strain-feminized-marijuana-seeds/
+2026-01-13 08:35:57,127 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/platinum-cake-strain-feminized-marijuana-seeds/
+2026-01-13 08:35:57,792 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/grapefruit-sour-diesel-strain-feminized-marijuana-seeds/
+2026-01-13 08:35:58,498 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/prenup-feminized-seeds/
+2026-01-13 08:35:59,190 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/rattler-feminized-seeds/
+2026-01-13 08:36:00,652 - INFO - SUCCESS: https://ilgm.com/products/big-bud-feminized-seeds
+2026-01-13 08:36:01,084 - INFO - SUCCESS: https://www.barneysfarm.com/us/glookies-weed-strain-485
+2026-01-13 08:36:01,628 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/?_seed_bank=white-label-seeds
+2026-01-13 08:36:02,323 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/stay-puft-strain-feminized-marijuana-seeds/
+2026-01-13 08:36:03,016 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/white-bubble-gum-gelato-strain-feminized-marijuana-seeds/
+2026-01-13 08:36:03,713 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/black-biscotti-feminized-seeds/
+2026-01-13 08:36:04,312 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/slam-dank/
+2026-01-13 08:36:05,640 - INFO - SUCCESS: https://ilgm.com/products/chemdawg-feminized-seeds
+2026-01-13 08:36:06,349 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/pink-mochi-feminized-seeds/
+2026-01-13 08:36:07,009 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/londonchello-strain-feminized-marijuana-seeds/
+2026-01-13 08:36:08,307 - INFO - SUCCESS: https://ilgm.com/products/chronic-widow-feminized-seeds
+2026-01-13 08:36:09,036 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/strawberry-diesel-feminized-marijuana-seeds/
+2026-01-13 08:36:09,467 - INFO - SUCCESS: https://www.barneysfarm.com/us/gorilla-zkittlez-weed-strain-459
+2026-01-13 08:36:10,824 - INFO - SUCCESS: https://ilgm.com/products/black-widow-feminized-seeds
+2026-01-13 08:36:11,474 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/black-cherry-pie-strain-feminized-marijuana-seeds/
+2026-01-13 08:36:12,139 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/strawberry-cherry-gelato-strain-feminized-marijuana-seeds/
+2026-01-13 08:36:12,841 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/angel-cake-feminized-seeds/
+2026-01-13 08:36:13,566 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/
+2026-01-13 08:36:14,312 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/afghan-marijuana-seeds-2/
+2026-01-13 08:36:14,877 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/raspberry-critical-kush/
+2026-01-13 08:36:16,202 - INFO - SUCCESS: https://ilgm.com/products/gelato-feminized-seeds
+2026-01-13 08:36:16,932 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/california-raisins-strain-feminized-marijuana-seeds/
+2026-01-13 08:36:17,560 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/northern-lights/
+2026-01-13 08:36:18,239 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/ingrid-feminized-seeds/
+2026-01-13 08:36:18,936 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/afghan-chocolope-feminized-fast-version-marijuana-seeds/
+2026-01-13 08:36:19,400 - INFO - SUCCESS: https://www.barneysfarm.com/us/zillions-weed-strain-789
+2026-01-13 08:36:19,839 - INFO - SUCCESS: https://www.barneysfarm.com/us/tropicana-cherry-weed-strain-744
+2026-01-13 08:36:20,554 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/putang-feminized-seeds/
+2026-01-13 08:36:21,238 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/peanut-butter-runtz-strain-feminized-marijuana-seeds/
+2026-01-13 08:36:21,685 - INFO - SUCCESS: https://www.barneysfarm.com/us/sour-strawberry-weed-strain-651
+2026-01-13 08:36:22,308 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/purple-skunk/
+2026-01-13 08:36:22,875 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/sweet-tangerine-tango/
+2026-01-13 08:36:23,475 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/critical-runtz/
+2026-01-13 08:36:24,853 - INFO - SUCCESS: https://ilgm.com/products/girl-scout-cookies-autoflower-seeds
+2026-01-13 08:36:25,532 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/strawberry-banana-cheese-marijuana-seeds/
+2026-01-13 08:36:26,225 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/black-indica-marijuana-seeds/
+2026-01-13 08:36:26,945 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/texas-shoreline-strain-feminized-marijuana-seeds/
+2026-01-13 08:36:27,625 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/strawberry-runtz-strain-feminized-marijuana-seeds/
+2026-01-13 08:36:28,852 - INFO - SUCCESS: https://ilgm.com/products/train-wreck-feminized-seeds
+2026-01-13 08:36:28,854 - INFO - Progress: 550/620 (88.7%) | Failed: 0 | Pending: 70
+2026-01-13 08:36:28,855 - INFO - Processing batch of 50 URLs
+2026-01-13 08:36:30,653 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/strawberry-fritter-strain-feminized-marijuana-seeds/
+2026-01-13 08:36:31,086 - INFO - SUCCESS: https://www.barneysfarm.com/us/pineapple-express-auto-autoflower-strain-37
+2026-01-13 08:36:31,737 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/banana-cake-pop/
+2026-01-13 08:36:32,574 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/gg1-feminized-seeds/
+2026-01-13 08:36:33,271 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/gilroy-feminized-seeds/
+2026-01-13 08:36:33,922 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/mimosa-x-orange-punch-strain/
+2026-01-13 08:36:34,573 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/falcon-9-strain-feminized-marijuana-seeds/
+2026-01-13 08:36:35,286 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/short-stack-feminized-seeds/
+2026-01-13 08:36:35,905 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/northern-lights/
+2026-01-13 08:36:36,460 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/og-kush/
+2026-01-13 08:36:37,804 - INFO - SUCCESS: https://ilgm.com/products/blueberry-feminized-seeds
+2026-01-13 08:36:38,231 - INFO - SUCCESS: https://www.barneysfarm.com/us/amnesia-lemon-weed-strain-31
+2026-01-13 08:36:38,924 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/gp20-feminized-seeds/
+2026-01-13 08:36:39,611 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/grandi-guava-strain-feminized-marijuana-seeds/
+2026-01-13 08:36:40,238 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/purple-cookie-kush/
+2026-01-13 08:36:41,055 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/pink-lady-feminized-seeds/
+2026-01-13 08:36:41,478 - INFO - SUCCESS: https://www.barneysfarm.com/us/jelly-cake-weed-strain-782
+2026-01-13 08:36:42,876 - INFO - SUCCESS: https://ilgm.com/products/super-lemon-haze-feminized-seeds
+2026-01-13 08:36:43,579 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/american-haze-california-haze-marijuana-seeds/
+2026-01-13 08:36:44,348 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/star-feminized-seeds/
+2026-01-13 08:36:44,942 - INFO - SUCCESS: https://sensiseeds.us/autoflowering-seeds/white-diesel-haze/
+2026-01-13 08:36:45,435 - INFO - SUCCESS: https://www.barneysfarm.com/us/hindu-kush-weed-strain-758
+2026-01-13 08:36:45,878 - INFO - SUCCESS: https://www.barneysfarm.com/us/pineapple-express-weed-strain-609
+2026-01-13 08:36:47,196 - INFO - SUCCESS: https://ilgm.com/products/green-crack-feminized-seeds
+2026-01-13 08:36:47,883 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/gmog-feminized-seeds/
+2026-01-13 08:36:48,587 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/blue-nerds-strain-feminized-marijuana-seeds/
+2026-01-13 08:36:49,251 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/white-gorilla-haze/
+2026-01-13 08:36:49,703 - INFO - SUCCESS: https://www.barneysfarm.com/us/mendo-breath-weed-strain-713
+2026-01-13 08:36:50,288 - INFO - SUCCESS: https://sensiseeds.us/regular-seeds/hash-plant/
+2026-01-13 08:36:51,581 - INFO - SUCCESS: https://ilgm.com/products/bubba-kush-feminized-seeds
+2026-01-13 08:36:52,278 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/mango-strain-feminized-marijuana-seeds/
+2026-01-13 08:36:52,722 - INFO - SUCCESS: https://www.barneysfarm.com/us/sour-diesel-auto-autoflower-strain-625
+2026-01-13 08:36:53,556 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/lumpy-space-princess-strain-feminized-marijuana-seeds/
+2026-01-13 08:36:54,257 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/magic-melon-strain-feminized-marijuana-seeds/
+2026-01-13 08:36:55,582 - INFO - SUCCESS: https://ilgm.com/products/bubblegum-autoflower-seeds
+2026-01-13 08:36:56,056 - INFO - SUCCESS: https://www.barneysfarm.com/us/gorilla-zkittlez-auto-autoflower-strain-512
+2026-01-13 08:36:56,806 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/purple-wookie-feminized-seeds/
+2026-01-13 08:36:57,563 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/cali-og-feminized-seeds/
+2026-01-13 08:36:58,236 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/g-code-feminized-seeds/
+2026-01-13 08:36:58,901 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/tropicana-cookies-purple-marijuana-seeds/
+2026-01-13 08:37:00,256 - INFO - SUCCESS: https://ilgm.com/products/berry-burst-feminized-seeds
+2026-01-13 08:37:01,528 - INFO - SUCCESS: https://ilgm.com/products/strawberry-kush-feminized-seeds
+2026-01-13 08:37:01,960 - INFO - SUCCESS: https://www.barneysfarm.com/us/og-kush-auto-autoflower-strain-624
+2026-01-13 08:37:02,823 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/purple-cheese-feminized-seeds/
+2026-01-13 08:37:03,570 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/grape-guava-strain/
+2026-01-13 08:37:04,345 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/banana-split-strain-feminized-marijuana-seeds/
+2026-01-13 08:37:04,788 - INFO - SUCCESS: https://www.barneysfarm.com/us/rs11-x-banana-og-weed-strain-715
+2026-01-13 08:37:05,494 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/london-jelly-strain-feminized-marijuana-seeds/
+2026-01-13 08:37:06,617 - INFO - SUCCESS: https://www.barneysfarm.com/us/blue-gelato-41-weed-strain-456
+2026-01-13 08:37:07,353 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/blueberry-zlushie-strain/
+2026-01-13 08:37:07,355 - INFO - Progress: 600/620 (96.8%) | Failed: 0 | Pending: 20
+2026-01-13 08:37:07,357 - INFO - Processing batch of 20 URLs
+2026-01-13 08:37:09,283 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/apricot-strain-feminized-marijuana-seeds/
+2026-01-13 08:37:09,732 - INFO - SUCCESS: https://www.barneysfarm.com/us/trainwreck-weed-strain-686
+2026-01-13 08:37:11,192 - INFO - SUCCESS: https://ilgm.com/products/purple-kush-autoflower-seeds
+2026-01-13 08:37:12,027 - INFO - SUCCESS: https://www.barneysfarm.com/us/og-kush-weed-strain-646
+2026-01-13 08:37:12,450 - INFO - SUCCESS: https://www.barneysfarm.com/us/frosted-zinn-x-cookie-dog-auto-autoflower-strain-725
+2026-01-13 08:37:13,131 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/benzina-feminized-seeds/
+2026-01-13 08:37:13,604 - INFO - SUCCESS: https://www.barneysfarm.com/us/cherry-poppers-weed-strain-712
+2026-01-13 08:37:14,248 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/lemon-cherry-gelato-strain-feminized-marijuana-seeds/
+2026-01-13 08:37:14,921 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/gorilla-glue-4-feminized-marijuana-seeds/
+2026-01-13 08:37:15,574 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/roxanne-feminized-seeds/
+2026-01-13 08:37:16,243 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/tokyo-og-feminized-marijuana-seeds/
+2026-01-13 08:37:16,938 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/diablo-strain-feminized-marijuana-seeds/
+2026-01-13 08:37:17,607 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/himalaya-gold-feminized-marijuana-seeds/
+2026-01-13 08:37:18,292 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/grumpz-feminized-seeds/
+2026-01-13 08:37:19,000 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/glazed-apricot-gelato-strain-feminized-marijuana-seeds/
+2026-01-13 08:37:19,447 - INFO - SUCCESS: https://www.barneysfarm.com/us/runtz-muffin-weed-strain-523
+2026-01-13 08:37:19,885 - INFO - SUCCESS: https://www.barneysfarm.com/us/white-runtz-weed-strain-710
+2026-01-13 08:37:20,541 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/la-chocolat-feminized-seeds/
+2026-01-13 08:37:21,304 - INFO - SUCCESS: https://www.cropkingseeds.com/feminized-seeds/papaya-melonz-feminized-seeds-crop-king-seeds/
+2026-01-13 08:37:23,002 - INFO - SUCCESS: https://sensiseeds.us/feminized-seeds/chocolate-rainbow-xxl/
+2026-01-13 08:37:23,004 - INFO - Progress: 620/620 (100.0%) | Failed: 0 | Pending: 0
+2026-01-13 08:37:23,005 - INFO - No more pending URLs to process
+2026-01-13 08:37:23,009 - INFO - Final report saved to ..\data\seedbank_collection_report.md
