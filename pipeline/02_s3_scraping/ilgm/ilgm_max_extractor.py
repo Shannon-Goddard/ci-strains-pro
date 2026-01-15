@@ -36,6 +36,86 @@ class ILGMMaxExtractor:
             'cannabis_data': 0, 'images': 0, 'awards': 0, 'genetics': 0
         }
         
+    def extract_ilgm_strain_profile(self, soup):
+        """Extract ILGM Strain Profile table data"""
+        data = {}
+        
+        # Find Strain Profile section
+        profile_section = soup.find('h2', id='strain-profile')
+        if not profile_section:
+            return data
+        
+        # Find the table after the h2
+        table = profile_section.find_next('table')
+        if not table:
+            return data
+        
+        # Parse all rows
+        rows = table.find_all('tr')
+        for row in rows:
+            cells = row.find_all('td')
+            if len(cells) == 2:
+                key = cells[0].get_text().strip()
+                value = cells[1].get_text().strip()
+                
+                # Map to standardized field names
+                field_map = {
+                    'Plant Type': 'plant_type',
+                    'Genotype': 'genotype',
+                    'Lineage': 'genetics_lineage',
+                    'Effects': 'effects_all',
+                    'Yield Potential': 'yield_potential',
+                    'Taste and Aroma': 'flavors_all',
+                    'THC Level': 'thc_level',
+                    'THC Percentage': 'thc_percentage',
+                    'CBD Level': 'cbd_level',
+                    'CBD Percentage': 'cbd_percentage',
+                    'CBG Level': 'cbg_level',
+                    'CBG Percentage': 'cbg_percentage',
+                    'Difficulty': 'grow_difficulty',
+                    'Climate': 'climate',
+                    'Terpenes': 'terpenes',
+                    'Bud Structure': 'bud_structure',
+                    'Optimal Growing Temperature': 'optimal_temperature',
+                    'Optimal Humidity Level': 'optimal_humidity',
+                    'Flowering Time Indoor': 'flowering_time_indoor',
+                    'Flowering Time Outdoor': 'flowering_time_outdoor',
+                    'Vegetative Stage': 'vegetative_stage',
+                    'Harvest Height': 'harvest_height',
+                    'Original Genetics Developed By': 'original_breeder',
+                    'Brand': 'brand',
+                    'SKU': 'sku'
+                }
+                
+                if key in field_map:
+                    data[field_map[key]] = value
+                    
+                    # Parse lineage for parent strains
+                    if key == 'Lineage' and ' x ' in value:
+                        parts = value.split(' x ')
+                        if len(parts) == 2:
+                            data['parent_1'] = parts[0].strip()
+                            data['parent_2'] = parts[1].strip()
+                    
+                    # Parse flowering time for min/max
+                    if key == 'Flowering Time Indoor':
+                        match = re.search(r'(\d+)-(\d+)\s*days?', value)
+                        if match:
+                            data['flowering_min'] = int(match.group(1))
+                            data['flowering_max'] = int(match.group(2))
+                            data['flowering_time'] = f"{int(match.group(1))//7}-{int(match.group(2))//7} weeks"
+                    
+                    # Parse THC percentage
+                    if key == 'THC Percentage' and value.isdigit():
+                        data['thc_content'] = float(value)
+                        data['thc_min'] = data['thc_max'] = float(value)
+                    
+                    # Parse CBD percentage
+                    if key == 'CBD Percentage' and value.isdigit():
+                        data['cbd_content'] = float(value)
+        
+        return data
+    
     def extract_json_ld_data(self, soup):
         """Extract structured JSON-LD data - Premium business intelligence"""
         data = {}
@@ -483,6 +563,7 @@ class ILGMMaxExtractor:
         
         # Apply all extraction methods
         extraction_methods = [
+            ('ILGM Strain Profile', self.extract_ilgm_strain_profile),
             ('JSON-LD', self.extract_json_ld_data),
             ('Meta Tags', self.extract_comprehensive_meta_tags),
             ('Tables', self.extract_structured_tables),
@@ -539,14 +620,9 @@ class ILGMMaxExtractor:
         
         logger.info("Starting ILGM Maximum Extraction Pipeline")
         
-        # Get ILGM URLs from S3
-        try:
-            response = self.s3.get_object(Bucket=self.bucket, Key='index/url_mapping.csv')
-            df = pd.read_csv(response['Body'])
-            logger.info("Loaded URL mapping from S3")
-        except Exception as e:
-            logger.warning(f"S3 mapping failed, using local file: {e}")
-            df = pd.read_csv('../../04_new_seedbanks_collection/data/discovered_urls.csv', encoding='latin-1')
+        # Load URL mapping from local file
+        df = pd.read_csv('../../01_html_collection/original_html_collection/data/unique_urls.csv', encoding='latin-1')
+        logger.info("Loaded URL mapping from local file")
         
         ilgm_urls = df[df['url'].str.contains('ilgm.com', na=False)]
         logger.info(f"Found {len(ilgm_urls)} ILGM URLs")

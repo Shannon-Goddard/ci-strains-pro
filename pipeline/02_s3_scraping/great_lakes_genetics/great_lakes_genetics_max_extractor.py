@@ -242,6 +242,101 @@ class GreatLakesGeneticsMaxExtractor:
         
         return data
     
+    def extract_great_lakes_specific_data(self, soup):
+        """Extract Great Lakes-specific bold label format data"""
+        data = {}
+        
+        # Find the product description div
+        desc_div = soup.find('div', class_='et_pb_module_inner')
+        if not desc_div:
+            return data
+        
+        html_content = str(desc_div)
+        
+        # Extract Genetics
+        genetics_match = re.search(r'<strong>Genetics</strong>:\s*([^<]+)', html_content)
+        if genetics_match:
+            genetics = genetics_match.group(1).strip()
+            data['genetics_lineage'] = genetics
+            # Parse parent strains if format is "X x Y"
+            if ' x ' in genetics.lower():
+                parts = re.split(r'\s+x\s+', genetics, flags=re.IGNORECASE)
+                if len(parts) == 2:
+                    data['parent_1'] = parts[0].strip()
+                    data['parent_2'] = parts[1].strip()
+        
+        # Extract Seeds in pack
+        seeds_match = re.search(r'<strong>Seeds in pack:</strong>\s*(\d+)', html_content)
+        if seeds_match:
+            data['seeds_per_pack'] = int(seeds_match.group(1))
+        
+        # Extract Sex
+        sex_match = re.search(r'<strong>Sex:</strong>\s*([^<]+)', html_content)
+        if sex_match:
+            data['seed_sex'] = sex_match.group(1).strip()
+        
+        # Extract Type
+        type_match = re.search(r'<strong>Type:</strong>\s*([^<]+)', html_content)
+        if type_match:
+            data['strain_type'] = type_match.group(1).strip()
+        
+        # Extract Flowering Time
+        flowering_match = re.search(r'<strong>Flowering Time:</strong>\s*([^<]+)', html_content)
+        if flowering_match:
+            flowering = flowering_match.group(1).strip()
+            data['flowering_time'] = flowering
+            # Parse weeks if present
+            weeks_match = re.search(r'(\d+)\s*-\s*(\d+)\s*weeks?', flowering, re.IGNORECASE)
+            if weeks_match:
+                data['flowering_time_min'] = int(weeks_match.group(1))
+                data['flowering_time_max'] = int(weeks_match.group(2))
+        
+        # Extract Yield
+        yield_match = re.search(r'<strong>Yield:</strong>\s*([^<]+)', html_content)
+        if yield_match:
+            yield_text = yield_match.group(1).strip()
+            if yield_text:
+                data['yield_info'] = yield_text
+        
+        # Extract Area
+        area_match = re.search(r'<strong>Area \(Indoor, Outdoor, Both\):</strong>\s*([^<]+)', html_content)
+        if area_match:
+            area = area_match.group(1).strip()
+            if area:
+                data['growing_area'] = area
+        
+        # Extract Notes (effects/flavors)
+        notes_match = re.search(r'<strong>Notes</strong>:\s*([^<]+)', html_content)
+        if notes_match:
+            notes = notes_match.group(1).strip()
+            data['breeder_notes'] = notes
+            
+            # Extract flavors from notes
+            flavor_keywords = ['sour', 'citrus', 'floral', 'lemon', 'sweet', 'earthy', 'spicy', 'diesel', 'pine', 'berry']
+            found_flavors = [f for f in flavor_keywords if f in notes.lower()]
+            if found_flavors:
+                data['flavors_all'] = ', '.join(found_flavors)
+            
+            # Extract effects from notes
+            effect_keywords = ['euphoric', 'buzz', 'high', 'relaxing', 'energetic', 'creative', 'uplifting', 'calming']
+            found_effects = [e for e in effect_keywords if e in notes.lower()]
+            if found_effects:
+                data['effects_all'] = ', '.join(found_effects)
+        
+        # Extract strain name from h3
+        h3 = desc_div.find('h3')
+        if h3:
+            strain_name = h3.get_text().strip()
+            # Remove breeder name if present (format: "Breeder - Strain")
+            if ' - ' in strain_name:
+                parts = strain_name.split(' - ', 1)
+                data['breeder_name'] = parts[0].strip()
+                data['strain_name'] = parts[1].strip()
+            else:
+                data['strain_name'] = strain_name
+        
+        return data
+    
     def extract_enhanced_genetics(self, soup, url):
         data = {}
         html_text = soup.get_text()
@@ -316,6 +411,7 @@ class GreatLakesGeneticsMaxExtractor:
         }
         
         extraction_methods = [
+            ('Great Lakes Specific', self.extract_great_lakes_specific_data),
             ('JSON-LD', self.extract_json_ld_data),
             ('Meta Tags', self.extract_comprehensive_meta_tags),
             ('Tables', self.extract_structured_tables),
@@ -366,13 +462,9 @@ class GreatLakesGeneticsMaxExtractor:
     def process_all_great_lakes_genetics_strains(self):
         logger.info("Starting Great Lakes Genetics Maximum Extraction Pipeline")
         
-        try:
-            response = self.s3.get_object(Bucket=self.bucket, Key='index/url_mapping.csv')
-            df = pd.read_csv(response['Body'])
-            logger.info("Loaded URL mapping from S3")
-        except Exception as e:
-            logger.warning(f"S3 mapping failed, using local file: {e}")
-            df = pd.read_csv('../../01_html_collection/data/unique_urls.csv', encoding='latin-1')
+        # Load URL mapping from local file
+        df = pd.read_csv('../../01_html_collection/original_html_collection/data/unique_urls.csv', encoding='latin-1')
+        logger.info("Loaded URL mapping from local file")
         
         great_lakes_genetics_urls = df[df['url'].str.contains('greatlakesgenetics', na=False)]
         logger.info(f"Found {len(great_lakes_genetics_urls)} Great Lakes Genetics URLs")

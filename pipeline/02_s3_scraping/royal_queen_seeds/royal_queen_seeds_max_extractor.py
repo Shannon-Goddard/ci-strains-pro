@@ -717,13 +717,9 @@ class RoyalQueenSeedsMaxExtractor:
         logger.info("Starting Royal Queen Seeds Maximum Extraction Pipeline")
         
         # Get Royal Queen Seeds URLs
-        try:
-            response = self.s3.get_object(Bucket=self.bucket, Key='index/url_mapping.csv')
-            df = pd.read_csv(response['Body'])
-            logger.info("Loaded URL mapping from S3")
-        except Exception as e:
-            logger.warning(f"S3 mapping failed, using local file: {e}")
-            df = pd.read_csv('../../01_html_collection/data/unique_urls.csv', encoding='latin-1')
+        # Load URL mapping from local file
+        df = pd.read_csv('../../01_html_collection/original_html_collection/data/unique_urls.csv', encoding='latin-1')
+        logger.info("Loaded URL mapping from local file")
         
         royal_queen_seeds_urls = df[df['url'].str.contains('royalqueenseeds', na=False)]
         logger.info(f"Found {len(royal_queen_seeds_urls)} Royal Queen Seeds URLs")

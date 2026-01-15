@@ -202,6 +202,79 @@ class AttitudeMaxExtractorV2:
             self.extraction_stats['pricing'] += 1
         return data
     
+    def extract_attitude_specific_data(self, soup):
+        """Extract Attitude-specific tabbed content data"""
+        data = {}
+        
+        # Extract from tabDesc (main description with cultivation data)
+        tab_desc = soup.find('div', id='tabDesc')
+        if tab_desc:
+            desc_text = tab_desc.get_text()
+            
+            # Extract strain name and breeder from title
+            title_div = tab_desc.find('strong')
+            if title_div:
+                title_text = title_div.get_text().strip()
+                # Remove "Marijuana Seeds" and split on "-"
+                title_clean = re.sub(r'\s*Marijuana Seeds\s*', '', title_text)
+                if ' - ' in title_clean:
+                    parts = title_clean.split(' - ', 1)
+                    data['strain_name'] = parts[0].strip()
+                    data['breeder_name'] = parts[1].strip()
+            
+            # Indoor yield
+            yield_match = re.search(r'Yield[:\s]*(\d+)\s*-\s*(\d+)\s*gr\s*/\s*m2', desc_text, re.IGNORECASE)
+            if yield_match:
+                data['indoor_yield_min'] = int(yield_match.group(1))
+                data['indoor_yield_max'] = int(yield_match.group(2))
+                data['indoor_yield_range'] = f"{yield_match.group(1)}-{yield_match.group(2)} gr/m2"
+            
+            # Flowering period
+            flower_match = re.search(r'Flowering period[:\s]*(\d+)\s*-\s*(\d+)\s*days', desc_text, re.IGNORECASE)
+            if flower_match:
+                data['flowering_time_min'] = int(flower_match.group(1))
+                data['flowering_time_max'] = int(flower_match.group(2))
+                data['flowering_time'] = f"{flower_match.group(1)}-{flower_match.group(2)} days"
+            
+            # Indoor height
+            indoor_height = re.search(r'Height[:\s]*(\d+)\s*-\s*(\d+)\s*cm', desc_text, re.IGNORECASE)
+            if indoor_height:
+                data['indoor_height_min'] = int(indoor_height.group(1))
+                data['indoor_height_max'] = int(indoor_height.group(2))
+                data['indoor_height'] = f"{indoor_height.group(1)}-{indoor_height.group(2)} cm"
+            
+            # Outdoor height
+            outdoor_height = re.search(r'Outdoor:.*?Height[:\s]*(\d+)\s*-\s*(\d+)\s*cm', desc_text, re.IGNORECASE | re.DOTALL)
+            if outdoor_height:
+                data['outdoor_height_min'] = int(outdoor_height.group(1))
+                data['outdoor_height_max'] = int(outdoor_height.group(2))
+                data['outdoor_height'] = f"{outdoor_height.group(1)}-{outdoor_height.group(2)} cm"
+            
+            # Harvest time
+            harvest_match = re.search(r'Harvest[:\s]*([A-Za-z]+\s+[A-Za-z]+)', desc_text, re.IGNORECASE)
+            if harvest_match:
+                data['outdoor_harvest_time'] = harvest_match.group(1).strip()
+            
+            # THC
+            thc_match = re.search(r'THC[:\s]*(\d+(?:\.\d+)?)\s*%', desc_text, re.IGNORECASE)
+            if thc_match:
+                data['thc_content'] = float(thc_match.group(1))
+        
+        # Extract from tabChar (characteristics list)
+        tab_char = soup.find('div', id='tabChar')
+        if tab_char:
+            list_items = tab_char.find_all('li')
+            for li in list_items:
+                text = li.get_text()
+                if ':' in text:
+                    key, value = text.split(':', 1)
+                    key = key.strip().lower().replace(' ', '_')
+                    value = value.strip()
+                    if value:
+                        data[f'spec_{key}'] = value
+        
+        return data
+    
     def extract_advanced_cannabis_data(self, soup, url):
         """Extract comprehensive cannabis-specific data"""
         data = {}
@@ -539,6 +612,7 @@ class AttitudeMaxExtractorV2:
         
         # Apply all extraction methods
         extraction_methods = [
+            ('Attitude Specific', self.extract_attitude_specific_data),
             ('JSON-LD', self.extract_json_ld_data),
             ('Meta Tags', self.extract_comprehensive_meta_tags),
             ('Tables', self.extract_structured_tables),
@@ -608,7 +682,7 @@ class AttitudeMaxExtractorV2:
             logger.info("Loaded URL mapping from S3")
         except Exception as e:
             logger.warning(f"S3 mapping failed, using local file: {e}")
-            df = pd.read_csv('../../01_html_collection/data/unique_urls.csv', encoding='latin-1')
+            df = pd.read_csv('../../01_html_collection/original_html_collection/data/unique_urls.csv', encoding='latin-1')
         
         attitude_urls = df[df['url'].str.contains('cannabis-seeds-bank', na=False)]
         

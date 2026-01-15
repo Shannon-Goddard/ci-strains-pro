@@ -540,14 +540,9 @@ class CropKingMaxExtractor:
         
         logger.info("Starting Crop King Maximum Extraction Pipeline")
         
-        # Get Crop King URLs from S3
-        try:
-            response = self.s3.get_object(Bucket=self.bucket, Key='index/url_mapping.csv')
-            df = pd.read_csv(response['Body'])
-            logger.info("Loaded URL mapping from S3")
-        except Exception as e:
-            logger.warning(f"S3 mapping failed, using local file: {e}")
-            df = pd.read_csv('../../04_new_seedbanks_collection/data/discovered_urls.csv', encoding='latin-1')
+        # Load URL mapping from local file
+        df = pd.read_csv('../../01_html_collection/original_html_collection/data/unique_urls.csv', encoding='latin-1')
+        logger.info("Loaded URL mapping from local file")
         
         crop_king_urls = df[df['url'].str.contains('cropkingseeds', na=False)]
         logger.info(f"Found {len(crop_king_urls)} Crop King URLs")

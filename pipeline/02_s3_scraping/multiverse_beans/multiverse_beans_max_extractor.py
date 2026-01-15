@@ -717,13 +717,9 @@ class MultiverseBeansMaxExtractor:
         logger.info("Starting Multiverse Beans Maximum Extraction Pipeline")
         
         # Get Multiverse Beans URLs
-        try:
-            response = self.s3.get_object(Bucket=self.bucket, Key='index/url_mapping.csv')
-            df = pd.read_csv(response['Body'])
-            logger.info("Loaded URL mapping from S3")
-        except Exception as e:
-            logger.warning(f"S3 mapping failed, using local file: {e}")
-            df = pd.read_csv('../../01_html_collection/data/unique_urls.csv', encoding='latin-1')
+        # Load URL mapping from local file
+        df = pd.read_csv('../../01_html_collection/original_html_collection/data/unique_urls.csv', encoding='latin-1')
+        logger.info("Loaded URL mapping from local file")
         
         multiverse_beans_urls = df[df['url'].str.contains('multiversebeans', na=False)]
         logger.info(f"Found {len(multiverse_beans_urls)} Multiverse Beans URLs")

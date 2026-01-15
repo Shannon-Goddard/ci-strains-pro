@@ -29,34 +29,25 @@ Attitude Seed Bank had **22.8% data completeness** with basic extraction methods
 - **High-Value Fields** (6 points): Effects, terpenes, flavors, images  
 - **Standard Fields** (3 points): Names, descriptions, metadata
 
-## 📊 Epic Results
+## 📊 Latest Results (Jan 14, 2026)
 
 ### **Scale Achievement**
-- **7,673 strains processed** (vs Dutch Passion's 119)
-- **64x larger dataset** with maintained quality
-- **72 total columns captured** per strain
+- **7,673 strains processed** (largest single seed bank dataset)
+- **95 total columns captured** (up from previous 30)
+- **Attitude-specific tab parsing** added for cultivation data
 
-### **Quality Breakthrough** 
-- **43.9 fields per strain** (vs previous 22.8)
-- **35.9% average quality score** (vs previous 22.8%)
-- **93% improvement** in data completeness
+### **Data Completeness**
+- **50 strains** with full cultivation data (flowering, yield, height, THC)
+- **7,673 strains** with pricing, effects, flavors, images
+- **Cultivation fields**: flowering_time, indoor_yield_range, indoor_height, outdoor_height, thc_content
+- **Breeder extraction**: Strain name and breeder parsed from title
 
-### **Method Success Rates**
-| Method | Success Rate | Strains |
-|--------|-------------|---------|
-| Meta Tags | 100.0% | 7,673 |
-| Pricing Data | 100.0% | 7,673 |
-| Cannabis Data | 100.0% | 7,673 |
-| Media Assets | 100.0% | 7,673 |
-| Genetics | 100.0% | 7,673 |
-| Awards | 4.1% | 315 |
-| JSON-LD | 0.0% | 0 |
-| Tables | 0.0% | 0 |
-
-### **Market Tier Distribution**
-- **Professional Tier**: 27 strains (premium data quality)
-- **Standard Tier**: 2,578 strains (good baseline data)
-- **Basic Tier**: 5,068 strains (entry-level data)
+### **Key Improvements**
+- ✅ Added `extract_attitude_specific_data()` method
+- ✅ Parses tabDesc div for cultivation specs
+- ✅ Parses tabChar div for characteristics
+- ✅ Extracts breeder name from title (removes "Marijuana Seeds", splits on "-")
+- ✅ Captures indoor/outdoor yield, height, flowering time, harvest time
 
 ## 🏆 Top Performing Strains
 
@@ -122,12 +113,21 @@ class AttitudeMaxExtractorV2:
 
 This extraction proves that **advanced pattern recognition** and **multi-method data mining** can achieve **enterprise-grade data quality** at massive scale.
 
-## 📁 Output Files
+## 📁 Files
 
-- **`attitude_maximum_extraction.csv`** - Complete dataset (7,673 × 72)
-- **`attitude_extraction_report.md`** - Comprehensive analysis report
-- **`methodology.md`** - Technical methodology documentation
-- **`attitude_max_extractor_v2.py`** - Production extraction engine
+### **Input**
+- `../../01_html_collection/original_html_collection/data/unique_urls.csv` - URL mapping
+- S3 bucket: `ci-strains-html-archive` (18,553 HTML files)
+- `sample_page.html` - Sample HTML for testing extraction logic
+
+### **Processing**
+- `attitude_max_extractor_v2.py` - Main extraction engine (9-method pipeline)
+
+### **Output**
+- `attitude_maximum_extraction.csv` - Complete dataset (7,673 × 95 columns)
+- `attitude_maximum_extraction_sample.csv` - 10-row sample for review
+- `attitude_extraction_report.md` - Comprehensive analysis report
+- `methodology.md` - Technical methodology documentation
 
 ## 🚀 Future Optimization
 

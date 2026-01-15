@@ -717,13 +717,9 @@ class DutchPassionMaxExtractor:
         logger.info("Starting Dutch Passion Maximum Extraction Pipeline")
         
         # Get Dutch Passion URLs
-        try:
-            response = self.s3.get_object(Bucket=self.bucket, Key='index/url_mapping.csv')
-            df = pd.read_csv(response['Body'])
-            logger.info("Loaded URL mapping from S3")
-        except Exception as e:
-            logger.warning(f"S3 mapping failed, using local file: {e}")
-            df = pd.read_csv('../../01_html_collection/data/unique_urls.csv', encoding='latin-1')
+        # Load URL mapping from local file
+        df = pd.read_csv('../../01_html_collection/original_html_collection/data/unique_urls.csv', encoding='latin-1')
+        logger.info("Loaded URL mapping from local file")
         
         dutch_passion_urls = df[df['url'].str.contains('dutch-passion', na=False)]
         logger.info(f"Found {len(dutch_passion_urls)} Dutch Passion URLs")
