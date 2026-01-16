@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CI Strains Pro - Source of Truth Viewer</title>
+    <link rel="stylesheet" href="styles.css">
+    
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YN2FMG2XT8"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YN2FMG2XT8');
+    </script>
+</head>
+<body>
+    <!-- Legal Disclaimer Modal -->
+    <div id="legal-modal" class="modal">
+        <div class="modal-content">
+            <h2>⚖️ Legal Disclaimer</h2>
+            <div class="modal-body">
+                <p><strong>By using this viewer, you acknowledge and agree to the following:</strong></p>
+                <ul>
+                    <li>This viewer provides <strong>temporary, view-only access</strong> to archived HTML pages for <strong>educational, archival, and research purposes only</strong>.</li>
+                    <li>Access is provided under principles of <strong>fair use (17 U.S.C. § 107)</strong> for verification of factual botanical data.</li>
+                    <li>Content is served via <strong>time-limited signed URLs (5-minute expiration)</strong>. No downloads or redistribution permitted.</li>
+                    <li>We are <strong>not affiliated</strong> with any seed bank or breeder. All content remains property of original creators.</li>
+                    <li><strong>Federal Law Notice:</strong> Cannabis possession/cultivation remains illegal under federal law.</li>
+                    <li>All content provided <strong>"AS IS"</strong> with no warranties. We disclaim all liability.</li>
+                </ul>
+                <p class="modal-footer-text">For full legal terms, see <a href="docs/LEGAL_DISCLAIMER.md" target="_blank">Legal Disclaimer</a>.</p>
+            </div>
+            <button id="accept-legal" class="accept-btn">I Understand & Accept</button>
+        </div>
+    </div>
+
+    <div class="container">
+        <header>
+            <h1>🌿 CI Strains Pro</h1>
+            <p class="subtitle">Source of Truth Viewer</p>
+            <p class="tagline">21,706 strains backed by timestamped HTML archives</p>
+        </header>
+
+        <main>
+            <div class="search-box">
+                <div class="filter-row">
+                    <div class="filter-group">
+                        <label for="seed-bank-filter">Filter by Seed Bank:</label>
+                        <select id="seed-bank-filter">
+                            <option value="">All Seed Banks (21,706 strains)</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="strain-search">Search Strain Name:</label>
+                        <input 
+                            type="text" 
+                            id="strain-search" 
+                            placeholder="e.g., OG Kush, Blue Dream..."
+                            autocomplete="off"
+                        >
+                    </div>
+                </div>
+                
+                <div class="url-lookup">
+                    <label for="url-input">Or Enter Strain URL:</label>
+                    <input 
+                        type="text" 
+                        id="url-input" 
+                        placeholder="https://www.northatlanticseed.com/product/og-kush-f-3/"
+                        autocomplete="off"
+                    >
+                    <button id="lookup-btn">View Source</button>
+                </div>
+            </div>
+            
+            <div id="search-results" class="search-results hidden"></div>
+
+            <div id="status" class="status hidden"></div>
+
+            <div id="metadata" class="metadata hidden">
+                <div class="meta-item">
+                    <strong>Seed Bank:</strong> <span id="seed-bank"></span>
+                </div>
+                <div class="meta-item">
+                    <strong>Collection Date:</strong> <span id="collection-date"></span>
+                </div>
+                <div class="meta-item">
+                    <strong>Expires In:</strong> <span id="expires-in">5 minutes</span>
+                </div>
+            </div>
+
+            <div id="viewer-container" class="viewer-container hidden">
+                <div class="watermark">Archived for verification purposes only • Not for redistribution</div>
+                <iframe 
+                    id="html-viewer" 
+                    sandbox="allow-same-origin allow-scripts"
+                    title="Strain HTML Archive"
+                ></iframe>
+            </div>
+        </main>
+
+        <footer>
+            <p>Logic designed by Amazon Q, verified by Shannon Goddard.</p>
+            <p class="security-note">🔒 All HTML archives are served via time-limited signed URLs (5-minute expiration)</p>
+            <p class="legal-link"><a href="docs/LEGAL_DISCLAIMER.md" target="_blank">Legal Disclaimer</a> | <a href="mailto:legal@loyal9.app">Opt-Out Requests</a></p>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

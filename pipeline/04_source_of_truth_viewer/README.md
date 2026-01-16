@@ -65,6 +65,7 @@ Build a **secure, production-grade HTML viewer** that proves every strain in our
 - ✅ **CloudFront Origin Access Identity (OAI)**: Only CloudFront can access S3
 - ✅ **Signed URLs**: Time-limited (5-minute expiration)
 - ✅ **Lambda IAM Role**: Minimal permissions (read S3, sign URLs only)
+- ✅ **Legal Disclaimer**: Fair use assertion, opt-out process, federal law notice
 
 ### Tier 2: Rate Limiting & Abuse Prevention
 - ✅ **API Gateway Throttling**: 10 requests/second per IP
@@ -76,7 +77,9 @@ Build a **secure, production-grade HTML viewer** that proves every strain in our
 - ✅ **Iframe Sandbox**: Disable downloads, right-click
 - ✅ **Content-Security-Policy**: Prevent embedding elsewhere
 - ✅ **X-Frame-Options**: Control where viewer can be embedded
-- ✅ **Watermark Overlay (Optional)**: Visual "Source of Truth" branding
+- ✅ **Watermark Overlay**: Visual "Archived for verification purposes only"
+- ✅ **Legal Modal**: First-visit disclaimer acceptance
+- ✅ **Footer Links**: Legal disclaimer, opt-out contact
 
 ## 📋 Build Plan (3 Hours)
 
@@ -172,6 +175,7 @@ pipeline/04_source_of_truth_viewer/
 │   ├── api_gateway_config.json  # API Gateway config
 │   └── iam_policies.json        # IAM roles and policies
 ├── docs/
+│   ├── LEGAL_DISCLAIMER.md      # Legal disclaimer & fair use
 │   ├── SETUP_GUIDE.md           # Step-by-step setup
 │   ├── API_DOCUMENTATION.md     # API endpoint docs
 │   └── SECURITY_AUDIT.md        # Security review

@@ -22,6 +22,13 @@
 - **Usage**: Gemini AI validation
 - **Credits**: Free tier available
 
+### 4. CloudFront Key Pair (Source of Truth Viewer)
+- **Key Pair ID**: `APKASPK2KPPM2XK4DMPI`
+- **Private Key File**: `pk-APKASPK2KPPM2XK4DMPI.pem` (stored securely, NOT in repo)
+- **Public Key File**: `rsa-APKASPK2KPPM2XK4DMPI.pem`
+- **Usage**: Generate signed URLs for time-limited HTML archive access
+- **Distribution**: `ci-strains-source-of-truth` (d36gqaqkk0n97a.cloudfront.net)
+
 ## Python Implementation Template
 
 ```python
