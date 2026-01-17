@@ -79,6 +79,18 @@ def generate_signed_url(s3_key, expiration_minutes=5):
 def lambda_handler(event, context):
     """Main Lambda handler for URL lookup."""
     
+    # Handle OPTIONS preflight request
+    if event.get('requestContext', {}).get('http', {}).get('method') == 'OPTIONS':
+        return {
+            'statusCode': 200,
+            'headers': {
+                'Access-Control-Allow-Origin': '*',
+                'Access-Control-Allow-Methods': 'POST, OPTIONS',
+                'Access-Control-Allow-Headers': 'Content-Type'
+            },
+            'body': ''
+        }
+    
     # Parse request body
     try:
         body = json.loads(event['body']) if isinstance(event.get('body'), str) else event.get('body', {})

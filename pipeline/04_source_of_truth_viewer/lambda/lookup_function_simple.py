@@ -86,14 +86,24 @@ def lambda_handler(event, context):
     except Exception as e:
         return {
             'statusCode': 400,
-            'headers': {'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*'},
+            'headers': {
+                'Content-Type': 'application/json',
+                'Access-Control-Allow-Origin': 'https://strains.loyal9.app',
+                'Access-Control-Allow-Methods': 'POST, OPTIONS',
+                'Access-Control-Allow-Headers': 'Content-Type'
+            },
             'body': json.dumps({'error': 'Invalid request body'})
         }
     
     if not url:
         return {
             'statusCode': 400,
-            'headers': {'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*'},
+            'headers': {
+                'Content-Type': 'application/json',
+                'Access-Control-Allow-Origin': 'https://strains.loyal9.app',
+                'Access-Control-Allow-Methods': 'POST, OPTIONS',
+                'Access-Control-Allow-Headers': 'Content-Type'
+            },
             'body': json.dumps({'error': 'URL parameter is required'})
         }
     
@@ -103,14 +113,25 @@ def lambda_handler(event, context):
     except Exception as e:
         return {
             'statusCode': 500,
-            'headers': {'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*'},
-            'body': json.dumps({'error': f'Failed to load inventory: {str(e)}'})}
+            'headers': {
+                'Content-Type': 'application/json',
+                'Access-Control-Allow-Origin': 'https://strains.loyal9.app',
+                'Access-Control-Allow-Methods': 'POST, OPTIONS',
+                'Access-Control-Allow-Headers': 'Content-Type'
+            },
+            'body': json.dumps({'error': f'Failed to load inventory: {str(e)}'})
+        }
     
     # Validate URL exists in inventory
     if url not in inventory:
         return {
             'statusCode': 404,
-            'headers': {'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*'},
+            'headers': {
+                'Content-Type': 'application/json',
+                'Access-Control-Allow-Origin': 'https://strains.loyal9.app',
+                'Access-Control-Allow-Methods': 'POST, OPTIONS',
+                'Access-Control-Allow-Headers': 'Content-Type'
+            },
             'body': json.dumps({'error': 'URL not found in inventory'})
         }
     
@@ -121,7 +142,12 @@ def lambda_handler(event, context):
         
         return {
             'statusCode': 200,
-            'headers': {'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*'},
+            'headers': {
+                'Content-Type': 'application/json',
+                'Access-Control-Allow-Origin': 'https://strains.loyal9.app',
+                'Access-Control-Allow-Methods': 'POST, OPTIONS',
+                'Access-Control-Allow-Headers': 'Content-Type'
+            },
             'body': json.dumps({
                 'signed_url': signed_url,
                 'seed_bank': strain_data['seed_bank'],
@@ -133,6 +159,11 @@ def lambda_handler(event, context):
     except Exception as e:
         return {
             'statusCode': 500,
-            'headers': {'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*'},
+            'headers': {
+                'Content-Type': 'application/json',
+                'Access-Control-Allow-Origin': 'https://strains.loyal9.app',
+                'Access-Control-Allow-Methods': 'POST, OPTIONS',
+                'Access-Control-Allow-Headers': 'Content-Type'
+            },
             'body': json.dumps({'error': f'Failed to generate signed URL: {str(e)}'})
         }

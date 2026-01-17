@@ -1,6 +1,5 @@
 // Configuration
-// TODO: Replace with your Lambda Function URL after deployment
-const API_ENDPOINT = 'https://<YOUR_LAMBDA_FUNCTION_URL>.lambda-url.us-east-1.on.aws/';
+const API_ENDPOINT = 'https://wdl3umx2og7kdf447gfhaebpme0owqcb.lambda-url.us-east-1.on.aws/';
 
 // DOM Elements
 const urlInput = document.getElementById('url-input');
