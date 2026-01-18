@@ -1,0 +1,1182 @@
+[
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_product_availability",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_product_price_amount",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_product_price_currency",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "prices_gbp",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "min_price_gbp",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "max_price_gbp",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "avg_price_gbp",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "price_count_gbp",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "package_sizes",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "min_package_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "max_package_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "jsonld_sku",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "jsonld_price",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "jsonld_currency",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "jsonld_availability",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "jsonld_price_valid_until",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "prices_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "min_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "max_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "avg_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "price_count_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "package_sizes",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "min_package_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "max_package_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_og_availability",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_product_availability",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "prices_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "min_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "max_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "avg_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "price_count_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "package_sizes",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "min_package_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "max_package_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_product_price_amount",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_product_price_currency",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "jsonld_sku",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_product_price_amount",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_product_price_currency",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "prices_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "min_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "max_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "avg_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "price_count_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "prices_gbp",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "min_price_gbp",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "max_price_gbp",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "avg_price_gbp",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "price_count_gbp",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "package_sizes",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "min_package_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "max_package_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "spec_seed___pack_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "discount_percentage",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "exotic",
+    "original_column": "pack_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "exotic",
+    "original_column": "sku",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "prices_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "min_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "max_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_product-availability",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_product_availability",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "prices_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "min_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "max_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "avg_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "price_count_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "package_sizes",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "min_package_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "max_package_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "jsonld_sku",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "meta_og_price_amount",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "meta_og_price_currency",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "prices_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "min_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "max_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "avg_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "price_count_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "package_sizes",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "min_package_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "max_package_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "discount_percentage",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "spec_seed___pack_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "package_sizes",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "min_package_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "max_package_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "discount_percentage",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "spec_pack_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "prices_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "min_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "max_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "avg_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "price_count_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "meta_product_price_amount",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "meta_product_price_currency",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "meta_og_availability",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "meta_product_availability",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "prices_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "min_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "max_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "avg_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "price_count_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "spec_pack_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "package_sizes",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "min_package_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "max_package_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_pack_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "prices_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "min_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "max_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "avg_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "price_count_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "package_sizes",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "min_package_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "max_package_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_availability",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_sku",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_price",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_pricecurrency",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_availability",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "prices_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "min_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "max_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "avg_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "price_count_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "prices_gbp",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "min_price_gbp",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "max_price_gbp",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "avg_price_gbp",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "price_count_gbp",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "package_sizes",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "min_package_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "max_package_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "jsonld_sku",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "meta_product_price_amount",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "meta_product_price_currency",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sku",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "prices_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "min_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "max_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "avg_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "price_count_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "package_sizes",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "min_package_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "max_package_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_super_skunk_autoflower___4_pack____4x_______55_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_super_skunk_autoflower___8_pack____8x_______87_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_super_skunk_autoflower___12_pack____12x_______109_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_super_skunk_autoflower___25_pack____25x_______163_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_super_skunk_feminized___4_pack____4x_______55_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_super_skunk_feminized___8_pack____8x_______87_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_super_skunk_feminized___12_pack____12x_______109_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_super_skunk_feminized___25_pack____25x_______163_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_skunk_x_northern_lights_feminized___4_pack____4x_______55_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_skunk_x_northern_lights_feminized___8_pack____8x_______87_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_skunk_x_northern_lights_feminized___12_pack____12x_______109_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_skunk_x_northern_lights_feminized___25_pack____25x_______163_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_skunk_diesel_feminized___4_pack____4x_______55_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_skunk_diesel_feminized___8_pack____8x_______87_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_skunk_diesel_feminized___12_pack____12x_______109_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_skunk_diesel_feminized___25_pack____25x_______163_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_skunk_autoflower___4_pack____4x_______55_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_skunk_autoflower___8_pack____8x_______87_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_skunk_autoflower___12_pack____12x_______109_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_skunk_autoflower___25_pack____25x_______163_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_early_skunk_feminized___4_pack____4x_______55_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_early_skunk_feminized___8_pack____8x_______87_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_early_skunk_feminized___12_pack____12x_______109_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_early_skunk_feminized___25_pack____25x_______163_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_early_skunk_feminized___100_pack____100x_______495_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_skunk__1_feminized___4_pack____4x_______55_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_skunk__1_feminized___8_pack____8x_______87_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_skunk__1_feminized___12_pack____12x_______109_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_skunk__1_feminized___25_pack____25x_______163_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_orange_x_skunk_feminized___4_pack____4x_______55_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_orange_x_skunk_feminized___8_pack____8x_______87_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_orange_x_skunk_feminized___12_pack____12x_______109_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_orange_x_skunk_feminized___25_pack____25x_______163_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_orange_skunk_feminized_cannabis_seeds___4_pack___homegrown_cannabis_co_____4x_______49_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_orange_skunk_feminized_cannabis_seeds___8_pack___homegrown_cannabis_co______8x_______79_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_orange_skunk_feminized_cannabis_seeds___12_pack___homegrown_cannabis_co______12x_______109_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights_x_skunk_feminized___4_pack____4x_______55_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights_x_skunk_feminized___8_pack____8x_______87_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights_x_skunk_feminized___12_pack____12x_______109_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights_x_skunk_feminized___25_pack____25x_______163_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_jack_herer_x_skunk_feminized___4_pack____4x_______55_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_jack_herer_x_skunk_feminized___8_pack____8x_______87_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_jack_herer_x_skunk_feminized___12_pack____12x_______109_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_jack_herer_x_skunk_feminized___25_pack____25x_______163_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_hawaii_x_purple_skunk_feminized___4_pack____4x_______55_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_hawaii_x_purple_skunk_feminized___8_pack____8x_______87_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_hawaii_x_purple_skunk_feminized___12_pack____12x_______109_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_hawaii_x_purple_skunk_feminized___25_pack____25x_______163_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_california_orange_x_skunk_feminized___4_pack____4x_______55_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_california_orange_x_skunk_feminized___8_pack____8x_______87_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_california_orange_x_skunk_feminized___12_pack____12x_______109_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_california_orange_x_skunk_feminized___25_pack____25x_______163_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_afghan_kush_x_super_skunk_feminized___4_pack____4x_______55_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_afghan_kush_x_super_skunk_feminized___8_pack____8x_______87_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_afghan_kush_x_super_skunk_feminized___12_pack____12x_______109_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_afghan_kush_x_super_skunk_feminized___25_pack____25x_______163_00",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "prices_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "min_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "max_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "avg_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "jsonld_sku",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "jsonld_price",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "jsonld_currency",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "jsonld_availability",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_product_availability",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_pack_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_product_price_amount",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_product_price_currency",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "jsonld_sku",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "jsonld_price",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "jsonld_currency",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_sku",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "min_price",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "max_price",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "avg_price",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_payment_method",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_pack_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_product_availability",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "prices_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "min_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "max_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "avg_price_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "price_count_usd",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "package_sizes",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "min_package_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "max_package_size",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_og_availability",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "jsonld_sku",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "jsonld_price",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "jsonld_currency",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "jsonld_availability",
+    "reason": "Commercial data"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "jsonld_price_valid_until",
+    "reason": "Commercial data"
+  }
+]

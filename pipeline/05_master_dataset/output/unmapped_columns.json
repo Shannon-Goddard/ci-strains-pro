@@ -1,0 +1,7018 @@
+[
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "seed_bank"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "ams_thc"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "ams_yield"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "ams_plant_size"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_viewport"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_robots"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_og_locale"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_og_type"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_og_title"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_og_url"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_og_site_name"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_og_updated_time"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_og_image"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_og_image_secure_url"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_og_image_width"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_og_image_height"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_og_image_alt"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_og_image_type"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_twitter_card"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_twitter_title"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_twitter_site"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_twitter_creator"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_twitter_image"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_twitter_label1"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_twitter_data1"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_twitter_label2"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_twitter_data2"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_generator"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_msapplication-tileimage"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_og_video"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_video_duration"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_ya_ovs_upload_date"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_ya_ovs_allow_embed"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "seed_bank"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "url_domain"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "extraction_version"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "outdoor_harvest_time"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "spec_sex"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "spec_type"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "spec_area"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "meta_viewport"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "meta_keywords"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "meta_robots"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "meta_revisit_after"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "page_title"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "breadcrumb_path"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "product_images"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "product_image_count"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "logo_images"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "logo_image_count"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "total_image_count"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "has_media_gallery"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "extraction_methods_used"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "method_count"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "data_completeness_score"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "market_tier"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "total_fields_captured"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "strain_images"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "strain_image_count"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "spec_height"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "seed_bank"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "url_domain"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "extraction_version"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "jsonld_product_name"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "jsonld_brand"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "jsonld_mpn"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "jsonld_gtin"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "jsonld_category"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "jsonld_image_url"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "jsonld_seller"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "jsonld_rating_value"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "jsonld_rating_count"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "jsonld_best_rating"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "jsonld_worst_rating"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "meta_og_site_name"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "meta_owner"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "meta_copyright"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "meta_viewport"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "meta_format_detection"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "meta_og_url"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "meta_og_type"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "meta_og_title"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "meta_og_image"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "page_title"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "spec_type"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "spec_feminised_outdoor_harvest_month_week"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "yield_amount"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "yield_unit"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "product_images"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "total_image_count"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "extraction_methods_used"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "method_count"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "data_completeness_score"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "market_tier"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "total_fields_captured"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "yield_min"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "yield_max"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "yield_range"
+  },
+  {
+    "seed_bank": "compound",
+    "original_column": "seed_bank"
+  },
+  {
+    "seed_bank": "compound",
+    "original_column": "vegetative_time"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "seed_bank"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "url_domain"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "extraction_version"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_viewport"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_robots"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_og_locale"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_og_type"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_og_title"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_og_url"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_og_site_name"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_article_modified_time"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_og_image"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_og_image_width"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_og_image_height"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_og_image_type"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_twitter_card"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_twitter_title"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_twitter_image"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_twitter_label1"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_twitter_data1"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_product_retailer_item_id"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_product_condition"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_ti_site_data"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_generator"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_msapplication_tileimage"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_referrer"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "page_title"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "spec_category_type"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "spec_harvest_time"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "product_images"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "total_image_count"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "extraction_methods_used"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "method_count"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "data_completeness_score"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "market_tier"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "total_fields_captured"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "yield_amount"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "yield_unit"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "yield_min"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "yield_max"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "yield_range"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "spec_growing_level"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_twitter_label2"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_twitter_data2"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "seed_bank"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "url_domain"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "extraction_version"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "jsonld_org_name"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "jsonld_org_url"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "jsonld_org_logo"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "jsonld_product_name"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "jsonld_brand"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "jsonld_mpn"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "jsonld_gtin"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "jsonld_category"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "jsonld_image_url"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_title"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_keywords"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_robots"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_viewport"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_og_type"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_og_title"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_og_url"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_og_image"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_og_site_name"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "page_title"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "yield_amount"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "yield_unit"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "product_images"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "product_image_count"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "strain_images"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "strain_image_count"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "logo_images"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "logo_image_count"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "total_image_count"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "has_media_gallery"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "extraction_methods_used"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "method_count"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "data_completeness_score"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "market_tier"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "total_fields_captured"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_revisit_after"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "yield_min"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "yield_max"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "yield_range"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_color_scheme"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_og_locale"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_og_updated_time"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_fb_app_id"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_og_image_secure_url"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_og_image_width"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_og_image_height"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_og_image_alt"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_og_image_type"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_twitter_card"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_twitter_title"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_twitter_image"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_twitter_label1"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_twitter_data1"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_twitter_label2"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_twitter_data2"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_generator"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_ti_site_data"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_msapplication_tileimage"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "spec_seed___breed"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "spec_seed___plant_gender"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "certifications"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "certification_count"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "jsonld_rating_value"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "jsonld_rating_count"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "jsonld_best_rating"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "jsonld_worst_rating"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "spec_year"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "spec_2021"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "spec_2020"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "spec_2015"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "spec_2019"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "spec_2016"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "spec_2022"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "spec_2014"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "spec_2008"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "spec_2002"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "spec_1999"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "spec_2018"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "spec_2013"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "spec_2023"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "spec_2000"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "spec_2001"
+  },
+  {
+    "seed_bank": "exotic",
+    "original_column": "seed_bank"
+  },
+  {
+    "seed_bank": "exotic",
+    "original_column": "mother"
+  },
+  {
+    "seed_bank": "exotic",
+    "original_column": "reversal"
+  },
+  {
+    "seed_bank": "exotic",
+    "original_column": "category"
+  },
+  {
+    "seed_bank": "exotic",
+    "original_column": "sex"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "seed_bank"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_indoor"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_outdoor"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_medical"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "features_all"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "overview"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_height_info"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_height_notes"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_flavour"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_yield_notes"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_greenhouse"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_yield"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_medical_cannabis_info"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_mix_packs"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_cup_winner"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_cannabis_cup"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "seed_bank"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "url_domain"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "extraction_version"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "meta_robots"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "meta_og_locale"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "meta_og_type"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "meta_og_title"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "meta_og_url"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "meta_og_site_name"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "meta_article_modified_time"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "meta_og_image"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "meta_og_image_width"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "meta_og_image_height"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "meta_og_image_type"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "meta_twitter_card"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "meta_twitter_label1"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "meta_twitter_data1"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "meta_generator"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "meta_viewport"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "meta_msapplication_tileimage"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "page_title"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "total_image_count"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "product_images"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "extraction_methods_used"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "method_count"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "data_completeness_score"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "market_tier"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "total_fields_captured"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "seed_bank"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "herb_strain_brand"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "herb_strain_gender"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "herb_strain_light_cycle"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "herb_strain_harvest"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "herb_strain_height"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "herb_strain_outdoor_finish"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "seed_bank"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_viewport"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_robots"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_og_locale"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_og_title"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_og_image"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_og_url"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_og_type"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_og_site_name"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_twitter_title"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_twitter_image"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_twitter_card"
+  },
+  {
+    "seed_bank": "ilgm_js",
+    "original_column": "seed_bank"
+  },
+  {
+    "seed_bank": "ilgm_js",
+    "original_column": "total_fields"
+  },
+  {
+    "seed_bank": "ilgm_js",
+    "original_column": "yield_min"
+  },
+  {
+    "seed_bank": "ilgm_js",
+    "original_column": "yield_max"
+  },
+  {
+    "seed_bank": "ilgm_js",
+    "original_column": "yield_range"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "seed_bank"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "url_domain"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "extraction_version"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_viewport"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_robots"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_og_locale"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_og_title"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_og_image"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_og_url"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_og_type"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_og_site_name"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_twitter_title"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_twitter_image"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_twitter_card"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "page_title"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "yield_amount"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "yield_unit"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "product_images"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "total_image_count"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "extraction_methods_used"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "method_count"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "data_completeness_score"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "market_tier"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "total_fields_captured"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "seed_bank"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "url_domain"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "extraction_version"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "jsonld_org_name"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "jsonld_org_url"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "jsonld_org_logo"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "jsonld_product_name"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "jsonld_brand"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "jsonld_mpn"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "jsonld_gtin"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "jsonld_category"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "jsonld_image_url"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "meta_google_site_verification"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "meta_viewport"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "meta_og_site_name"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "meta_og_url"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "meta_og_title"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "meta_og_type"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "meta_og_image"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "meta_og_image_secure_url"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "meta_og_image_width"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "meta_og_image_height"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "meta_twitter_card"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "meta_twitter_title"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "meta_shopify_digital_wallet"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "page_title"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "extraction_methods_used"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "method_count"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "data_completeness_score"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "market_tier"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "total_fields_captured"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "meta_robots"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "yield_amount"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "yield_unit"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "seed_bank"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "url_domain"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "extraction_version"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "meta_color_scheme"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "meta_viewport"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "meta_robots"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "meta_og_locale"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "meta_og_type"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "meta_og_title"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "meta_og_url"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "meta_og_site_name"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "meta_og_updated_time"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "meta_fb_app_id"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "meta_og_image"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "meta_og_image_secure_url"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "meta_og_image_width"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "meta_og_image_height"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "meta_og_image_alt"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "meta_og_image_type"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "meta_twitter_card"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "meta_twitter_title"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "meta_twitter_image"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "meta_twitter_label1"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "meta_twitter_data1"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "meta_twitter_label2"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "meta_twitter_data2"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "meta_generator"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "meta_ti_site_data"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "meta_msapplication_tileimage"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "page_title"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "spec_seed___breed"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "spec_seed___plant_gender"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "logo_images"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "logo_image_count"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "total_image_count"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "has_media_gallery"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "certifications"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "certification_count"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "extraction_methods_used"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "method_count"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "data_completeness_score"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "market_tier"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "total_fields_captured"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "strain_images"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "strain_image_count"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "product_images"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "product_image_count"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "spec_yield"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "yield_min"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "yield_max"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "yield_unit"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "yield_range"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "yield_amount"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "spec_tac"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "spec_height"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "spec_product_categories"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "gallery_images"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "gallery_image_count"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "spec_type"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "spec_sex"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "spec_dominance"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "spec_seeds_per_pack"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "seed_bank"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "url_domain"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "extraction_version"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "meta_viewport"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "meta_robots"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "meta_og_locale"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "meta_og_type"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "meta_og_title"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "meta_og_url"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "meta_og_site_name"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "meta_article_modified_time"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "meta_og_image"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "meta_og_image_width"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "meta_og_image_height"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "meta_og_image_type"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "meta_twitter_card"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "meta_twitter_site"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "meta_twitter_label1"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "meta_twitter_data1"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "meta_twitter_label2"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "meta_twitter_data2"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "meta_product_retailer_item_id"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "meta_product_condition"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "meta_generator"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "meta_msapplication_tileimage"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "page_title"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "strain_images"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "strain_image_count"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "total_image_count"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "has_media_gallery"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "extraction_methods_used"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "method_count"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "data_completeness_score"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "market_tier"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "total_fields_captured"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "spec_yield"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "spec_harvest_time"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "spec_feelings"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "spec_height"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "spec_helps"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "spec_seeds_per_pack"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "yield_amount"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "yield_unit"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "spec_color"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "product_images"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "product_image_count"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "spec_size"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "seed_bank"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "url_domain"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "extraction_version"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "meta_viewport"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "meta_og_title"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "meta_robots"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "meta_generator"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "meta_msapplication_tileimage"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "page_title"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "strain_images"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "strain_image_count"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "total_image_count"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "has_media_gallery"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "extraction_methods_used"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "method_count"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "data_completeness_score"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "market_tier"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "total_fields_captured"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_type"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_feminized_outdoor_harvest_month_week"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "product_images"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "product_image_count"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "yield_min"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "yield_max"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "yield_unit"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "yield_range"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "yield_amount"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_yield"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_height"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_trait"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_flavour_profile"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_expected_yield"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_feminised_outdoor_harvest_month_week"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_format"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_resistance_against_spider_mites"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_resistance_against_powder_mildew"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_resistance_against_botrytis"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_resistance_against_white_fly"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_resistance_against_cold"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_resistance_against_heat"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_structure"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_bouquet"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_high"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_growing_tips"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_harvest"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "seed_bank"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "url_domain"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "extraction_version"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_keywords"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_og_site_name"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_og_title"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_og_type"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_robots"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_viewport"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_og_url"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_twitter_site"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_twitter_card"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_twitter_title"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_twitter_image"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_og_image"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_position"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_reviewcount"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_brand"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_image"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_category"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_gtin8"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_url"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_itemcondition"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_itemreviewed"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_author"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_datepublished"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "page_title"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "yield_min"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "yield_max"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "yield_unit"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "yield_range"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "product_images"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "product_image_count"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "strain_images"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "strain_image_count"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "total_image_count"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "has_media_gallery"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "extraction_methods_used"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "method_count"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "data_completeness_score"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "market_tier"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "total_fields_captured"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "yield_amount"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "seed_bank"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "url_domain"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "extraction_version"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "jsonld_org_name"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "jsonld_org_url"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "jsonld_org_logo"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "jsonld_product_name"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "jsonld_brand"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "jsonld_mpn"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "jsonld_gtin"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "jsonld_category"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "jsonld_image_url"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "meta_title"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "meta_keywords"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "meta_robots"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "meta_viewport"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "meta_format_detection"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "meta_apple_mobile_web_app_title"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "meta_application_name"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "meta_msapplication_tilecolor"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "meta_theme_color"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "meta_og_type"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "meta_og_title"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "meta_og_image"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "meta_og_url"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "page_title"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_spend__50__get_4_free_seeds"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_spend__150__get_8_free_seeds"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_product_name"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_amnesia_x_ak_47_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_amnesia_x_ak_47_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_amnesia_x_ak_47_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_amnesia_x_ak_47_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_yield"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "yield_amount"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "yield_unit"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "product_images"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "product_image_count"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "strain_images"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "strain_image_count"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "total_image_count"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "has_media_gallery"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "extraction_methods_used"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "method_count"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "data_completeness_score"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "market_tier"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "total_fields_captured"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_zombie_death_fuck_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_zombie_death_fuck_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_zombie_death_fuck_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_zombie_death_fuck_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_zkittlez_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_zkittlez_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_zkittlez_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_zkittlez_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_white_widow_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_white_widow_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_white_widow_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_white_widow_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_white_widow_feminized___100_pack____100x_______495_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_white_widow_regular___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_white_widow_regular___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_white_widow_regular___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_white_widow_regular___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_white_truffle_ice_cream_feminized_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_white_truffle_ice_cream_feminized_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_white_truffle_ice_cream_feminized_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_white_truffle_ice_cream_feminized_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_white_russian_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_white_russian_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_white_russian_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_white_russian_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_white_rhino_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_white_rhino_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_white_rhino_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_white_rhino_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_wedding_cake_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_wedding_cake_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_wedding_cake_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_wedding_cake_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_true_og_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_true_og_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_true_og_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_true_og_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_tropicana_cookies_purple_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_tropicana_cookies_purple_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_tropicana_cookies_purple_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_tropicana_cookies_purple_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_tropic_thunder_regular_cannabis_seeds___4_pack___homegrown_cannabis_co_____4x_______49_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_tropic_thunder_regular_cannabis_seeds___8_pack___homegrown_cannabis_co______8x_______79_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_tropic_thunder_regular_cannabis_seeds___12_pack___homegrown_cannabis_co______12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_trainwreck_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_trainwreck_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_trainwreck_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_trainwreck_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_tijuana_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_tijuana_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_tijuana_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_tijuana_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_taskenti_feminized___4_pack___4___4_free______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_taskenti_feminized___8_pack___8___8_free______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_taskenti_feminized___12_pack___12___12_free______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_taskenti_feminized___25_pack___25___25_free______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_tangie_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_tangie_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_tangie_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_tangie_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sweet_tooth_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sweet_tooth_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sweet_tooth_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sweet_tooth_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sweet_island_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sweet_island_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sweet_island_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sweet_island_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "certifications"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "certification_count"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_super_silver_haze_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_super_silver_haze_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_super_silver_haze_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_super_silver_haze_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_super_lemon_haze_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_super_lemon_haze_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_super_lemon_haze_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_super_lemon_haze_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sunset_sherbet_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sunset_sherbet_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sunset_sherbet_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sunset_sherbet_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sundae_driver_feminized_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sundae_driver_feminized_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sundae_driver_feminized_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sundae_driver_feminized_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "yield_min"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "yield_max"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "yield_range"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sugar_black_rose_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sugar_black_rose_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sugar_black_rose_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sugar_black_rose_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_strawberry_kush_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_strawberry_kush_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_strawberry_kush_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_strawberry_kush_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_strawberry_cough_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_strawberry_cough_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_strawberry_cough_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_strawberry_cough_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_strawberry_banana_cheese_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_strawberry_banana_cheese_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_strawberry_banana_cheese_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_strawberry_banana_cheese_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_strawberry_banana_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_strawberry_banana_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_strawberry_banana_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_strawberry_banana_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_strawberry_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_strawberry_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_strawberry_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_strawberry_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_stardawg_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_stardawg_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_stardawg_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_stardawg_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_star_killer_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_star_killer_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_star_killer_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_star_killer_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sour_kush_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sour_kush_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sour_kush_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sour_kush_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sour_diesel_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sour_diesel_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sour_diesel_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sour_diesel_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_somango_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_somango_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_somango_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_somango_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_snow_ripper_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_snow_ripper_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_snow_ripper_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_snow_ripper_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_skywalker_x_girl_scout_cookies_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_skywalker_x_girl_scout_cookies_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_skywalker_x_girl_scout_cookies_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_skywalker_x_girl_scout_cookies_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_skywalker_ghost_x_triangle_kush_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_skywalker_ghost_x_triangle_kush_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_skywalker_ghost_x_triangle_kush_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_skywalker_ghost_x_triangle_kush_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_skywalker_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_skywalker_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_skywalker_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_skywalker_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sirius_black_feminized_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sirius_black_feminized_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sirius_black_feminized_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sirius_black_feminized_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_shishkaberry_kush_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_shishkaberry_kush_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_shishkaberry_kush_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_shishkaberry_kush_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_san_fernando_valley_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_san_fernando_valley_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_san_fernando_valley_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_san_fernando_valley_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_runtz_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_runtz_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_runtz_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_runtz_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_relaxation_feminized_seed_mix___6____6x_______65_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_relaxation_feminized_seed_mix___12____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_relaxation_feminized_seed_mix___24____24x_______155_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_relaxation_feminized_seed_mix___36____36x_______215_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_genetic_heritage"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_plant_characteristics"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_red_runtz_feminized_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_red_runtz_feminized_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_red_runtz_feminized_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_red_runtz_feminized_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_rainbow_glue_feminized_cannabis_seeds___4_pack___homegrown_cannabis_co_____4x_______49_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_rainbow_glue_feminized_cannabis_seeds___8_pack___homegrown_cannabis_co______8x_______79_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_rainbow_glue_feminized_cannabis_seeds___12_pack___homegrown_cannabis_co______12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_urkle_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_urkle_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_urkle_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_urkle_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_thai_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_thai_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_thai_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_thai_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_punch_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_punch_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_punch_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_punch_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_kush_x_white_russian_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_kush_x_white_russian_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_kush_x_white_russian_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_kush_x_white_russian_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_kush_x_mazar_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_kush_x_mazar_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_kush_x_mazar_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_kush_x_mazar_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_kush_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_kush_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_kush_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_kush_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_kush_feminized___100_pack____100x_______495_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_haze_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_haze_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_haze_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_haze_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_gelato_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_gelato_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_gelato_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_gelato_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_power_plant_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_power_plant_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_power_plant_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_power_plant_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_platinum_cookies_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_platinum_cookies_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_platinum_cookies_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_platinum_cookies_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pink_truffle_feminized___5_pack____5x_______74_98"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pink_truffle_feminized___10_pack____10x_______144_98"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pineapple_haze_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pineapple_haze_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pineapple_haze_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pineapple_haze_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pilot_feminized___1_pack____1x_______34_98"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pilot_feminized___5_pack____5x_______79_98"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pilot_feminized___10_pack____10x_______159_98"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_permanent_marker_feminized___4____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_permanent_marker_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_permanent_marker_feminized___12____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_permanent_marker_feminized___24____24x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_peanut_butter_breath_feminized_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_peanut_butter_breath_feminized_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_peanut_butter_breath_feminized_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_peanut_butter_breath_feminized_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_peach_creshendo_feminized_cannabis_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_peach_creshendo_feminized_cannabis_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_peach_creshendo_feminized_cannabis_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_peach_creshendo_feminized_cannabis_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pancakes_feminized___4____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pancakes_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pancakes_feminized___12____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pancakes_feminized___24____24x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_panama_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_panama_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_panama_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_panama_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_oreoz_cake_feminized_cannabis_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_oreoz_cake_feminized_cannabis_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_oreoz_cake_feminized_cannabis_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_oreoz_cake_feminized_cannabis_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_oregon_underdawg_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_oregon_underdawg_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_oregon_underdawg_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_oregon_underdawg_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_oregon_peach_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_oregon_peach_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_oregon_peach_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_oregon_peach_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_orange_bud_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_orange_bud_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_orange_bud_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_og_kush_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_og_kush_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_og_kush_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_og_kush_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_og_kush_regular_cannabis_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_og_kush_regular_cannabis_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_og_kush_regular_cannabis_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_og_kush_regular_cannabis_seeds___24_pack____24x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_nyc_diesel_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_nyc_diesel_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_nyc_diesel_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_nyc_diesel_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_donny_burger_feminized_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_donny_burger_feminized_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_donny_burger_feminized_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_donny_burger_feminized_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights_x_cinderella_99_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights_x_cinderella_99_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights_x_cinderella_99_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights_x_cinderella_99_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights__5_x_amnesia_haze_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights__5_x_amnesia_haze_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights__5_x_amnesia_haze_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights__5_x_amnesia_haze_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights__10_x_amnesia_haze_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights__10_x_amnesia_haze_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights__10_x_amnesia_haze_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights__10_x_amnesia_haze_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights__10_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights__10_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights__10_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights__10_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights_regular___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights_regular___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights_regular___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights_regular___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_dawn_feminized_cannabis_seeds___4_pack___homegrown_cannabis_co_____4x_______49_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_dawn_feminized_cannabis_seeds___8_pack___homegrown_cannabis_co______8x_______79_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_dawn_feminized_cannabis_seeds___12_pack___homegrown_cannabis_co______12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_moby_dick_x_do_si_dos_feminized_cannabis_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_moby_dick_x_do_si_dos_feminized_cannabis_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_moby_dick_x_do_si_dos_feminized_cannabis_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_moby_dick_x_do_si_dos_feminized_cannabis_seeds___24_pack____24x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_moby_dick_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_moby_dick_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_moby_dick_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_moby_dick_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_mk_ultra_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_mk_ultra_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_mk_ultra_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_mk_ultra_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_mexican_haze_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_mexican_haze_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_mexican_haze_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_mexican_haze_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_mazar_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_mazar_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_mazar_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_mazar_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_maui_wowie_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_maui_wowie_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_maui_wowie_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_maui_wowie_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_matanuska_tundra_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_matanuska_tundra_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_matanuska_tundra_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_matanuska_tundra_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_master_kush_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_master_kush_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_master_kush_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_master_kush_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_mango_kush_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_mango_kush_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_mango_kush_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_mango_kush_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_mac_feminized_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_mac_feminized_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_mac_feminized_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_mac_feminized_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lyly_sour_x_blue_og_feminized___4_pack___4___4_free______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lyly_sour_x_blue_og_feminized___8_pack___8___8_free______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lyly_sour_x_blue_og_feminized___12_pack___12___12_free______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lyly_sour_x_blue_og_feminized___25_pack___25___25_free______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lsd_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lsd_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lsd_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lsd_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_london_pound_cake_feminized_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_london_pound_cake_feminized_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_london_pound_cake_feminized_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_london_pound_cake_feminized_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lemon_tree_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lemon_tree_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lemon_tree_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lemon_tree_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lemon_pie_regular___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lemon_pie_regular___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lemon_pie_regular___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lemon_pie_regular___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lemon_og_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lemon_og_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lemon_og_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lemon_og_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lemon_diesel_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lemon_diesel_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lemon_diesel_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lemon_diesel_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_legend_og_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_legend_og_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_legend_og_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_legend_og_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lavender_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lavender_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lavender_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lavender_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_larry_bird_feminized_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_larry_bird_feminized_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_larry_bird_feminized_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_larry_bird_feminized_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_la_kush_cake_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_la_kush_cake_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_la_kush_cake_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_la_kush_cake_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_la_confidential_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_la_confidential_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_la_confidential_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_kosher_kush_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_kosher_kush_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_kosher_kush_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_kosher_kush_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_3_kings_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_3_kings_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_3_kings_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_3_kings_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_killer_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_killer_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_killer_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_killer_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_jealousy_glue_feminized_cannabis_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_jealousy_glue_feminized_cannabis_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_jealousy_glue_feminized_cannabis_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_jealousy_glue_feminized_cannabis_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_jealousy_feminized_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_jealousy_feminized_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_jealousy_feminized_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_jealousy_feminized_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_jack_widow_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_jack_widow_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_jack_widow_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_jack_widow_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_jack_herer_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_jack_herer_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_jack_herer_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_jack_herer_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_ice_cream_cake_x_rs11_feminized_cannabis_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_ice_cream_cake_x_rs11_feminized_cannabis_seeds___8_pack_____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_ice_cream_cake_x_rs11_feminized_cannabis_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_ice_cream_cake_x_rs11_feminized_cannabis_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_humboldt_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_humboldt_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_humboldt_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_humboldt_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_hindu_kush_regular___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_hindu_kush_regular___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_hindu_kush_regular___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_hindu_kush_regular___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_hindu_kush_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_hindu_kush_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_hindu_kush_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_hindu_kush_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_high_cbd_feminized_seed_mix___6____6x_______65_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_high_cbd_feminized_seed_mix___12____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_high_cbd_feminized_seed_mix___24____24x_______155_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_high_cbd_feminized_seed_mix___36____36x_______215_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_hellfire_og_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_hellfire_og_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_hellfire_og_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_hellfire_og_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_harlequin_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_harlequin_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_harlequin_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_harlequin_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gushers_feminized_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gushers_feminized_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gushers_feminized_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gushers_feminized_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_green_crack_x_somango_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_green_crack_x_somango_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_green_crack_x_somango_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_green_crack_x_somango_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_green_crack_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_green_crack_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_green_crack_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_green_crack_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_great_white_shark_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_great_white_shark_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_great_white_shark_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_great_white_shark_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grapericot_pie_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grapericot_pie_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grapericot_pie_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grapericot_pie_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grapefruit_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grapefruit_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grapefruit_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grapefruit_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grape_octane_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grape_octane_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grape_octane_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grape_octane_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grape_ape_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grape_ape_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grape_ape_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grape_ape_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grandaddy_purple_x_bruce_banner_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grandaddy_purple_x_bruce_banner_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grandaddy_purple_x_bruce_banner_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grandaddy_purple_x_bruce_banner_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grandaddy_purple_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grandaddy_purple_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grandaddy_purple_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grandaddy_purple_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grandaddy_bruce_regular_cannabis_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grandaddy_bruce_regular_cannabis_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grandaddy_bruce_regular_cannabis_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grandaddy_bruce_regular_cannabis_seeds___24_pack____24x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grandaddy_bruce_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grandaddy_bruce_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grandaddy_bruce_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grandaddy_bruce_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grandaddy_black_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grandaddy_black_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grandaddy_black_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_grandaddy_black_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gorilla_lemon_fire_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gorilla_lemon_fire_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gorilla_lemon_fire_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gorilla_lemon_fire_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gold_leaf_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gold_leaf_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gold_leaf_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gold_leaf_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_godfather_og_feminized_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_godfather_og_feminized_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_godfather_og_feminized_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_godfather_og_feminized_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_godfather_og_feminized_seeds___100_pack____100x_______495_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gmo_feminized_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gmo_feminized_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gmo_feminized_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gmo_feminized_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_original_glue_feminized_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_original_glue_feminized_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_original_glue_feminized_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_original_glue_feminized_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_girl_scout_cookies_x_sour_diesel_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_girl_scout_cookies_x_sour_diesel_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_girl_scout_cookies_x_sour_diesel_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_girl_scout_cookies_x_sour_diesel_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_girl_scout_cookies_x_jack_herer_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_girl_scout_cookies_x_jack_herer_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_girl_scout_cookies_x_jack_herer_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_girl_scout_cookies_x_jack_herer_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_girl_scout_cookies_x_cheese_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_girl_scout_cookies_x_cheese_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_girl_scout_cookies_x_cheese_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_girl_scout_cookies_x_cheese_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_girl_scout_cookies_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_girl_scout_cookies_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_girl_scout_cookies_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_girl_scout_cookies_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_ghost_train_haze_x_pellezino_fem___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_ghost_train_haze_x_pellezino_fem___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_ghost_train_haze_x_pellezino_fem___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_ghost_train_haze_x_pellezino_fem___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gg_4_x_zkittles_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gg_4_x_zkittles_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gg_4_x_zkittles_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gg_4_x_zkittles_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gg__4_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gg__4_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gg__4_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gg__4_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gg_lemon_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gg_lemon_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gg_lemon_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gg_lemon_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gelato_regular___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gelato_regular___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gelato_regular___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gelato_regular___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gelato_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gelato_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gelato_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gelato_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gary_payton_feminized_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gary_payton_feminized_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gary_payton_feminized_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gary_payton_feminized_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_galactic_runtz_feminized___4____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_galactic_runtz_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_galactic_runtz_feminized___12____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_galactic_runtz_feminized___24____24x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_g13_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_g13_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_g13_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_g13_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_fruity_pebbles_feminized_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_fruity_pebbles_feminized_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_fruity_pebbles_feminized_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_fruity_pebbles_feminized_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_frosted_gelato_41_feminized_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_frosted_gelato_41_feminized_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_frosted_gelato_41_feminized_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_frosted_gelato_41_feminized_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_fizzy_gum_feminized___5_pack____5x_______74_98"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_fizzy_gum_feminized___10_pack____10x_______144_98"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_fire_og_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_fire_og_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_fire_og_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_fire_og_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_exodus_cheese_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_exodus_cheese_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_exodus_cheese_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_exodus_cheese_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_dutch_treat_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_dutch_treat_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_dutch_treat_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_dutch_treat_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_durban_poison_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_durban_poison_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_durban_poison_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_durban_poison_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_doug_s_varin_feminized_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_doug_s_varin_feminized_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_doug_s_varin_feminized_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_doug_s_varin_feminized_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_dosed_chocolate_chips_feminized___4____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_dosed_chocolate_chips_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_dosed_chocolate_chips_feminized___12____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_dosed_chocolate_chips_feminized___24____24x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_do_si_dos_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_do_si_dos_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_do_si_dos_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_do_si_dos_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_diesel_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_diesel_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_diesel_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_diesel_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_death_star_feminized_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_death_star_feminized_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_death_star_feminized_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_death_star_feminized_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_crystal_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_crystal_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_crystal_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_crystal_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_crunch_feminized___5_pack____5x_______74_98"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_crunch_feminized___10_pack____10x_______144_98"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_mass_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_mass_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_mass_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_mass_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_kush_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_kush_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_kush_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_kush_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_jack_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_jack_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_jack_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_jack_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_blue_feminized___4_pack___4___4_free______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_blue_feminized___8_pack___8___8_free______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_blue_feminized___12_pack___12___12_free______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_blue_feminized___25_pack___25___25_free______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical___feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical___feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical___feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical___feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cream_caramel_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cream_caramel_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cream_caramel_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cream_caramel_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_clementine_slush_feminized___5_pack____5x_______74_98"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_clementine_slush_feminized___10_pack____10x_______144_98"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cinderella_99_x_tangilope_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cinderella_99_x_tangilope_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cinderella_99_x_tangilope_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cinderella_99_x_tangilope_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cinderella_99_x_kali_mist_feminized___4_pack___4___4_free______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cinderella_99_x_kali_mist_feminized___8_pack___8___8_free______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cinderella_99_x_kali_mist_feminized___12_pack___12___12_free______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cinderella_99_x_kali_mist_feminized___25_pack___25___25_free______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cinderella_99_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cinderella_99_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cinderella_99_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cinderella_99_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_chronic_widow_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_chronic_widow_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_chronic_widow_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_chronic_widow_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_chocolope_x_kush_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_chocolope_x_kush_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_chocolope_x_kush_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_chocolope_x_kush_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_chocolope_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_chocolope_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_chocolope_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_chocolope_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_chocolope_regular___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_chocolope_regular___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_chocolope_regular___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_chocolope_regular___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_chocolate_orange_feminized_cannabis_seeds___4_pack___homegrown_cannabis_co_____4x_______49_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_chocolate_orange_feminized_cannabis_seeds___8_pack___homegrown_cannabis_co______8x_______79_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_chocolate_orange_feminized_cannabis_seeds___12_pack___homegrown_cannabis_co______12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cherry_pie_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cherry_pie_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cherry_pie_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cherry_pie_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cherry_crush_feminized___5_pack____5x_______74_98"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cherry_crush_feminized___10_pack____10x_______144_98"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_chemdawg__4_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_chemdawg__4_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_chemdawg__4_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_chemdawg__4_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cheese_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cheese_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cheese_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cheese_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cement_shoes_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cement_shoes_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cement_shoes_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cement_shoes_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_carmen_x_durban_poison_feminized___4_pack___4___4_free______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_carmen_x_durban_poison_feminized___8_pack___8___8_free______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_carmen_x_durban_poison_feminized___12_pack___12___12_free______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_carmen_x_durban_poison_feminized___25_pack___25___25_free______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_carmen_2_0_feminized___4_pack___4___4_free______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_carmen_2_0_feminized___8_pack___8___8_free______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_carmen_2_0_feminized___12_pack___12___12_free______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_carmen_2_0_feminized___25_pack___25___25_free______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cap_junky_feminized___4____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cap_junky_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cap_junky_feminized___12____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cap_junky_feminized___24____24x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cannatonic_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cannatonic_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cannatonic_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_candy_kush_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_candy_kush_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_candy_kush_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_candy_kush_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_california_dream_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_california_dream_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_california_dream_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_california_dream_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cake_bomb_feminized_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cake_bomb_feminized_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cake_bomb_feminized_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cake_bomb_feminized_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bubblegum_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bubblegum_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bubblegum_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bubblegum_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bubba_s_gift_feminized_cannabis_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bubba_s_gift_feminized_cannabis_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bubba_s_gift_feminized_cannabis_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bubba_s_gift_feminized_cannabis_seeds___24_pack____24x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bubba_kush_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bubba_kush_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bubba_kush_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bubba_kush_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bruce_banner_x_white_russian_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bruce_banner_x_white_russian_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bruce_banner_x_white_russian_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bruce_banner_x_white_russian_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bruce_banner_x_mochalope_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bruce_banner_x_mochalope_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bruce_banner_x_mochalope_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bruce_banner_x_mochalope_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bruce_banner_2_0_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bruce_banner_2_0_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bruce_banner_2_0_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bruce_banner_2_0_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bruce_banner_regular___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bruce_banner_regular___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bruce_banner_regular___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bruce_banner_regular___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bruce_banner_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bruce_banner_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bruce_banner_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bruce_banner_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_x_og_kush_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_x_og_kush_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_x_og_kush_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_x_og_kush_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_head_band_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_head_band_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_head_band_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_head_band_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_widow_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_widow_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_widow_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_widow_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_quartz_feminized_cannabis_seeds___4_pack___homegrown_cannabis_co_____4x_______49_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_quartz_feminized_cannabis_seeds___8_pack___homegrown_cannabis_co______8x_______79_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_quartz_feminized_cannabis_seeds___12_pack___homegrown_cannabis_co______12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_og_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_og_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_og_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_og_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_haze_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_haze_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_haze_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_haze_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_dream_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_dream_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_dream_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_dream_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_cookies_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_cookies_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_cookies_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_cookies_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_cheese_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_cheese_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_cheese_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_cheese_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blackberry_kush_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blackberry_kush_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blackberry_kush_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_widow_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_widow_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_widow_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_widow_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_runtz_feminized_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_runtz_feminized_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_runtz_feminized_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_runtz_feminized_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_frost_feminized_cannabis_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_frost_feminized_cannabis_seeds___8_pack____8x_______70_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_frost_feminized_cannabis_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_frost_feminized_cannabis_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_domina_x_scott_s_og_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_domina_x_scott_s_og_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_domina_x_scott_s_og_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_domina_x_scott_s_og_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_domina_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_domina_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_domina_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_domina_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_cat_kush_feminized_cannabis_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_cat_kush_feminized_cannabis_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_cat_kush_feminized_cannabis_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_cat_kush_feminized_cannabis_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_biscotti_feminized_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_biscotti_feminized_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_biscotti_feminized_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_biscotti_feminized_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_big_bud_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_big_bud_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_big_bud_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_big_bud_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_berry_pie_feminized___4____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_berry_pie_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_berry_pie_feminized___12____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_berry_pie_feminized___24____24x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_beginner_feminized_seed_mix___6____6x_______65_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_beginner_feminized_seed_mix___12____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_beginner_feminized_seed_mix___24____24x_______155_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_beginner_feminized_seed_mix___36____36x_______215_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bazooka_punch_feminized_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bazooka_punch_feminized_seeds___8_pack_____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bazooka_punch_feminized_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bazooka_punch_feminized_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_banana_punch_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_banana_punch_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_banana_punch_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_banana_punch_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_banana_kush_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_banana_kush_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_banana_kush_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_banana_kush_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_banana_kush_feminized___100_pack____100x_______495_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_banana_hammock_feminized___4____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_banana_hammock_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_banana_hammock_feminized___12____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_banana_hammock_feminized___24____24x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_baked_apple_feminized_cannabis_seeds___4_pack___homegrown_cannabis_co_____4x_______49_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_baked_apple_feminized_cannabis_seeds___8_pack___homegrown_cannabis_co______8x_______79_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_baked_apple_feminized_cannabis_seeds___12_pack___homegrown_cannabis_co______12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bacio_gelato_feminized___4____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bacio_gelato_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bacio_gelato_feminized___12____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bacio_gelato_feminized___24____24x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_apple_fritter_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_apple_fritter_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_apple_fritter_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_apple_fritter_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_apple_cake_feminized_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_apple_cake_feminized_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_apple_cake_feminized_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_apple_cake_feminized_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_animal_runtz_feminized_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_animal_runtz_feminized_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_animal_runtz_feminized_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_animal_runtz_feminized_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_amnesia_purple_feminized___4_pack___4___4_free______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_amnesia_purple_feminized___8_pack___8___8_free______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_amnesia_purple_feminized___12_pack___12___12_free______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_amnesia_purple_feminized___25_pack___25___25_free______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_amnesia_haze_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_amnesia_haze_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_amnesia_haze_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_amnesia_haze_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_amnesia_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_amnesia_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_amnesia_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_amnesia_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_american_haze_x_california_haze_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_american_haze_x_california_haze_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_american_haze_x_california_haze_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_american_haze_x_california_haze_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_5_alive_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_5_alive_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_5_alive_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_5_alive_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_alien_technology_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_alien_technology_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_alien_technology_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_alien_technology_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_alien_og_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_alien_og_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_alien_og_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_alien_og_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_alien_gorilla_glue_regular_cannabis_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_alien_gorilla_glue_regular_cannabis_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_alien_gorilla_glue_regular_cannabis_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_alien_gorilla_glue_regular_cannabis_seeds___24_pack____24x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_alien_gg_4_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_alien_gg_4_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_alien_gg_4_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_alien_gg_4_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_alaskan_thunderfuck_feminized___pack_4____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_alaskan_thunderfuck_feminized___pack_12____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_alaskan_thunderfuck_feminized___pack_8____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_alaskan_thunderfuck_feminized___pack_25____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_ak_47_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_ak_47_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_ak_47_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_ak_47_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_agent_orange_regular___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_agent_orange_regular___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_agent_orange_regular___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_agent_orange_regular___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_afghan_kush_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_afghan_kush_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_afghan_kush_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_afghan_kush_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_afghan_hawaiian_x_laos_x_jamaican_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_afghan_hawaiian_x_laos_x_jamaican_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_afghan_hawaiian_x_laos_x_jamaican_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_afghan_hawaiian_x_laos_x_jamaican_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_afghan_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_afghan_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_afghan_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_afghan_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_acapulco_gold_feminized_seeds___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_acapulco_gold_feminized_seeds___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_acapulco_gold_feminized_seeds___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_acapulco_gold_feminized_seeds___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_24k_gold_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_24k_gold_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_24k_gold_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_24k_gold_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_demon_og_feminized___4_pack____4x_______55_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_demon_og_feminized___8_pack____8x_______87_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_demon_og_feminized___12_pack____12x_______109_00"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_demon_og_feminized___25_pack____25x_______163_00"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "seed_bank"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "url_domain"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "extraction_version"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_viewport"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_robots"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_og_locale"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_og_type"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_og_title"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_og_url"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_og_site_name"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_article_publisher"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_og_updated_time"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_og_image"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_og_image_secure_url"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_og_image_width"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_og_image_height"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_og_image_alt"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_og_image_type"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_twitter_card"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_twitter_title"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_twitter_site"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_twitter_creator"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_twitter_image"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_generator"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_msapplication_tileimage"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "page_title"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "total_image_count"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "product_images"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "extraction_methods_used"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "method_count"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "data_completeness_score"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "market_tier"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "total_fields_captured"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "jsonld_product_name"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "jsonld_brand"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_product_retailer_item_id"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_twitter_label1"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_twitter_data1"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_twitter_label2"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_twitter_data2"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_zkittlez_og_auto"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_zkittlez_og_auto_type"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_yield"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_purple_punch_auto"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_og_kush_auto"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_wedding_cake_auto"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_wedding_cake_auto_type"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_zkittlez_auto"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_wedding_cake"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_wedding_cake_type"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_girl_scout_cookies"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_gelato"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_watermelon_zkittlez"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_watermelon_zkittlez_type"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_original_zkittlez"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_watermelon"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_tropicanna_banana"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_tropicanna_banana_type"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_tropicanna_cookies"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_banana_kush"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_strawberry_lemonade"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_strawberry_lemonade_type"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_strawberry_cough"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_lemon_haze"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_skywalker_og_auto"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_skywalker_og_auto_type"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_northern_lights_auto"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_shiskaberry"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_shiskaberry_type"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_blueberry"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_purple_kush"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_runtz_auto"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_runtz_auto_type"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_gelato_auto"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_purple_punch_auto_type"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_granddaddy_purple_auto"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_critical_purple_auto"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_purple_punch"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_purple_punch_type"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_granddaddy_purple"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_mimosa_evo"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_mimosa_evo_type"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_original_mimosa"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_orange_cookies"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_lsd_auto"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_lsd_auto_type"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_island_punch_auto"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_island_punch_auto_type"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_tangie_auto"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_pineapple_express_auto"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_gorilla_zkittlez_auto"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_gorilla_zkittlez_auto_type"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_gorilla_glue_auto"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_gorilla_glue_auto_type"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_white_widow_auto"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_glue_gelato_auto"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_glue_gelato_auto_type"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_glookies"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_glookies_type"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_original_gorilla_glue"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_dos_si_dos_auto"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_dos_si_dos_auto_type"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_girl_scout_cookies_auto"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_deadhead_og_auto"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_deadhead_og_auto_type"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_clementine_slush"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_clementine_slush_type"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_bubba_kush"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_bubba_kush_type"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_northern_lights"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "seed_bank"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "total_fields"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "jsonld_name"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "jsonld_brand"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_sex"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_odour"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_good_for_extracts"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_colour"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_plant_size"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_northern_hemisphere_harvest"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_southern_hemisphere_harvest"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_mould_resistance"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_bud_density_(1=loose_&_leafy,_5=ultra_dense)"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_delivery_method"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_delivery_times"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "yield_min"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "yield_max"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "yield_range"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_eu_size"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_xs"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_s"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_m"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_l"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_xl"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_material"
+  },
+  {
+    "seed_bank": "seedsman",
+    "original_column": "page_title"
+  },
+  {
+    "seed_bank": "seedsman",
+    "original_column": "image_count"
+  },
+  {
+    "seed_bank": "seedsman",
+    "original_column": "quality_score"
+  },
+  {
+    "seed_bank": "seedsman",
+    "original_column": "market_tier"
+  },
+  {
+    "seed_bank": "seedsman",
+    "original_column": "extraction_method"
+  },
+  {
+    "seed_bank": "seedsman",
+    "original_column": "field_count"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "seed_bank"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "url_domain"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "extraction_version"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_viewport"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_robots"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_og_locale"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_og_type"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_og_title"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_og_url"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_og_site_name"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_og_updated_time"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_og_image"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_og_image_secure_url"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_og_image_width"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_og_image_height"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_og_image_alt"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_og_image_type"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_product_brand"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_product_retailer_item_id"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_twitter_card"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_twitter_title"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_twitter_image"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_twitter_label1"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_twitter_data1"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_twitter_label2"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_twitter_data2"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_generator"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_msapplication_tileimage"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "page_title"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "product_images"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "total_image_count"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "extraction_methods_used"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "method_count"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "data_completeness_score"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "market_tier"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "total_fields_captured"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "spec_seeds"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_article_modified_time"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_product_condition"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_ti_site_data"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_referrer"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "spec_category_type"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "spec_harvest_time"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "spec_growing_level"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "jsonld_product_name"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "jsonld_brand"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "jsonld_mpn"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "jsonld_gtin"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "jsonld_category"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "jsonld_image_url"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "jsonld_seller"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "jsonld_rating_value"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "jsonld_rating_count"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "jsonld_best_rating"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "jsonld_worst_rating"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_owner"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_copyright"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_format_detection"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "spec_type"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "spec_feminised_outdoor_harvest_month_week"
+  }
+]

@@ -1,0 +1,5877 @@
+[
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "source_url",
+    "maps_to": "source_url_raw"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "ams_thc_level",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "ams_effects",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "ams_flavor",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "ams_climate",
+    "maps_to": "climate_raw"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "ams_seed_type",
+    "maps_to": "seed_type_raw"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "ams_indica_/_sativa",
+    "maps_to": "sativa_percentage_raw"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "ams_grow_difficulty",
+    "maps_to": "difficulty_raw"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "ams_flowering_time",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_og_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "meta_twitter_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "thc_content",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "indica_percentage",
+    "maps_to": "indica_percentage_raw"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "sativa_percentage",
+    "maps_to": "sativa_percentage_raw"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "flowering_time_min",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "flowering_time_max",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "flowering_time",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "effects_all",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "primary_effect",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "flavors_all",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "primary_flavor",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "strain_name",
+    "maps_to": "strain_name_raw"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "genetics_lineage",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "thc_min",
+    "maps_to": "thc_min_raw"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "thc_max",
+    "maps_to": "thc_max_raw"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "cbd_content",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "indoor_yield_min",
+    "maps_to": "yield_indoor_raw"
+  },
+  {
+    "seed_bank": "amsterdam",
+    "original_column": "indoor_yield_max",
+    "maps_to": "yield_indoor_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "source_url",
+    "maps_to": "source_url_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "scraped_at",
+    "maps_to": "scraped_at_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "spec_genetics",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "spec_flowering",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "spec_flowering_time",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "meta_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "effects_all",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "primary_effect",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "effect_count",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "effects_mental",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "flavors_all",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "primary_flavor",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "flavors_sweet",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "flavors_diesel",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "has_awards",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "genetics_lineage",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "is_hybrid",
+    "maps_to": "is_hybrid_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "strain_name",
+    "maps_to": "strain_name_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "breeder_name",
+    "maps_to": "breeder_name_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "flavors_fruity",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "spec_cbd",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "cbd_content",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "flavors_earthy",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "spec_thc",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "thc_content",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "thc_min",
+    "maps_to": "thc_min_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "thc_max",
+    "maps_to": "thc_max_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "effects_physical",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "flavors_citrus",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "sativa_percentage",
+    "maps_to": "sativa_percentage_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "indica_percentage",
+    "maps_to": "indica_percentage_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "dominant_type",
+    "maps_to": "dominant_type_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "indoor_height_min",
+    "maps_to": "height_indoor_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "indoor_height_max",
+    "maps_to": "height_indoor_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "indoor_height",
+    "maps_to": "height_indoor_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "awards",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "award_count",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "award_years",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "latest_award_year",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "earliest_award_year",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "flowering_time_min",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "flowering_time_max",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "flowering_time",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "thc_range",
+    "maps_to": "thc_range_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "thc_average",
+    "maps_to": "thc_average_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "flavors_spicy",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "effects_social",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "cbd_min",
+    "maps_to": "cbd_min_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "cbd_max",
+    "maps_to": "cbd_max_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "cbd_range",
+    "maps_to": "cbd_range_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "terpenes",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "dominant_terpene",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "terpene_count",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "indoor_yield_min",
+    "maps_to": "yield_indoor_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "indoor_yield_max",
+    "maps_to": "yield_indoor_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "indoor_yield_range",
+    "maps_to": "yield_indoor_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "outdoor_height_min",
+    "maps_to": "height_outdoor_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "outdoor_height_max",
+    "maps_to": "height_outdoor_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "outdoor_height",
+    "maps_to": "height_outdoor_raw"
+  },
+  {
+    "seed_bank": "attitude",
+    "original_column": "effects_appetite",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "breeder_name",
+    "maps_to": "breeder_name_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "source_url",
+    "maps_to": "source_url_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "scraped_at",
+    "maps_to": "scraped_at_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "jsonld_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "meta_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "meta_og_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "spec_genetics",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "spec_thc",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "spec_sativa",
+    "maps_to": "sativa_percentage_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "spec_indica",
+    "maps_to": "indica_percentage_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "spec_taste",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "spec_effect",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "spec_aroma",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "spec_height_indoor__cm",
+    "maps_to": "height_indoor_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "spec_indoor_yield__g",
+    "maps_to": "yield_indoor_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "spec_flowering_time__days",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "spec_height_outdoor__cm",
+    "maps_to": "height_outdoor_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "spec_outdoor_yield__g",
+    "maps_to": "yield_outdoor_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "thc_content",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "thc_min",
+    "maps_to": "thc_min_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "thc_max",
+    "maps_to": "thc_max_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "effects_all",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "primary_effect",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "effects_mental",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "has_awards",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "genetics_lineage",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "is_hybrid",
+    "maps_to": "is_hybrid_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "sativa_percentage",
+    "maps_to": "sativa_percentage_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "indica_percentage",
+    "maps_to": "indica_percentage_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "dominant_type",
+    "maps_to": "dominant_type_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "strain_name",
+    "maps_to": "strain_name_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "effects_physical",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "effects_social",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "awards",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "award_count",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "thc_range",
+    "maps_to": "thc_range_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "thc_average",
+    "maps_to": "thc_average_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "parent_1",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "parent_2",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "flowering_time",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "flowering_min",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "flowering_max",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "barneys_farm",
+    "original_column": "effects_appetite",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "compound",
+    "original_column": "source_url",
+    "maps_to": "source_url_raw"
+  },
+  {
+    "seed_bank": "compound",
+    "original_column": "description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "compound",
+    "original_column": "genetics_lineage",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "compound",
+    "original_column": "aroma",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "compound",
+    "original_column": "strain_name",
+    "maps_to": "strain_name_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "breeder_name",
+    "maps_to": "breeder_name_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "source_url",
+    "maps_to": "source_url_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "scraped_at",
+    "maps_to": "scraped_at_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_og_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "meta_twitter_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "spec_genetics",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "spec_thc_level",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "spec_cbd_level",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "spec_flowering_time",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "spec_indoor_height",
+    "maps_to": "height_indoor_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "spec_outdoor_height",
+    "maps_to": "height_outdoor_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "spec_indoor_yields",
+    "maps_to": "yield_indoor_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "spec_outdoor_yields",
+    "maps_to": "yield_outdoor_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "thc_min",
+    "maps_to": "thc_min_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "thc_max",
+    "maps_to": "thc_max_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "thc_range",
+    "maps_to": "thc_range_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "thc_average",
+    "maps_to": "thc_average_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "cbd_min",
+    "maps_to": "cbd_min_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "cbd_max",
+    "maps_to": "cbd_max_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "cbd_range",
+    "maps_to": "cbd_range_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "flowering_min",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "flowering_max",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "flowering_time",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "effects_all",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "primary_effect",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "effects_mental",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "effects_physical",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "has_awards",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "genetics_lineage",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "is_hybrid",
+    "maps_to": "is_hybrid_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "strain_name",
+    "maps_to": "strain_name_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "spec_taste_and_smell",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "spec_terpenes",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "effects_social",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "sativa_percentage",
+    "maps_to": "sativa_percentage_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "indica_percentage",
+    "maps_to": "indica_percentage_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "dominant_type",
+    "maps_to": "dominant_type_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "effects_appetite",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "awards",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "crop_king",
+    "original_column": "award_count",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "breeder_name",
+    "maps_to": "breeder_name_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "source_url",
+    "maps_to": "source_url_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "scraped_at",
+    "maps_to": "scraped_at_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "jsonld_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_og_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "thc_content",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "thc_min",
+    "maps_to": "thc_min_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "thc_max",
+    "maps_to": "thc_max_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "effects_all",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "primary_effect",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "effect_count",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "effects_mental",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "flavors_all",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "primary_flavor",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "flavors_citrus",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "flavors_fruity",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "flavors_spicy",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "flavors_diesel",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "flavors_floral",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "awards",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "award_count",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "has_awards",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "genetics_lineage",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "is_hybrid",
+    "maps_to": "is_hybrid_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "strain_name",
+    "maps_to": "strain_name_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "cbd_content",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "flavors_sweet",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "original_breeder",
+    "maps_to": "breeder_name_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "generation",
+    "maps_to": "generation_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "thc_range",
+    "maps_to": "thc_range_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "thc_average",
+    "maps_to": "thc_average_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "flavors_earthy",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "height_min",
+    "maps_to": "height_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "height_max",
+    "maps_to": "height_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "height_unit",
+    "maps_to": "height_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "height_range",
+    "maps_to": "height_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "effects_physical",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "spec_seed___flowering_type",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "parent_1",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "parent_2",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "terpenes",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "dominant_terpene",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "terpene_count",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "sativa_percentage",
+    "maps_to": "sativa_percentage_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "indica_percentage",
+    "maps_to": "indica_percentage_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "dominant_type",
+    "maps_to": "dominant_type_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "spec_seed___seed_type",
+    "maps_to": "seed_type_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "meta_twitter_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "effects_social",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "award_years",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "latest_award_year",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "earliest_award_year",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "effects_appetite",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "height_amount",
+    "maps_to": "height_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "cbd_min",
+    "maps_to": "cbd_min_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "cbd_max",
+    "maps_to": "cbd_max_raw"
+  },
+  {
+    "seed_bank": "dutch_passion",
+    "original_column": "cbd_range",
+    "maps_to": "cbd_range_raw"
+  },
+  {
+    "seed_bank": "exotic",
+    "original_column": "source_url",
+    "maps_to": "source_url_raw"
+  },
+  {
+    "seed_bank": "exotic",
+    "original_column": "strain_name",
+    "maps_to": "strain_name_raw"
+  },
+  {
+    "seed_bank": "exotic",
+    "original_column": "genetics_lineage",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "source_url",
+    "maps_to": "source_url_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "strain_name",
+    "maps_to": "strain_name_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "breeder_name",
+    "maps_to": "breeder_name_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_cannabis_genetics",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_flowering_time",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_thc",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_thc_notes",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_flowering_outdoors",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_indoor_yield",
+    "maps_to": "yield_indoor_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_mainly_indica",
+    "maps_to": "indica_percentage_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_sativa_/_indica_ratio",
+    "maps_to": "sativa_percentage_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "thc_content",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "flavors_all",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "primary_flavor",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_aroma",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_outdoor_yield",
+    "maps_to": "yield_outdoor_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "thc_min",
+    "maps_to": "thc_min_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "thc_max",
+    "maps_to": "thc_max_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "effects_all",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "primary_effect",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_auto_flowering",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_autoflowering_cycle",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_cbd",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "flowering_time",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "cbd_content",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_mainly_sativa",
+    "maps_to": "sativa_percentage_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_indica_100%",
+    "maps_to": "indica_percentage_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "indoor_yield_min",
+    "maps_to": "yield_indoor_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "indoor_yield_max",
+    "maps_to": "yield_indoor_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "indoor_yield_range",
+    "maps_to": "yield_indoor_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "outdoor_yield_min",
+    "maps_to": "yield_outdoor_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "outdoor_yield_max",
+    "maps_to": "yield_outdoor_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_cbn",
+    "maps_to": "cbn_content_raw"
+  },
+  {
+    "seed_bank": "gorilla",
+    "original_column": "spec_sativa_100%",
+    "maps_to": "sativa_percentage_raw"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "breeder_name",
+    "maps_to": "breeder_name_raw"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "source_url",
+    "maps_to": "source_url_raw"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "scraped_at",
+    "maps_to": "scraped_at_raw"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "meta_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "meta_og_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "flavors_all",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "has_awards",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "genetics_lineage",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "strain_name",
+    "maps_to": "strain_name_raw"
+  },
+  {
+    "seed_bank": "great_lakes_genetics",
+    "original_column": "effects_all",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "source_url",
+    "maps_to": "source_url_raw"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "herb_suitable_for_growing",
+    "maps_to": "suitable_environments_raw"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "herb_strain_thc_level",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "herb_strain_cbd_level",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "herb_pct_sativa__indica__ruderalis",
+    "maps_to": "sativa_percentage_raw"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "herb_indoor_flowering_time",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "herb_strain_effect",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "herb_genetics",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "thc_content",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "cbd_content",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "indoor_yield_oz_ft2",
+    "maps_to": "yield_indoor_raw"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "outdoor_yield_oz_plant",
+    "maps_to": "yield_outdoor_raw"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "flowering_time_min",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "flowering_time_max",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "flowering_time",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "indoor_height_inches",
+    "maps_to": "height_indoor_raw"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "outdoor_height_inches",
+    "maps_to": "height_outdoor_raw"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "genetics_lineage",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "sativa_percentage",
+    "maps_to": "sativa_percentage_raw"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "indica_percentage",
+    "maps_to": "indica_percentage_raw"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "effects_all",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "primary_effect",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "flavors_all",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "primary_flavor",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "strain_name",
+    "maps_to": "strain_name_raw"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "herb_from_seed_to_harvest",
+    "maps_to": "total_grow_time_raw"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "herb_awards",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "herbies",
+    "original_column": "herb_cbn",
+    "maps_to": "cbn_content_raw"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "source_url",
+    "maps_to": "source_url_raw"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_og_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_twitter_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "thc_min",
+    "maps_to": "thc_min_raw"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "thc_max",
+    "maps_to": "thc_max_raw"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "thc_avg",
+    "maps_to": "thc_average_raw"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "strain_name",
+    "maps_to": "strain_name_raw"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "thc_percentage",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "ilgm_js",
+    "original_column": "source_url",
+    "maps_to": "source_url_raw"
+  },
+  {
+    "seed_bank": "ilgm_js",
+    "original_column": "scraped_at",
+    "maps_to": "scraped_at_raw"
+  },
+  {
+    "seed_bank": "ilgm_js",
+    "original_column": "strain_name",
+    "maps_to": "strain_name_raw"
+  },
+  {
+    "seed_bank": "ilgm_js",
+    "original_column": "thc_content",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "ilgm_js",
+    "original_column": "flowering_time_min",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "ilgm_js",
+    "original_column": "flowering_time_max",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "ilgm_js",
+    "original_column": "flowering_time",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "ilgm_js",
+    "original_column": "effects",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "ilgm_js",
+    "original_column": "primary_effect",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "ilgm_js",
+    "original_column": "flavors",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "ilgm_js",
+    "original_column": "primary_flavor",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "ilgm_js",
+    "original_column": "genetics",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "ilgm_js",
+    "original_column": "climate",
+    "maps_to": "climate_raw"
+  },
+  {
+    "seed_bank": "ilgm_js",
+    "original_column": "meta_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "ilgm_js",
+    "original_column": "indica_percentage",
+    "maps_to": "indica_percentage_raw"
+  },
+  {
+    "seed_bank": "ilgm_js",
+    "original_column": "sativa_percentage",
+    "maps_to": "sativa_percentage_raw"
+  },
+  {
+    "seed_bank": "ilgm_js",
+    "original_column": "difficulty",
+    "maps_to": "difficulty_raw"
+  },
+  {
+    "seed_bank": "ilgm_js",
+    "original_column": "height_min",
+    "maps_to": "height_raw"
+  },
+  {
+    "seed_bank": "ilgm_js",
+    "original_column": "height_max",
+    "maps_to": "height_raw"
+  },
+  {
+    "seed_bank": "ilgm_js",
+    "original_column": "height_range",
+    "maps_to": "height_raw"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "breeder_name",
+    "maps_to": "breeder_name_raw"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "source_url",
+    "maps_to": "source_url_raw"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "scraped_at",
+    "maps_to": "scraped_at_raw"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_og_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "meta_twitter_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "has_awards",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "parent_1",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "parent_2",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "genetics_lineage",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "is_hybrid",
+    "maps_to": "is_hybrid_raw"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "strain_name",
+    "maps_to": "strain_name_raw"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "effects_all",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "primary_effect",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "effects_mental",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "effects_physical",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "thc_content",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "thc_min",
+    "maps_to": "thc_min_raw"
+  },
+  {
+    "seed_bank": "ilgm",
+    "original_column": "thc_max",
+    "maps_to": "thc_max_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "breeder_name",
+    "maps_to": "breeder_name_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "source_url",
+    "maps_to": "source_url_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "scraped_at",
+    "maps_to": "scraped_at_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "jsonld_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "meta_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "meta_og_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "meta_twitter_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "effects_all",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "primary_effect",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "effect_count",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "effects_mental",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "flavors_all",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "primary_flavor",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "flavors_citrus",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "flavors_fruity",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "flavors_earthy",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "flavors_sweet",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "flavors_spicy",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "flavors_floral",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "has_awards",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "genetics_lineage",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "is_hybrid",
+    "maps_to": "is_hybrid_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "generation",
+    "maps_to": "generation_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "strain_name",
+    "maps_to": "strain_name_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "flavors_diesel",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "effects_physical",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "thc_content",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "thc_min",
+    "maps_to": "thc_min_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "thc_max",
+    "maps_to": "thc_max_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "awards",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "award_count",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "effects_social",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "effects_appetite",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "original_breeder",
+    "maps_to": "breeder_name_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "terpenes",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "dominant_terpene",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "mephisto_genetics",
+    "original_column": "terpene_count",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "breeder_name",
+    "maps_to": "breeder_name_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "source_url",
+    "maps_to": "source_url_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "scraped_at",
+    "maps_to": "scraped_at_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "spec_seed___flowering_type",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "has_awards",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "genetics_lineage",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "is_hybrid",
+    "maps_to": "is_hybrid_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "original_breeder",
+    "maps_to": "breeder_name_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "strain_name",
+    "maps_to": "strain_name_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "meta_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "meta_og_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "meta_twitter_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "height_amount",
+    "maps_to": "height_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "height_unit",
+    "maps_to": "height_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "effects_all",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "primary_effect",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "effect_count",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "effects_mental",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "effects_physical",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "flavors_all",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "primary_flavor",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "flavors_citrus",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "flavors_fruity",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "flavors_earthy",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "flavors_sweet",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "flavors_diesel",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "spec_genetics",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "spec_cannabis_type",
+    "maps_to": "dominant_type_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "spec_flowering_time",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "spec_effects",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "spec_terpene_profile",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "effects_appetite",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "generation",
+    "maps_to": "generation_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "parent_1",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "parent_2",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "flavors_floral",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "spec_seed___seed_type",
+    "maps_to": "seed_type_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "flavors_spicy",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "flowering_min",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "flowering_max",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "flowering_time",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "sativa_percentage",
+    "maps_to": "sativa_percentage_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "indica_percentage",
+    "maps_to": "indica_percentage_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "dominant_type",
+    "maps_to": "dominant_type_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "terpenes",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "dominant_terpene",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "terpene_count",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "awards",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "award_count",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "spec_flavor_profile",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "thc_content",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "thc_min",
+    "maps_to": "thc_min_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "thc_max",
+    "maps_to": "thc_max_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "height_min",
+    "maps_to": "height_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "height_max",
+    "maps_to": "height_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "height_range",
+    "maps_to": "height_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "thc_range",
+    "maps_to": "thc_range_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "thc_average",
+    "maps_to": "thc_average_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "spec_cbd",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "cbd_content",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "spec_indica___sativa_percentage",
+    "maps_to": "sativa_percentage_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "spec_breeder",
+    "maps_to": "breeder_name_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "spec_strain_name",
+    "maps_to": "strain_name_raw"
+  },
+  {
+    "seed_bank": "multiverse_beans",
+    "original_column": "spec_outdoor_flowering_time",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "source_url",
+    "maps_to": "source_url_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "scraped_at",
+    "maps_to": "scraped_at_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "meta_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "meta_og_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "thc_content",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "thc_min",
+    "maps_to": "thc_min_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "thc_max",
+    "maps_to": "thc_max_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "awards",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "award_count",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "has_awards",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "genetics_lineage",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "is_hybrid",
+    "maps_to": "is_hybrid_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "original_breeder",
+    "maps_to": "breeder_name_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "strain_name",
+    "maps_to": "strain_name_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "flavors_all",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "primary_flavor",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "flavors_citrus",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "spec_cannabis_type",
+    "maps_to": "dominant_type_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "spec_dominant_terpene",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "spec_flowering_time",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "spec_flowering_type",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "spec_grow_difficulty",
+    "maps_to": "difficulty_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "spec_terpene_profile",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "flowering_min",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "flowering_max",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "flowering_time",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "effects_all",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "primary_effect",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "effect_count",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "effects_mental",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "effects_physical",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "flavors_fruity",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "flavors_sweet",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "flavors_diesel",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "flavors_earthy",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "flavors_floral",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "parent_1",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "parent_2",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "terpenes",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "dominant_terpene",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "terpene_count",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "flavors_spicy",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "award_years",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "latest_award_year",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "earliest_award_year",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "height_amount",
+    "maps_to": "height_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "height_unit",
+    "maps_to": "height_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "effects_appetite",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "sativa_percentage",
+    "maps_to": "sativa_percentage_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "indica_percentage",
+    "maps_to": "indica_percentage_raw"
+  },
+  {
+    "seed_bank": "neptune",
+    "original_column": "dominant_type",
+    "maps_to": "dominant_type_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "source_url",
+    "maps_to": "source_url_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "scraped_at",
+    "maps_to": "scraped_at_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "meta_og_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "meta_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "thc_content",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "thc_min",
+    "maps_to": "thc_min_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "thc_max",
+    "maps_to": "thc_max_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "cbd_content",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "effects_all",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "primary_effect",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "effect_count",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "effects_mental",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "flavors_all",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "primary_flavor",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "flavors_citrus",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "flavors_sweet",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "has_awards",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "genetics_lineage",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "is_hybrid",
+    "maps_to": "is_hybrid_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "sativa_percentage",
+    "maps_to": "sativa_percentage_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "indica_percentage",
+    "maps_to": "indica_percentage_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "dominant_type",
+    "maps_to": "dominant_type_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "strain_name",
+    "maps_to": "strain_name_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "terpenes",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "dominant_terpene",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "terpene_count",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "flavors_diesel",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "flowering_min",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "flowering_max",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "flowering_time",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "flavors_fruity",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "flavors_earthy",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "effects_physical",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "awards",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "award_count",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "award_years",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "latest_award_year",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "earliest_award_year",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_genetics",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_thc",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_sativa",
+    "maps_to": "sativa_percentage_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_indica",
+    "maps_to": "indica_percentage_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_taste",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_effect",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_aroma",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_height_indoor__cm",
+    "maps_to": "height_indoor_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_indoor_yield__g",
+    "maps_to": "yield_indoor_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_height_outdoor__cm",
+    "maps_to": "height_outdoor_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_outdoor_yield__g",
+    "maps_to": "yield_outdoor_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "flavors_spicy",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_flowering_time__days",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "thc_range",
+    "maps_to": "thc_range_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "thc_average",
+    "maps_to": "thc_average_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "effects_appetite",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "effects_social",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "cbd_min",
+    "maps_to": "cbd_min_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "cbd_max",
+    "maps_to": "cbd_max_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "cbd_range",
+    "maps_to": "cbd_range_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_flowering_time",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_sativa___indica_ratio",
+    "maps_to": "sativa_percentage_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_flowering_indoors",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_flowering_outdoors",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "north_atlantic",
+    "original_column": "spec_strain_type",
+    "maps_to": "dominant_type_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "breeder_name",
+    "maps_to": "breeder_name_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "source_url",
+    "maps_to": "source_url_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "scraped_at",
+    "maps_to": "scraped_at_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_og_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "meta_twitter_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "thc_content",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "thc_min",
+    "maps_to": "thc_min_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "thc_max",
+    "maps_to": "thc_max_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "effects_all",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "primary_effect",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "effect_count",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "effects_mental",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "effects_physical",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "flavors_all",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "primary_flavor",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "flavors_earthy",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "flavors_sweet",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "flavors_spicy",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "flavors_diesel",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "awards",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "award_count",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "has_awards",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "genetics_lineage",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "is_hybrid",
+    "maps_to": "is_hybrid_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "sativa_percentage",
+    "maps_to": "sativa_percentage_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "indica_percentage",
+    "maps_to": "indica_percentage_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "dominant_type",
+    "maps_to": "dominant_type_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "generation",
+    "maps_to": "generation_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "strain_name",
+    "maps_to": "strain_name_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "height_amount",
+    "maps_to": "height_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "height_unit",
+    "maps_to": "height_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "terpenes",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "dominant_terpene",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "terpene_count",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "flavors_citrus",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "original_breeder",
+    "maps_to": "breeder_name_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "effects_appetite",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "flavors_fruity",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "height_min",
+    "maps_to": "height_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "height_max",
+    "maps_to": "height_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "height_range",
+    "maps_to": "height_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "award_years",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "latest_award_year",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "earliest_award_year",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "parent_1",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "parent_2",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "flowering_min",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "flowering_max",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "flowering_time",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "cbd_content",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "effects_social",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "thc_range",
+    "maps_to": "thc_range_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "thc_average",
+    "maps_to": "thc_average_raw"
+  },
+  {
+    "seed_bank": "royal_queen_seeds",
+    "original_column": "flavors_floral",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "breeder_name",
+    "maps_to": "breeder_name_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "source_url",
+    "maps_to": "source_url_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "scraped_at",
+    "maps_to": "scraped_at_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "jsonld_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "meta_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "meta_og_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_variety",
+    "maps_to": "seed_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_thc_content",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_flavors",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_flowering_time",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "height_amount",
+    "maps_to": "height_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "height_unit",
+    "maps_to": "height_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "effects_all",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "primary_effect",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "effect_count",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "effects_mental",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "effects_physical",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "effects_appetite",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "terpenes",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "dominant_terpene",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "terpene_count",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "flavors_all",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "primary_flavor",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "flavors_citrus",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "flavors_fruity",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "flavors_earthy",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "flavors_sweet",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "flavors_spicy",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "flavors_diesel",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "has_awards",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "genetics_lineage",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "is_hybrid",
+    "maps_to": "is_hybrid_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "sativa_percentage",
+    "maps_to": "sativa_percentage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "indica_percentage",
+    "maps_to": "indica_percentage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "dominant_type",
+    "maps_to": "dominant_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "original_breeder",
+    "maps_to": "breeder_name_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "strain_name",
+    "maps_to": "strain_name_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_zookies_autoflower_cannabis_seeds___4____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_zookies_autoflower_cannabis_seeds___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_zookies_autoflower_cannabis_seeds___12____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_zookies_autoflower_cannabis_seeds___24____24x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_genetics",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_flowering_type",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_content",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_effects",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "thc_content",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "thc_min",
+    "maps_to": "thc_min_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "thc_max",
+    "maps_to": "thc_max_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "flavors_floral",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "awards",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "award_count",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "award_years",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "latest_award_year",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "earliest_award_year",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_yumbolt_autoflower___4_pack___4___4_free______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_yumbolt_autoflower___8_pack___8___8_free______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_yumbolt_autoflower___12_pack___12___12_free______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_yumbolt_autoflower___25_pack___25___25_free______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_white_widow_x_crystal_meth_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_white_widow_x_crystal_meth_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_white_widow_x_crystal_meth_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_white_widow_x_crystal_meth_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_white_widow_x_california_snow_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_white_widow_x_california_snow_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_white_widow_x_california_snow_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_white_widow_x_california_snow_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_terpenes",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "thc_range",
+    "maps_to": "thc_range_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "thc_average",
+    "maps_to": "thc_average_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_tropic_gem_feminized___world_breeders___5____5x_______74_98",
+    "maps_to": "breeder_name_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_tropic_gem_feminized___world_breeders___10____10x_______144_98",
+    "maps_to": "breeder_name_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_plant_height",
+    "maps_to": "height_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_triple_xl_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_triple_xl_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_triple_xl_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_triple_xl_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "cbd_content",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_tangerine_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_tangerine_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_tangerine_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_tangerine_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sweet_16_feminized___happy_valley_genetics___3____3x_______40_00",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_sweet_16_feminized___happy_valley_genetics___6____6x_______60_00",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "flowering_min",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "flowering_max",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "flowering_time",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_strawberry_cheese_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_strawberry_cheese_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_strawberry_cheese_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_strawberry_cheese_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "effects_social",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_shortcut_autoflower___happy_valley_genetics___3____3x_______40_00",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_shortcut_autoflower___happy_valley_genetics___6____6x_______60_00",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_flavor_notes",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_key_terpenes",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_primary_effects",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_quarter_pounder_autoflowering_seeds___4_pack____4x_______55_00",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_quarter_pounder_autoflowering_seeds___8_pack____8x_______87_00",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_quarter_pounder_autoflowering_seeds___12_pack____12x_______109_00",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_quarter_pounder_autoflowering_seeds___25_pack____25x_______163_00",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_sunset_autoflower_cannabis_seeds___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_sunset_autoflower_cannabis_seeds___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_sunset_autoflower_cannabis_seeds___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_purple_sunset_autoflower_cannabis_seeds___24_pack____24x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pure_indica_feminized___4_pack____4x_______55_00",
+    "maps_to": "indica_percentage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pure_indica_feminized___8_pack____8x_______87_00",
+    "maps_to": "indica_percentage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pure_indica_feminized___12_pack____12x_______109_00",
+    "maps_to": "indica_percentage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pure_indica_feminized___25_pack____25x_______163_00",
+    "maps_to": "indica_percentage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pineapple_diesel_autoflower___happy_valley_genetics___3____3x_______40_00",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pineapple_diesel_autoflower___happy_valley_genetics___6____6x_______60_00",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pineapple_daddy_autoflower___happy_valley_genetics___3____3x_______40_00",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pineapple_daddy_autoflower___happy_valley_genetics___6____6x_______60_00",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pineapple_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pineapple_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pineapple_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pineapple_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pine_autoflower_cannabis_seeds___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pine_autoflower_cannabis_seeds___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pine_autoflower_cannabis_seeds___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pine_autoflower_cannabis_seeds___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_pine_autoflower_cannabis_seeds___100_pack____100x_______495_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "cbd_min",
+    "maps_to": "cbd_min_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "cbd_max",
+    "maps_to": "cbd_max_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "cbd_range",
+    "maps_to": "cbd_range_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_overtime_feminized___happy_valley_genetics___3____3x_______40_00",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_overtime_feminized___happy_valley_genetics___6____6x_______60_00",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights_x_blueberry_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights_x_blueberry_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights_x_blueberry_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights_x_blueberry_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights_x_big_bud_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights_x_big_bud_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights_x_big_bud_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_northern_lights_x_big_bud_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_mimosa_autoflower_seeds___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_mimosa_autoflower_seeds___8_pack_____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_mimosa_autoflower_seeds___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_mimosa_autoflower_seeds___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_maxigom_autoflower___4_pack___4___4_free______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_maxigom_autoflower___8_pack___8___8_free______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_maxigom_autoflower___12_pack___12___12_free______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_maxigom_autoflower___25_pack___25___25_free______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_magnum_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_magnum_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_magnum_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_magnum_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "generation",
+    "maps_to": "generation_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lsd_autoflower_cannabis_seeds___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lsd_autoflower_cannabis_seeds___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lsd_autoflower_cannabis_seeds___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lsd_autoflower_cannabis_seeds___24_pack____24x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lowryder_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lowryder_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lowryder_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lowryder_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lemon_haze_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lemon_haze_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lemon_haze_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lemon_haze_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lemon_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lemon_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lemon_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_lemon_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_kush_xl_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_kush_xl_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_kush_xl_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_kush_xl_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_knockout_feminized___happy_valley_genetics___3____3x_______40_00",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_knockout_feminized___happy_valley_genetics___6____6x_______60_00",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_khalifa_kush_autoflower_seeds___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_khalifa_kush_autoflower_seeds___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_khalifa_kush_autoflower_seeds___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_khalifa_kush_autoflower_seeds___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_jealousy_autoflower_seeds___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_jealousy_autoflower_seeds___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_jealousy_autoflower_seeds___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_jealousy_autoflower_seeds___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_jack_cookies_autoflower___4____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_jack_cookies_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_jack_cookies_autoflower___12____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_jack_cookies_autoflower___24____24x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_hokuzan_feminized___world_breeders___5____5x_______74_98",
+    "maps_to": "breeder_name_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_hokuzan_feminized___world_breeders___10____10x_______144_98",
+    "maps_to": "breeder_name_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_hidden_vice_feminized___world_breeders___5____5x_______74_98",
+    "maps_to": "breeder_name_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_hidden_vice_feminized___world_breeders___10____10x_______144_98",
+    "maps_to": "breeder_name_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_haze_xl_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_haze_xl_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_haze_xl_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_haze_xl_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_haze_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_haze_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_haze_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_haze_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_granddaddy_purple_autoflower_seeds___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_granddaddy_purple_autoflower_seeds___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_granddaddy_purple_autoflower_seeds___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_granddaddy_purple_autoflower_seeds___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gold_leaf_autoflower_cannabis_seeds___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gold_leaf_autoflower_cannabis_seeds___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gold_leaf_autoflower_cannabis_seeds___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_gold_leaf_autoflower_cannabis_seeds___24_pack____24x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_game_over_feminized___happy_valley_genetics___3____3x_______40_00",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_game_over_feminized___happy_valley_genetics___6____6x_______60_00",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_fruit_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_fruit_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_fruit_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_fruit_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_forbidden_runtz_autoflower___4____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_forbidden_runtz_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_forbidden_runtz_autoflower___12____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_forbidden_runtz_autoflower___24____24x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_everglades_og_autoflower___happy_valley_genetics___3____3x_______40_00",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_everglades_og_autoflower___happy_valley_genetics___6____6x_______60_00",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_easy_button_autoflower___happy_valley_genetics___3____3x_______40_00",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_easy_button_autoflower___happy_valley_genetics___6____6x_______60_00",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "height_min",
+    "maps_to": "height_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "height_max",
+    "maps_to": "height_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "height_range",
+    "maps_to": "height_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_devil_xxl_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_devil_xxl_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_devil_xxl_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_devil_xxl_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_deelite_autoflower_seeds___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_deelite_autoflower_seeds___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_deelite_autoflower_seeds___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_deelite_autoflower_seeds___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_x_northern_lights_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_x_northern_lights_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_x_northern_lights_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_x_northern_lights_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_x_mazar_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_x_mazar_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_x_mazar_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_x_mazar_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_x_gg_4_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_x_gg_4_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_x_gg_4_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_x_gg_4_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_x_cream_cheese_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_x_cream_cheese_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_x_cream_cheese_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_x_cream_cheese_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_purple_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_purple_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_purple_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_purple_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_jack_autoflower_cannabis_seeds___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_jack_autoflower_cannabis_seeds___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_jack_autoflower_cannabis_seeds___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_jack_autoflower_cannabis_seeds___24_pack____24x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cristal_metal_autoflower___4____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cristal_metal_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cristal_metal_autoflower___12____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cristal_metal_autoflower___24____24x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cream_mandarine_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cream_mandarine_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cream_mandarine_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cream_mandarine_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cream_candy_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cream_candy_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cream_candy_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cream_candy_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cream_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cream_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cream_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cream_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cheese_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cheese_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cheese_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cheese_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_white_widow_feminized___4_pack____4x_______55_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_white_widow_feminized___8_pack____8x_______87_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_white_widow_feminized___12_pack____12x_______109_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_white_widow_feminized___25_pack____25x_______163_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_strawberry_kush_feminized___4_pack____4x_______55_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_strawberry_kush_feminized___8_pack____8x_______87_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_strawberry_kush_feminized___12_pack____12x_______109_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_strawberry_kush_feminized___25_pack____25x_______163_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_sour_tangie__1_25__feminized___4_pack____4x_______55_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_sour_tangie__1_25__feminized___8_pack____8x_______87_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_sour_tangie__1_25__feminized___12_pack____12x_______109_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_sour_tangie__1_25__feminized___25_pack____25x_______163_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_ratio__1_30__feminized___4_pack____4x_______55_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_ratio__1_30__feminized___8_pack____8x_______87_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_ratio__1_30__feminized___12_pack____12x_______109_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_ratio__1_30__feminized___25_pack____25x_______163_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_og_kush_feminized___4_pack____4x_______55_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_og_kush_feminized___8_pack____8x_______87_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_og_kush_feminized___12_pack____12x_______109_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_og_kush_feminized___25_pack____25x_______163_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_kush_feminized___4_pack____4x_______55_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_kush_feminized___8_pack____8x_______87_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_kush_feminized___12_pack____12x_______109_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_kush_feminized___25_pack____25x_______163_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_jack_herer_feminized___4_pack____4x_______55_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_jack_herer_feminized___8_pack____8x_______87_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_jack_herer_feminized___12_pack____12x_______109_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_jack_herer_feminized___25_pack____25x_______163_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_girl_scout_cookies_feminized___4_pack____4x_______55_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_girl_scout_cookies_feminized___8_pack____8x_______87_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_girl_scout_cookies_feminized___12_pack____12x_______109_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_girl_scout_cookies_feminized___25_pack____25x_______163_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_diesel_feminized___4_pack___4___4_free______55_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_diesel_feminized___8_pack___8___8_free______87_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_diesel_feminized___12_pack___12___12_free______109_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_diesel_feminized___25_pack___25___25_free______163_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_critical_mass_feminized___4_pack____4x_______55_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_critical_mass_feminized___8_pack____8x_______87_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_critical_mass_feminized___12_pack____12x_______109_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_critical_mass_feminized___25_pack____25x_______163_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_cream___cheese_feminized___4_pack____4x_______55_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_cream___cheese_feminized___8_pack____8x_______87_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_cream___cheese_feminized___12_pack____12x_______109_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_cream___cheese_feminized___25_pack____25x_______163_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_chemdog__4__1_1__feminized___4_pack____4x_______55_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_chemdog__4__1_1__feminized___8_pack____8x_______87_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_chemdog__4__1_1__feminized___12_pack____12x_______109_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_chemdog__4__1_1__feminized___25_pack____25x_______163_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_cheese_autoflower___4_pack___4___4_free______55_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_cheese_autoflower___8_pack___8___8_free______87_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_cheese_autoflower___12_pack___12___12_free______109_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_cheese_autoflower___25_pack___25___25_free______163_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_blueberry_feminized___4_pack____4x_______55_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_blueberry_feminized___8_pack____8x_______87_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_blueberry_feminized___12_pack____12x_______109_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_blueberry_feminized___25_pack____25x_______163_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_black_domina_feminized___4_pack___4___4_free______55_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_black_domina_feminized___8_pack___8___8_free______87_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_black_domina_feminized___12_pack___12___12_free______109_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_black_domina_feminized___25_pack___25___25_free______163_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_acdc_feminized___4_pack____4x_______55_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_acdc_feminized___8_pack____8x_______87_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_acdc_feminized___12_pack____12x_______109_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_cbd_acdc_feminized___25_pack____25x_______163_00",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_candy_games__38_feminized___happy_valley_genetics___3____3x_______40_00",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_candy_games__38_feminized___happy_valley_genetics___6____6x_______60_00",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_candy_games__25_feminized___happy_valley_genetics___3____3x_______40_00",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_candy_games__25_feminized___happy_valley_genetics___6____6x_______60_00",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bubba_kush_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bubba_kush_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bubba_kush_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bubba_kush_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bruce_banner_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bruce_banner_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bruce_banner_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_bruce_banner_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_x_mazar_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_x_mazar_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_x_mazar_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_x_mazar_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_x_lemon_haze_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_x_lemon_haze_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_x_lemon_haze_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_x_lemon_haze_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_x_jack_herer_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_x_jack_herer_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_x_jack_herer_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_x_jack_herer_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_x_cream_cheese_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_x_cream_cheese_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_x_cream_cheese_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_x_cream_cheese_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_x_big_devil_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_x_big_devil_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_x_big_devil_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_x_big_devil_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_x_big_bud_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_x_big_bud_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_x_big_bud_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blueberry_x_big_bud_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_fruit_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_fruit_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_fruit_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_fruit_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_amnesia_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_amnesia_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_amnesia_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blue_amnesia_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blackberry_autoflower_cannabis_seeds___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blackberry_autoflower_cannabis_seeds___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blackberry_autoflower_cannabis_seeds___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_blackberry_autoflower_cannabis_seeds___24_pack____24x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_jack_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_jack_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_jack_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_black_jack_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_big_bud_autoflower_seeds___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_big_bud_autoflower_seeds___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_big_bud_autoflower_seeds___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_big_bud_autoflower_seeds___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_baller_s_game_feminized___happy_valley_genetics___6____6x_______60_00",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_another_level_feminized___happy_valley_genetics___6____6x_______60_00",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_amnesia_kush_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_amnesia_kush_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_amnesia_kush_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_amnesia_kush_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_acapulco_gold_autoflowering_seeds___4_pack____4x_______55_00",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_acapulco_gold_autoflowering_seeds___8_pack____8x_______87_00",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_acapulco_gold_autoflowering_seeds___12_pack____12x_______109_00",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_acapulco_gold_autoflowering_seeds___25_pack____25x_______163_00",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_x_ak_47_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_x_ak_47_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_x_ak_47_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_critical_x_ak_47_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_big_devil_autoflower___4_pack____4x_______55_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_big_devil_autoflower___8_pack____8x_______87_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_big_devil_autoflower___12_pack____12x_______109_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seed_supreme",
+    "original_column": "spec_big_devil_autoflower___25_pack____25x_______163_00",
+    "maps_to": "flowering_type_raw"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "breeder_name",
+    "maps_to": "breeder_name_raw"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "source_url",
+    "maps_to": "source_url_raw"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "scraped_at",
+    "maps_to": "scraped_at_raw"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_og_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "meta_twitter_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "thc_content",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "effects_all",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "primary_effect",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "flavors_all",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "primary_flavor",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "has_awards",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "genetics_lineage",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "strain_name",
+    "maps_to": "strain_name_raw"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "jsonld_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_breeder",
+    "maps_to": "breeder_name_raw"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_genetics",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_seed_type",
+    "maps_to": "seed_type_raw"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_thc",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_cbd",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_flowering_time",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_difficulty",
+    "maps_to": "difficulty_raw"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_aroma___flavor",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_effects",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "cbd_content",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "spec_aroma",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "flowering_time",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "seeds_here_now",
+    "original_column": "awards",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "source_url",
+    "maps_to": "source_url_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "scraped_at",
+    "maps_to": "scraped_at_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "meta_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "strain_name",
+    "maps_to": "strain_name_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_brand/breeder",
+    "maps_to": "breeder_name_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_parental_lines",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_variety",
+    "maps_to": "seed_type_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_flowering_type",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_photoperiod_flowering_time",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_aroma",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "genetics",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "flavors",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "primary_flavor",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "flavor_count",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "breeder",
+    "maps_to": "breeder_name_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "seed_type",
+    "maps_to": "seed_type_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_thc_content",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_yield_outdoor",
+    "maps_to": "yield_outdoor_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_yield_indoor",
+    "maps_to": "yield_indoor_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_suitable_climates",
+    "maps_to": "climate_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "effects",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "primary_effect",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "effect_count",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "terpenes",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "dominant_terpene",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "climate",
+    "maps_to": "climate_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_autoflowering_seed_to_harvest_time",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_cbd_content",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_generational_type",
+    "maps_to": "generation_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "parent_1",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "parent_2",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "height_min",
+    "maps_to": "height_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "height_max",
+    "maps_to": "height_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "height_range",
+    "maps_to": "height_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "indica_percentage",
+    "maps_to": "indica_percentage_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "sativa_percentage",
+    "maps_to": "sativa_percentage_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "strain_type",
+    "maps_to": "dominant_type_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "thc_min",
+    "maps_to": "thc_min_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "thc_max",
+    "maps_to": "thc_max_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "thc_avg",
+    "maps_to": "thc_average_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "spec_awards_list",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "thc_content",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "flowering_time_min",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "flowering_time_max",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "seedsman_js",
+    "original_column": "flowering_time",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "seedsman",
+    "original_column": "s3_key",
+    "maps_to": "s3_html_key_raw"
+  },
+  {
+    "seed_bank": "seedsman",
+    "original_column": "meta_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "seedsman",
+    "original_column": "genetics_info_3",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "breeder_name",
+    "maps_to": "breeder_name_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "source_url",
+    "maps_to": "source_url_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "scraped_at",
+    "maps_to": "scraped_at_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_og_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "meta_twitter_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "thc_content",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "thc_min",
+    "maps_to": "thc_min_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "thc_max",
+    "maps_to": "thc_max_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "has_awards",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "genetics_lineage",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "is_hybrid",
+    "maps_to": "is_hybrid_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "sativa_percentage",
+    "maps_to": "sativa_percentage_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "indica_percentage",
+    "maps_to": "indica_percentage_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "dominant_type",
+    "maps_to": "dominant_type_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "strain_name",
+    "maps_to": "strain_name_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "effects_all",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "primary_effect",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "effects_mental",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "effects_physical",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "awards",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "award_count",
+    "maps_to": "awards_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "parent_1",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "parent_2",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "spec_genetics",
+    "maps_to": "genetics_lineage_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "spec_thc_level",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "spec_cbd_level",
+    "maps_to": "cbd_content_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "spec_flowering_time",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "spec_indoor_height",
+    "maps_to": "height_indoor_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "spec_outdoor_height",
+    "maps_to": "height_outdoor_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "spec_indoor_yields",
+    "maps_to": "yield_indoor_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "spec_outdoor_yields",
+    "maps_to": "yield_outdoor_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "spec_taste_and_smell",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "thc_range",
+    "maps_to": "thc_range_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "thc_average",
+    "maps_to": "thc_average_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "cbd_min",
+    "maps_to": "cbd_min_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "cbd_max",
+    "maps_to": "cbd_max_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "cbd_range",
+    "maps_to": "cbd_range_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "flowering_min",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "flowering_max",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "flowering_time",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "spec_terpenes",
+    "maps_to": "terpenes_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "effects_social",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "effects_appetite",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "jsonld_description",
+    "maps_to": "description_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "spec_thc",
+    "maps_to": "thc_content_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "spec_sativa",
+    "maps_to": "sativa_percentage_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "spec_indica",
+    "maps_to": "indica_percentage_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "spec_height_indoor__cm",
+    "maps_to": "height_indoor_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "spec_indoor_yield__g",
+    "maps_to": "yield_indoor_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "spec_height_outdoor__cm",
+    "maps_to": "height_outdoor_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "spec_taste",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "spec_effect",
+    "maps_to": "effects_all_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "spec_aroma",
+    "maps_to": "flavors_all_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "spec_flowering_time__days",
+    "maps_to": "flowering_time_raw"
+  },
+  {
+    "seed_bank": "sensi_seeds",
+    "original_column": "spec_outdoor_yield__g",
+    "maps_to": "yield_outdoor_raw"
+  }
+]

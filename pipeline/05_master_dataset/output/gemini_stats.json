@@ -1,0 +1,1353 @@
+{
+  "dataset_overview": {
+    "total_records": 23000,
+    "total_columns": 40,
+    "file_size_mb": 11.54
+  },
+  "seed_bank_distribution": {
+    "attitude": 7673,
+    "crop_king": 3336,
+    "north_atlantic": 2727,
+    "gorilla": 2000,
+    "neptune": 1995,
+    "seedsman": 878,
+    "seedsman_js": 866,
+    "herbies": 753,
+    "sensi_seeds": 620,
+    "multiverse_beans": 528,
+    "seed_supreme": 353,
+    "mephisto_genetics": 245,
+    "exotic": 227,
+    "ilgm": 169,
+    "amsterdam": 163,
+    "ilgm_js": 133,
+    "dutch_passion": 119,
+    "barneys_farm": 88,
+    "royal_queen_seeds": 67,
+    "seeds_here_now": 43,
+    "great_lakes_genetics": 16,
+    "compound": 1
+  },
+  "field_coverage": {
+    "strain_name_raw": {
+      "non_null_count": 23000,
+      "fill_rate_percent": 100.0
+    },
+    "awards_raw": {
+      "non_null_count": 385,
+      "fill_rate_percent": 1.67
+    },
+    "breeder_name_raw": {
+      "non_null_count": 8958,
+      "fill_rate_percent": 38.95
+    },
+    "cbd_content_raw": {
+      "non_null_count": 8282,
+      "fill_rate_percent": 36.01
+    },
+    "cbd_max_raw": {
+      "non_null_count": 3789,
+      "fill_rate_percent": 16.47
+    },
+    "cbd_min_raw": {
+      "non_null_count": 3789,
+      "fill_rate_percent": 16.47
+    },
+    "cbd_range_raw": {
+      "non_null_count": 3789,
+      "fill_rate_percent": 16.47
+    },
+    "cbn_content_raw": {
+      "non_null_count": 83,
+      "fill_rate_percent": 0.36
+    },
+    "climate_raw": {
+      "non_null_count": 373,
+      "fill_rate_percent": 1.62
+    },
+    "description_raw": {
+      "non_null_count": 20579,
+      "fill_rate_percent": 89.47
+    },
+    "difficulty_raw": {
+      "non_null_count": 364,
+      "fill_rate_percent": 1.58
+    },
+    "dominant_type_raw": {
+      "non_null_count": 2958,
+      "fill_rate_percent": 12.86
+    },
+    "effects_all_raw": {
+      "non_null_count": 2384,
+      "fill_rate_percent": 10.37
+    },
+    "flavors_all_raw": {
+      "non_null_count": 4854,
+      "fill_rate_percent": 21.1
+    },
+    "flowering_time_raw": {
+      "non_null_count": 4814,
+      "fill_rate_percent": 20.93
+    },
+    "flowering_type_raw": {
+      "non_null_count": 1,
+      "fill_rate_percent": 0.0
+    },
+    "generation_raw": {
+      "non_null_count": 469,
+      "fill_rate_percent": 2.04
+    },
+    "genetics_lineage_raw": {
+      "non_null_count": 15495,
+      "fill_rate_percent": 67.37
+    },
+    "height_indoor_raw": {
+      "non_null_count": 4796,
+      "fill_rate_percent": 20.85
+    },
+    "height_outdoor_raw": {
+      "non_null_count": 4159,
+      "fill_rate_percent": 18.08
+    },
+    "height_raw": {
+      "non_null_count": 65,
+      "fill_rate_percent": 0.28
+    },
+    "indica_percentage_raw": {
+      "non_null_count": 3491,
+      "fill_rate_percent": 15.18
+    },
+    "is_hybrid_raw": {
+      "non_null_count": 17661,
+      "fill_rate_percent": 76.79
+    },
+    "s3_html_key_raw": {
+      "non_null_count": 23000,
+      "fill_rate_percent": 100.0
+    },
+    "sativa_percentage_raw": {
+      "non_null_count": 3503,
+      "fill_rate_percent": 15.23
+    },
+    "scraped_at_raw": {
+      "non_null_count": 22134,
+      "fill_rate_percent": 96.23
+    },
+    "seed_type_raw": {
+      "non_null_count": 882,
+      "fill_rate_percent": 3.83
+    },
+    "source_url_raw": {
+      "non_null_count": 23000,
+      "fill_rate_percent": 100.0
+    },
+    "suitable_environments_raw": {
+      "non_null_count": 753,
+      "fill_rate_percent": 3.27
+    },
+    "terpenes_raw": {
+      "non_null_count": 1183,
+      "fill_rate_percent": 5.14
+    },
+    "thc_average_raw": {
+      "non_null_count": 4741,
+      "fill_rate_percent": 20.61
+    },
+    "thc_content_raw": {
+      "non_null_count": 9014,
+      "fill_rate_percent": 39.19
+    },
+    "thc_max_raw": {
+      "non_null_count": 11707,
+      "fill_rate_percent": 50.9
+    },
+    "thc_min_raw": {
+      "non_null_count": 11707,
+      "fill_rate_percent": 50.9
+    },
+    "thc_range_raw": {
+      "non_null_count": 4732,
+      "fill_rate_percent": 20.57
+    },
+    "total_grow_time_raw": {
+      "non_null_count": 293,
+      "fill_rate_percent": 1.27
+    },
+    "yield_indoor_raw": {
+      "non_null_count": 4731,
+      "fill_rate_percent": 20.57
+    },
+    "yield_outdoor_raw": {
+      "non_null_count": 4418,
+      "fill_rate_percent": 19.21
+    }
+  },
+  "data_types": {
+    "strain_name_raw": "object",
+    "awards_raw": "object",
+    "breeder_name_raw": "object",
+    "cbd_content_raw": "object",
+    "cbd_max_raw": "float64",
+    "cbd_min_raw": "float64",
+    "cbd_range_raw": "object",
+    "cbn_content_raw": "object",
+    "climate_raw": "object",
+    "description_raw": "object",
+    "difficulty_raw": "object",
+    "dominant_type_raw": "object",
+    "effects_all_raw": "object",
+    "flavors_all_raw": "object",
+    "flowering_time_raw": "object",
+    "flowering_type_raw": "object",
+    "generation_raw": "object",
+    "genetics_lineage_raw": "object",
+    "height_indoor_raw": "object",
+    "height_outdoor_raw": "object",
+    "height_raw": "object",
+    "indica_percentage_raw": "object",
+    "is_hybrid_raw": "object",
+    "s3_html_key_raw": "object",
+    "sativa_percentage_raw": "object",
+    "scraped_at_raw": "object",
+    "seed_type_raw": "object",
+    "source_url_raw": "object",
+    "suitable_environments_raw": "object",
+    "terpenes_raw": "object",
+    "thc_average_raw": "float64",
+    "thc_content_raw": "object",
+    "thc_max_raw": "float64",
+    "thc_min_raw": "float64",
+    "thc_range_raw": "object",
+    "total_grow_time_raw": "object",
+    "yield_indoor_raw": "object",
+    "yield_outdoor_raw": "object"
+  },
+  "value_ranges": {
+    "cbd_content_raw": {
+      "min": 0.0,
+      "max": 100.0,
+      "mean": 70.35,
+      "median": 100.0
+    },
+    "cbd_max_raw": {
+      "min": 0.05,
+      "max": 33.0,
+      "mean": 1.14,
+      "median": 0.5
+    },
+    "cbd_min_raw": {
+      "min": 0.0,
+      "max": 30.0,
+      "mean": 0.63,
+      "median": 0.1
+    },
+    "indica_percentage_raw": {
+      "min": 1.0,
+      "max": 100.0,
+      "mean": 45.03,
+      "median": 40.0
+    },
+    "sativa_percentage_raw": {
+      "min": 0.0,
+      "max": 99.0,
+      "mean": 54.1,
+      "median": 60.0
+    },
+    "thc_average_raw": {
+      "min": 0.1,
+      "max": 38.5,
+      "mean": 21.31,
+      "median": 21.5
+    },
+    "thc_content_raw": {
+      "min": 0.0,
+      "max": 99.34,
+      "mean": 23.05,
+      "median": 19.0
+    },
+    "thc_max_raw": {
+      "min": 0.0,
+      "max": 50.0,
+      "mean": 13.89,
+      "median": 19.0
+    },
+    "thc_min_raw": {
+      "min": 0.0,
+      "max": 46.0,
+      "mean": 11.86,
+      "median": 15.0
+    }
+  },
+  "null_patterns": {
+    "awards_raw": {
+      "amsterdam": 163,
+      "attitude": 7558,
+      "barneys_farm": 85,
+      "compound": 1,
+      "crop_king": 3329,
+      "dutch_passion": 114,
+      "exotic": 227,
+      "gorilla": 2000,
+      "herbies": 670,
+      "ilgm": 133,
+      "ilgm_js": 133,
+      "mephisto_genetics": 236,
+      "multiverse_beans": 518,
+      "neptune": 1992,
+      "north_atlantic": 2676,
+      "royal_queen_seeds": 65,
+      "seed_supreme": 336,
+      "seeds_here_now": 40,
+      "seedsman": 878,
+      "seedsman_js": 864,
+      "sensi_seeds": 597
+    },
+    "breeder_name_raw": {
+      "amsterdam": 163,
+      "attitude": 7129,
+      "compound": 1,
+      "dutch_passion": 27,
+      "exotic": 227,
+      "gorilla": 150,
+      "herbies": 753,
+      "ilgm": 133,
+      "ilgm_js": 133,
+      "mephisto_genetics": 244,
+      "multiverse_beans": 527,
+      "neptune": 11,
+      "north_atlantic": 2727,
+      "royal_queen_seeds": 35,
+      "seed_supreme": 352,
+      "seeds_here_now": 21,
+      "seedsman": 878,
+      "seedsman_js": 531
+    },
+    "cbd_content_raw": {
+      "amsterdam": 152,
+      "attitude": 6725,
+      "barneys_farm": 88,
+      "compound": 1,
+      "crop_king": 19,
+      "dutch_passion": 94,
+      "exotic": 227,
+      "gorilla": 1922,
+      "great_lakes_genetics": 16,
+      "herbies": 1,
+      "ilgm": 169,
+      "ilgm_js": 133,
+      "mephisto_genetics": 245,
+      "multiverse_beans": 527,
+      "neptune": 1995,
+      "north_atlantic": 15,
+      "royal_queen_seeds": 63,
+      "seed_supreme": 352,
+      "seeds_here_now": 21,
+      "seedsman": 878,
+      "seedsman_js": 739,
+      "sensi_seeds": 336
+    },
+    "cbd_max_raw": {
+      "amsterdam": 163,
+      "attitude": 7527,
+      "barneys_farm": 88,
+      "compound": 1,
+      "dutch_passion": 117,
+      "exotic": 227,
+      "gorilla": 2000,
+      "great_lakes_genetics": 16,
+      "herbies": 753,
+      "ilgm": 169,
+      "ilgm_js": 133,
+      "mephisto_genetics": 245,
+      "multiverse_beans": 528,
+      "neptune": 1995,
+      "north_atlantic": 2712,
+      "royal_queen_seeds": 67,
+      "seed_supreme": 349,
+      "seeds_here_now": 43,
+      "seedsman": 878,
+      "seedsman_js": 866,
+      "sensi_seeds": 334
+    },
+    "cbd_min_raw": {
+      "amsterdam": 163,
+      "attitude": 7527,
+      "barneys_farm": 88,
+      "compound": 1,
+      "dutch_passion": 117,
+      "exotic": 227,
+      "gorilla": 2000,
+      "great_lakes_genetics": 16,
+      "herbies": 753,
+      "ilgm": 169,
+      "ilgm_js": 133,
+      "mephisto_genetics": 245,
+      "multiverse_beans": 528,
+      "neptune": 1995,
+      "north_atlantic": 2712,
+      "royal_queen_seeds": 67,
+      "seed_supreme": 349,
+      "seeds_here_now": 43,
+      "seedsman": 878,
+      "seedsman_js": 866,
+      "sensi_seeds": 334
+    },
+    "cbd_range_raw": {
+      "amsterdam": 163,
+      "attitude": 7527,
+      "barneys_farm": 88,
+      "compound": 1,
+      "dutch_passion": 117,
+      "exotic": 227,
+      "gorilla": 2000,
+      "great_lakes_genetics": 16,
+      "herbies": 753,
+      "ilgm": 169,
+      "ilgm_js": 133,
+      "mephisto_genetics": 245,
+      "multiverse_beans": 528,
+      "neptune": 1995,
+      "north_atlantic": 2712,
+      "royal_queen_seeds": 67,
+      "seed_supreme": 349,
+      "seeds_here_now": 43,
+      "seedsman": 878,
+      "seedsman_js": 866,
+      "sensi_seeds": 334
+    },
+    "cbn_content_raw": {
+      "amsterdam": 163,
+      "attitude": 7673,
+      "barneys_farm": 88,
+      "compound": 1,
+      "crop_king": 3336,
+      "dutch_passion": 119,
+      "exotic": 227,
+      "gorilla": 1953,
+      "great_lakes_genetics": 16,
+      "herbies": 717,
+      "ilgm": 169,
+      "ilgm_js": 133,
+      "mephisto_genetics": 245,
+      "multiverse_beans": 528,
+      "neptune": 1995,
+      "north_atlantic": 2727,
+      "royal_queen_seeds": 67,
+      "seed_supreme": 353,
+      "seeds_here_now": 43,
+      "seedsman": 878,
+      "seedsman_js": 866,
+      "sensi_seeds": 620
+    },
+    "climate_raw": {
+      "amsterdam": 42,
+      "attitude": 7673,
+      "barneys_farm": 88,
+      "compound": 1,
+      "crop_king": 3336,
+      "dutch_passion": 119,
+      "exotic": 227,
+      "gorilla": 2000,
+      "great_lakes_genetics": 16,
+      "herbies": 753,
+      "ilgm": 169,
+      "ilgm_js": 9,
+      "mephisto_genetics": 245,
+      "multiverse_beans": 528,
+      "neptune": 1995,
+      "north_atlantic": 2727,
+      "royal_queen_seeds": 67,
+      "seed_supreme": 353,
+      "seeds_here_now": 43,
+      "seedsman": 878,
+      "seedsman_js": 738,
+      "sensi_seeds": 620
+    },
+    "description_raw": {
+      "amsterdam": 1,
+      "attitude": 70,
+      "crop_king": 6,
+      "dutch_passion": 117,
+      "exotic": 227,
+      "herbies": 753,
+      "multiverse_beans": 189,
+      "neptune": 93,
+      "seed_supreme": 78,
+      "seeds_here_now": 10,
+      "seedsman_js": 257,
+      "sensi_seeds": 620
+    },
+    "difficulty_raw": {
+      "amsterdam": 10,
+      "attitude": 7673,
+      "barneys_farm": 88,
+      "compound": 1,
+      "crop_king": 3336,
+      "dutch_passion": 119,
+      "exotic": 227,
+      "gorilla": 2000,
+      "great_lakes_genetics": 16,
+      "herbies": 753,
+      "ilgm": 169,
+      "ilgm_js": 120,
+      "mephisto_genetics": 245,
+      "multiverse_beans": 528,
+      "neptune": 1819,
+      "north_atlantic": 2727,
+      "royal_queen_seeds": 67,
+      "seed_supreme": 353,
+      "seeds_here_now": 21,
+      "seedsman": 878,
+      "seedsman_js": 866,
+      "sensi_seeds": 620
+    },
+    "dominant_type_raw": {
+      "amsterdam": 163,
+      "attitude": 5260,
+      "barneys_farm": 6,
+      "compound": 1,
+      "crop_king": 3175,
+      "dutch_passion": 106,
+      "exotic": 227,
+      "gorilla": 2000,
+      "great_lakes_genetics": 16,
+      "herbies": 753,
+      "ilgm": 169,
+      "ilgm_js": 133,
+      "mephisto_genetics": 245,
+      "multiverse_beans": 519,
+      "neptune": 1994,
+      "north_atlantic": 2726,
+      "seed_supreme": 310,
+      "seeds_here_now": 43,
+      "seedsman": 878,
+      "seedsman_js": 845,
+      "sensi_seeds": 473
+    },
+    "effects_all_raw": {
+      "attitude": 7634,
+      "barneys_farm": 87,
+      "compound": 1,
+      "crop_king": 3315,
+      "dutch_passion": 117,
+      "exotic": 227,
+      "gorilla": 1023,
+      "great_lakes_genetics": 13,
+      "herbies": 48,
+      "ilgm": 160,
+      "mephisto_genetics": 243,
+      "multiverse_beans": 524,
+      "neptune": 1994,
+      "north_atlantic": 2708,
+      "royal_queen_seeds": 66,
+      "seed_supreme": 350,
+      "seeds_here_now": 25,
+      "seedsman": 878,
+      "seedsman_js": 667,
+      "sensi_seeds": 536
+    },
+    "flavors_all_raw": {
+      "amsterdam": 7,
+      "attitude": 7148,
+      "barneys_farm": 4,
+      "compound": 1,
+      "crop_king": 1723,
+      "dutch_passion": 75,
+      "exotic": 227,
+      "gorilla": 1305,
+      "great_lakes_genetics": 5,
+      "herbies": 22,
+      "ilgm": 169,
+      "mephisto_genetics": 171,
+      "multiverse_beans": 525,
+      "neptune": 1937,
+      "north_atlantic": 2464,
+      "royal_queen_seeds": 62,
+      "seed_supreme": 350,
+      "seeds_here_now": 34,
+      "seedsman": 878,
+      "seedsman_js": 507,
+      "sensi_seeds": 532
+    },
+    "flowering_time_raw": {
+      "amsterdam": 8,
+      "attitude": 7623,
+      "barneys_farm": 87,
+      "compound": 1,
+      "dutch_passion": 109,
+      "exotic": 227,
+      "gorilla": 1610,
+      "great_lakes_genetics": 16,
+      "herbies": 174,
+      "ilgm": 169,
+      "ilgm_js": 105,
+      "mephisto_genetics": 245,
+      "multiverse_beans": 527,
+      "neptune": 1813,
+      "north_atlantic": 2726,
+      "royal_queen_seeds": 64,
+      "seed_supreme": 352,
+      "seeds_here_now": 35,
+      "seedsman": 878,
+      "seedsman_js": 859,
+      "sensi_seeds": 558
+    },
+    "flowering_type_raw": {
+      "amsterdam": 163,
+      "attitude": 7673,
+      "barneys_farm": 88,
+      "compound": 1,
+      "crop_king": 3336,
+      "dutch_passion": 119,
+      "exotic": 227,
+      "gorilla": 2000,
+      "great_lakes_genetics": 16,
+      "herbies": 753,
+      "ilgm": 169,
+      "ilgm_js": 133,
+      "mephisto_genetics": 245,
+      "multiverse_beans": 528,
+      "neptune": 1995,
+      "north_atlantic": 2727,
+      "royal_queen_seeds": 67,
+      "seed_supreme": 352,
+      "seeds_here_now": 43,
+      "seedsman": 878,
+      "seedsman_js": 866,
+      "sensi_seeds": 620
+    },
+    "generation_raw": {
+      "amsterdam": 163,
+      "attitude": 7673,
+      "barneys_farm": 88,
+      "compound": 1,
+      "crop_king": 3336,
+      "dutch_passion": 50,
+      "exotic": 227,
+      "gorilla": 2000,
+      "great_lakes_genetics": 16,
+      "herbies": 753,
+      "ilgm": 169,
+      "ilgm_js": 133,
+      "mephisto_genetics": 7,
+      "multiverse_beans": 460,
+      "neptune": 1995,
+      "north_atlantic": 2727,
+      "seed_supreme": 349,
+      "seeds_here_now": 43,
+      "seedsman": 878,
+      "seedsman_js": 843,
+      "sensi_seeds": 620
+    },
+    "genetics_lineage_raw": {
+      "amsterdam": 60,
+      "barneys_farm": 87,
+      "crop_king": 4,
+      "dutch_passion": 117,
+      "exotic": 125,
+      "gorilla": 408,
+      "ilgm": 133,
+      "multiverse_beans": 471,
+      "neptune": 1912,
+      "north_atlantic": 2701,
+      "royal_queen_seeds": 62,
+      "seed_supreme": 352,
+      "seeds_here_now": 21,
+      "seedsman_js": 805,
+      "sensi_seeds": 247
+    },
+    "height_indoor_raw": {
+      "amsterdam": 163,
+      "attitude": 6908,
+      "barneys_farm": 1,
+      "compound": 1,
+      "crop_king": 19,
+      "dutch_passion": 119,
+      "exotic": 227,
+      "gorilla": 2000,
+      "great_lakes_genetics": 16,
+      "herbies": 234,
+      "ilgm": 169,
+      "ilgm_js": 133,
+      "mephisto_genetics": 245,
+      "multiverse_beans": 528,
+      "neptune": 1995,
+      "north_atlantic": 2710,
+      "royal_queen_seeds": 67,
+      "seed_supreme": 353,
+      "seeds_here_now": 43,
+      "seedsman": 878,
+      "seedsman_js": 866,
+      "sensi_seeds": 529
+    },
+    "height_outdoor_raw": {
+      "amsterdam": 163,
+      "attitude": 7575,
+      "barneys_farm": 1,
+      "compound": 1,
+      "crop_king": 20,
+      "dutch_passion": 119,
+      "exotic": 227,
+      "gorilla": 2000,
+      "great_lakes_genetics": 16,
+      "herbies": 203,
+      "ilgm": 169,
+      "ilgm_js": 133,
+      "mephisto_genetics": 245,
+      "multiverse_beans": 528,
+      "neptune": 1995,
+      "north_atlantic": 2710,
+      "royal_queen_seeds": 67,
+      "seed_supreme": 353,
+      "seeds_here_now": 43,
+      "seedsman": 878,
+      "seedsman_js": 866,
+      "sensi_seeds": 529
+    },
+    "height_raw": {
+      "amsterdam": 163,
+      "attitude": 7673,
+      "barneys_farm": 88,
+      "compound": 1,
+      "crop_king": 3336,
+      "dutch_passion": 112,
+      "exotic": 227,
+      "gorilla": 2000,
+      "great_lakes_genetics": 16,
+      "herbies": 753,
+      "ilgm": 169,
+      "ilgm_js": 129,
+      "mephisto_genetics": 245,
+      "multiverse_beans": 521,
+      "neptune": 1994,
+      "north_atlantic": 2727,
+      "royal_queen_seeds": 60,
+      "seed_supreme": 350,
+      "seeds_here_now": 43,
+      "seedsman": 878,
+      "seedsman_js": 830,
+      "sensi_seeds": 620
+    },
+    "indica_percentage_raw": {
+      "amsterdam": 13,
+      "attitude": 5260,
+      "barneys_farm": 6,
+      "compound": 1,
+      "crop_king": 3175,
+      "dutch_passion": 106,
+      "exotic": 227,
+      "gorilla": 1988,
+      "great_lakes_genetics": 16,
+      "herbies": 311,
+      "ilgm": 169,
+      "ilgm_js": 122,
+      "mephisto_genetics": 245,
+      "multiverse_beans": 519,
+      "neptune": 1994,
+      "north_atlantic": 2710,
+      "seed_supreme": 352,
+      "seeds_here_now": 43,
+      "seedsman": 878,
+      "seedsman_js": 845,
+      "sensi_seeds": 529
+    },
+    "is_hybrid_raw": {
+      "amsterdam": 163,
+      "compound": 1,
+      "dutch_passion": 6,
+      "exotic": 227,
+      "gorilla": 2000,
+      "great_lakes_genetics": 16,
+      "herbies": 753,
+      "ilgm": 133,
+      "ilgm_js": 133,
+      "multiverse_beans": 113,
+      "seeds_here_now": 43,
+      "seedsman": 878,
+      "seedsman_js": 866,
+      "sensi_seeds": 7
+    },
+    "sativa_percentage_raw": {
+      "amsterdam": 13,
+      "attitude": 5260,
+      "barneys_farm": 6,
+      "compound": 1,
+      "crop_king": 3175,
+      "dutch_passion": 106,
+      "exotic": 227,
+      "gorilla": 1993,
+      "great_lakes_genetics": 16,
+      "herbies": 311,
+      "ilgm": 169,
+      "ilgm_js": 122,
+      "mephisto_genetics": 245,
+      "multiverse_beans": 524,
+      "neptune": 1994,
+      "north_atlantic": 2726,
+      "seed_supreme": 310,
+      "seeds_here_now": 43,
+      "seedsman": 878,
+      "seedsman_js": 845,
+      "sensi_seeds": 533
+    },
+    "scraped_at_raw": {
+      "seedsman": 866
+    },
+    "seed_type_raw": {
+      "amsterdam": 7,
+      "attitude": 7673,
+      "barneys_farm": 88,
+      "compound": 1,
+      "crop_king": 3336,
+      "dutch_passion": 114,
+      "exotic": 227,
+      "gorilla": 2000,
+      "great_lakes_genetics": 16,
+      "herbies": 753,
+      "ilgm": 169,
+      "ilgm_js": 133,
+      "mephisto_genetics": 245,
+      "multiverse_beans": 371,
+      "neptune": 1995,
+      "north_atlantic": 2727,
+      "royal_queen_seeds": 67,
+      "seed_supreme": 97,
+      "seeds_here_now": 21,
+      "seedsman": 878,
+      "seedsman_js": 580,
+      "sensi_seeds": 620
+    },
+    "suitable_environments_raw": {
+      "amsterdam": 163,
+      "attitude": 7673,
+      "barneys_farm": 88,
+      "compound": 1,
+      "crop_king": 3336,
+      "dutch_passion": 119,
+      "exotic": 227,
+      "gorilla": 2000,
+      "great_lakes_genetics": 16,
+      "ilgm": 169,
+      "ilgm_js": 133,
+      "mephisto_genetics": 245,
+      "multiverse_beans": 528,
+      "neptune": 1995,
+      "north_atlantic": 2727,
+      "royal_queen_seeds": 67,
+      "seed_supreme": 353,
+      "seeds_here_now": 43,
+      "seedsman": 878,
+      "seedsman_js": 866,
+      "sensi_seeds": 620
+    },
+    "terpenes_raw": {
+      "amsterdam": 163,
+      "attitude": 7527,
+      "barneys_farm": 88,
+      "compound": 1,
+      "crop_king": 2812,
+      "dutch_passion": 97,
+      "exotic": 227,
+      "gorilla": 2000,
+      "great_lakes_genetics": 16,
+      "herbies": 753,
+      "ilgm": 169,
+      "ilgm_js": 133,
+      "mephisto_genetics": 244,
+      "multiverse_beans": 501,
+      "neptune": 1987,
+      "north_atlantic": 2365,
+      "royal_queen_seeds": 56,
+      "seed_supreme": 350,
+      "seeds_here_now": 43,
+      "seedsman": 878,
+      "seedsman_js": 838,
+      "sensi_seeds": 569
+    },
+    "thc_average_raw": {
+      "amsterdam": 163,
+      "attitude": 6680,
+      "barneys_farm": 86,
+      "compound": 1,
+      "dutch_passion": 96,
+      "exotic": 227,
+      "gorilla": 2000,
+      "great_lakes_genetics": 16,
+      "herbies": 753,
+      "ilgm": 165,
+      "ilgm_js": 133,
+      "mephisto_genetics": 245,
+      "multiverse_beans": 527,
+      "neptune": 1995,
+      "north_atlantic": 2660,
+      "royal_queen_seeds": 66,
+      "seed_supreme": 332,
+      "seeds_here_now": 43,
+      "seedsman": 878,
+      "seedsman_js": 861,
+      "sensi_seeds": 332
+    },
+    "thc_content_raw": {
+      "amsterdam": 3,
+      "attitude": 6186,
+      "barneys_farm": 5,
+      "compound": 1,
+      "crop_king": 4,
+      "dutch_passion": 65,
+      "exotic": 227,
+      "gorilla": 1379,
+      "great_lakes_genetics": 16,
+      "herbies": 1,
+      "ilgm": 163,
+      "mephisto_genetics": 242,
+      "multiverse_beans": 525,
+      "north_atlantic": 2705,
+      "royal_queen_seeds": 1,
+      "seed_supreme": 179,
+      "seeds_here_now": 12,
+      "seedsman": 878,
+      "seedsman_js": 865,
+      "sensi_seeds": 529
+    },
+    "thc_max_raw": {
+      "amsterdam": 140,
+      "attitude": 5251,
+      "barneys_farm": 3,
+      "compound": 1,
+      "dutch_passion": 42,
+      "exotic": 227,
+      "gorilla": 1725,
+      "great_lakes_genetics": 16,
+      "herbies": 753,
+      "ilgm": 164,
+      "ilgm_js": 133,
+      "mephisto_genetics": 242,
+      "multiverse_beans": 524,
+      "seed_supreme": 158,
+      "seeds_here_now": 43,
+      "seedsman": 878,
+      "seedsman_js": 861,
+      "sensi_seeds": 132
+    },
+    "thc_min_raw": {
+      "amsterdam": 140,
+      "attitude": 5251,
+      "barneys_farm": 3,
+      "compound": 1,
+      "dutch_passion": 42,
+      "exotic": 227,
+      "gorilla": 1725,
+      "great_lakes_genetics": 16,
+      "herbies": 753,
+      "ilgm": 164,
+      "ilgm_js": 133,
+      "mephisto_genetics": 242,
+      "multiverse_beans": 524,
+      "seed_supreme": 158,
+      "seeds_here_now": 43,
+      "seedsman": 878,
+      "seedsman_js": 861,
+      "sensi_seeds": 132
+    },
+    "thc_range_raw": {
+      "amsterdam": 163,
+      "attitude": 6680,
+      "barneys_farm": 86,
+      "compound": 1,
+      "dutch_passion": 96,
+      "exotic": 227,
+      "gorilla": 2000,
+      "great_lakes_genetics": 16,
+      "herbies": 753,
+      "ilgm": 169,
+      "ilgm_js": 133,
+      "mephisto_genetics": 245,
+      "multiverse_beans": 527,
+      "neptune": 1995,
+      "north_atlantic": 2660,
+      "royal_queen_seeds": 66,
+      "seed_supreme": 332,
+      "seeds_here_now": 43,
+      "seedsman": 878,
+      "seedsman_js": 866,
+      "sensi_seeds": 332
+    },
+    "total_grow_time_raw": {
+      "amsterdam": 163,
+      "attitude": 7673,
+      "barneys_farm": 88,
+      "compound": 1,
+      "crop_king": 3336,
+      "dutch_passion": 119,
+      "exotic": 227,
+      "gorilla": 2000,
+      "great_lakes_genetics": 16,
+      "herbies": 460,
+      "ilgm": 169,
+      "ilgm_js": 133,
+      "mephisto_genetics": 245,
+      "multiverse_beans": 528,
+      "neptune": 1995,
+      "north_atlantic": 2727,
+      "royal_queen_seeds": 67,
+      "seed_supreme": 353,
+      "seeds_here_now": 43,
+      "seedsman": 878,
+      "seedsman_js": 866,
+      "sensi_seeds": 620
+    },
+    "yield_indoor_raw": {
+      "amsterdam": 162,
+      "attitude": 7527,
+      "barneys_farm": 1,
+      "compound": 1,
+      "crop_king": 17,
+      "dutch_passion": 119,
+      "exotic": 227,
+      "gorilla": 1833,
+      "great_lakes_genetics": 16,
+      "herbies": 51,
+      "ilgm": 169,
+      "ilgm_js": 133,
+      "mephisto_genetics": 245,
+      "multiverse_beans": 528,
+      "neptune": 1995,
+      "north_atlantic": 2710,
+      "royal_queen_seeds": 67,
+      "seed_supreme": 353,
+      "seeds_here_now": 43,
+      "seedsman": 878,
+      "seedsman_js": 665,
+      "sensi_seeds": 529
+    },
+    "yield_outdoor_raw": {
+      "amsterdam": 163,
+      "attitude": 7673,
+      "barneys_farm": 3,
+      "compound": 1,
+      "crop_king": 22,
+      "dutch_passion": 119,
+      "exotic": 227,
+      "gorilla": 1930,
+      "great_lakes_genetics": 16,
+      "herbies": 109,
+      "ilgm": 169,
+      "ilgm_js": 133,
+      "mephisto_genetics": 245,
+      "multiverse_beans": 528,
+      "neptune": 1995,
+      "north_atlantic": 2710,
+      "royal_queen_seeds": 67,
+      "seed_supreme": 353,
+      "seeds_here_now": 43,
+      "seedsman": 878,
+      "seedsman_js": 667,
+      "sensi_seeds": 531
+    }
+  },
+  "sample_values": {
+    "strain_name_raw": [
+      "Green Crack Autoflower Seeds",
+      "Gipsy King Feminized Seeds",
+      "Medijuana Seeds",
+      "Light Of Jah Feminized Seeds",
+      "Cappuccino 420 Feminized"
+    ],
+    "awards_raw": [
+      "2024.0",
+      "2017.0",
+      "2001.0",
+      "1995.0",
+      "1999.0"
+    ],
+    "breeder_name_raw": [
+      "In House Genetics",
+      "Buy Ace Seeds",
+      "SuperCBDx Seeds",
+      "New York City Sativa Dominant Hybrid",
+      "Lost Coast x CBDX Female Seeds"
+    ],
+    "cbd_content_raw": [
+      "38.0",
+      "7.0",
+      "2.0",
+      "5.0",
+      "35.0"
+    ],
+    "cbd_max_raw": [
+      "1.0",
+      "15.0",
+      "8.0",
+      "14.0",
+      "16.0"
+    ],
+    "cbd_min_raw": [
+      "0.0",
+      "5.0",
+      "0.1",
+      "12.0",
+      "0.5"
+    ],
+    "cbd_range_raw": [
+      "0-1%",
+      "5.00-15.00%",
+      "0.10-1.00%",
+      "5-8%",
+      "12.00-14.00%"
+    ],
+    "cbn_content_raw": [
+      "0.15%",
+      "0.53%",
+      "0.64%",
+      "0.75%",
+      "1.93%"
+    ],
+    "climate_raw": [
+      "Mediterranean, Temperate",
+      "Continental, Mediterranean, Temperate, Warm Dry",
+      "Mediterranean, Temperate, Tropical",
+      "Mediterranean, Tropical, Warm Dry",
+      "Cold, Mediterranean, Warm Dry"
+    ],
+    "description_raw": [
+      "Green Crack is a marijuana strain that will turn the laziest person into a powerful battery with its energetic effect and fabulous aroma.",
+      "Prepare to be amazed by Gipsy King, a regal hybrid that combines the legendary genetics ofMOAB (Mother of all Buds)and our most powerful Kush. This carefully bred strain strikes the perfect balance between 60% Indica and 40% Sativa, delivering a versatile experience that caters to both mind and body. Whether youÃ¢ÂÂre seeking creativity, focus, or relaxation, Gipsy King offers a well-rounded high that satisfies seasoned users and novices alike.",
+      "Medijuana cannabis seeds are a versatile and easy-to-grow plant that provides high-quality results. Medijuana is a hybrid of Indica and Sativa, making it the perfect choice for those who want the best of both worlds. Its effects are uplifting and euphoric, and can also be used for medicinal purposes. These characteristics make this strain very popular among medical marijuana users.",
+      "Our Light of Jah strain a.k.a. Jack herer is a hybrid between Indica and Sativa. Sativa is dominant with 75% against 25% Indica. Do you want to enjoy a fruity high? Light of Jah will be perfect for you. It will give you a cerebral buzz, with your senses enjoying every part.",
+      "The Perfect Blend of Flavor and RelaxationIndulge in the exquisite flavor of Cappuccino 420 weed, packed with the rich taste of freshly roasted coffee beans and a hint of cream. These feminized seeds are not only easy to grow but also produce buds that will leave you craving for more. Discover the perfect strain to unwind with after a long day Ã¢ÂÂ Cappuccino 420."
+    ],
+    "difficulty_raw": [
+      "Easy",
+      "Moderate",
+      "Easy, Moderate",
+      "Expert, Moderate",
+      "Expert"
+    ],
+    "dominant_type_raw": [
+      "Sativa",
+      "Indica",
+      "Balanced Hybrid",
+      "Choose an optionHybridClear",
+      "Sativa Dominant"
+    ],
+    "effects_all_raw": [
+      "energetic",
+      "relaxed",
+      "uplifting",
+      "munchies",
+      "hungry"
+    ],
+    "flavors_all_raw": [
+      "herbs",
+      "pine",
+      "berries",
+      "sweet",
+      "diesel"
+    ],
+    "flowering_time_raw": [
+      "6-10 weeks",
+      "8-12 weeks",
+      "6-7 weeks",
+      "8-9 weeks",
+      "10-12 weeks"
+    ],
+    "flowering_type_raw": [
+      "-+"
+    ],
+    "generation_raw": [
+      "F5",
+      "F1",
+      "F4",
+      "BX1",
+      "F3"
+    ],
+    "genetics_lineage_raw": [
+      "of  MOAB (Mother of all Buds)  and our most powerful Kush",
+      "and potent effects, itÃ¢ÂÂs sure to give you an enjoyable experience",
+      "of this strain is a bit mystical, although some people credit it as a cross between Jack Herer and a",
+      "between the renowned Black Domina and the potent White Widow XTRM",
+      "crossed with the Big Bud x White Widow Indica male"
+    ],
+    "height_indoor_raw": [
+      "160-280 cm",
+      "80-100 cm",
+      "60-100 cm",
+      "100-120 cm",
+      "75-90 cm"
+    ],
+    "height_outdoor_raw": [
+      "180-240 cm",
+      "100-140 cm",
+      "170-200 cm",
+      "60-120 cm",
+      "70-110 cm"
+    ],
+    "height_raw": [
+      "5.0",
+      "3.0",
+      "1.0",
+      "75.0",
+      "100.0"
+    ],
+    "indica_percentage_raw": [
+      "20.0",
+      "60.0",
+      "25.0",
+      "85.0",
+      "70.0"
+    ],
+    "is_hybrid_raw": [
+      "False",
+      "True"
+    ],
+    "s3_html_key_raw": [
+      "html/00160a0bef553823.html",
+      "html/03e2205750e9e2d5.html",
+      "html/049f25a5dcfdc3f2.html",
+      "html/0662ef9cd092f246.html",
+      "html/06c7e95d39049d0d.html"
+    ],
+    "sativa_percentage_raw": [
+      "80.0",
+      "40.0",
+      "75.0",
+      "15.0",
+      "30.0"
+    ],
+    "scraped_at_raw": [
+      "2026-01-14",
+      "2026-01-14T10:39:46.904754",
+      "2026-01-14T10:39:47.155404",
+      "2026-01-14T10:39:47.360065",
+      "2026-01-14T10:39:47.555528"
+    ],
+    "seed_type_raw": [
+      "Sativa",
+      "Hybrid",
+      "Indica",
+      "Hybrid, Indica",
+      "Hybrid, Sativa"
+    ],
+    "source_url_raw": [
+      "https://amsterdammarijuanaseeds.com/green-crack-autoflower-seeds/",
+      "https://amsterdammarijuanaseeds.com/gipsy-king-feminized-seeds/",
+      "https://amsterdammarijuanaseeds.com/medijuana-seeds/",
+      "https://amsterdammarijuanaseeds.com/light-of-jah-feminized-seeds/",
+      "https://amsterdammarijuanaseeds.com/cappuccino-420-feminized/"
+    ],
+    "suitable_environments_raw": [
+      "Outdoor, Indoor",
+      "Outdoor, Indoor, Greenhouse",
+      "Indoor, Greenhouse",
+      "Indoor",
+      "Outdoor, Greenhouse"
+    ],
+    "terpenes_raw": [
+      "1.0",
+      "4.0",
+      "3.0",
+      "2.0",
+      "5.0"
+    ],
+    "thc_average_raw": [
+      "18.0",
+      "23.5",
+      "19.5",
+      "26.5",
+      "16.5"
+    ],
+    "thc_content_raw": [
+      "22.0",
+      "29.0",
+      "23.0",
+      "20.0",
+      "15.0"
+    ],
+    "thc_max_raw": [
+      "30.0",
+      "25.0",
+      "20.0",
+      "50.0",
+      "7.0"
+    ],
+    "thc_min_raw": [
+      "20.0",
+      "23.0",
+      "15.0",
+      "40.0",
+      "5.0"
+    ],
+    "thc_range_raw": [
+      "14-22%",
+      "22.00-25.00%",
+      "17-22%",
+      "25.00-28.00%",
+      "15-18%"
+    ],
+    "total_grow_time_raw": [
+      "84 days",
+      "91 days",
+      "60 - 70 days",
+      "70 days",
+      "63 days"
+    ],
+    "yield_indoor_raw": [
+      "450.0",
+      "500-550 gr/m2",
+      "450-500 gr/m2",
+      "500-600 gr/m2",
+      "200-500 gr/m2"
+    ],
+    "yield_outdoor_raw": [
+      "2000 gr/plant",
+      "2000-2500 gr/plant",
+      "2500 gr/plant",
+      "800 gr/plant",
+      "3000 gr/plant"
+    ]
+  },
+  "top_5_coverage": {
+    "strain_name_raw": {
+      "non_null_count": 23000,
+      "fill_rate_percent": 100.0
+    },
+    "s3_html_key_raw": {
+      "non_null_count": 23000,
+      "fill_rate_percent": 100.0
+    },
+    "source_url_raw": {
+      "non_null_count": 23000,
+      "fill_rate_percent": 100.0
+    },
+    "scraped_at_raw": {
+      "non_null_count": 22134,
+      "fill_rate_percent": 96.23
+    },
+    "description_raw": {
+      "non_null_count": 20579,
+      "fill_rate_percent": 89.47
+    }
+  },
+  "bottom_5_coverage": {
+    "difficulty_raw": {
+      "non_null_count": 364,
+      "fill_rate_percent": 1.58
+    },
+    "total_grow_time_raw": {
+      "non_null_count": 293,
+      "fill_rate_percent": 1.27
+    },
+    "cbn_content_raw": {
+      "non_null_count": 83,
+      "fill_rate_percent": 0.36
+    },
+    "height_raw": {
+      "non_null_count": 65,
+      "fill_rate_percent": 0.28
+    },
+    "flowering_type_raw": {
+      "non_null_count": 1,
+      "fill_rate_percent": 0.0
+    }
+  }
+}

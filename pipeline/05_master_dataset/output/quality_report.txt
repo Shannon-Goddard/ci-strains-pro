@@ -1,0 +1,92 @@
+================================================================================
+MASTER DATASET QUALITY REPORT
+================================================================================
+
+TOTAL RECORDS: 23,009
+TOTAL COLUMNS: 40
+
+================================================================================
+STRAINS BY SEED BANK
+================================================================================
+amsterdam                         163 strains
+attitude                        7,673 strains
+barneys_farm                       88 strains
+compound                            1 strains
+crop_king                       3,336 strains
+dutch_passion                     119 strains
+exotic                            227 strains
+gorilla                         2,009 strains
+great_lakes_genetics               16 strains
+herbies                           753 strains
+ilgm                              169 strains
+ilgm_js                           133 strains
+mephisto_genetics                 245 strains
+multiverse_beans                  528 strains
+neptune                         1,995 strains
+north_atlantic                  2,727 strains
+royal_queen_seeds                  67 strains
+seed_supreme                      353 strains
+seeds_here_now                     43 strains
+seedsman                          878 strains
+seedsman_js                       866 strains
+sensi_seeds                       620 strains
+
+================================================================================
+DATA COMPLETENESS BY FIELD
+================================================================================
+s3_html_key_raw                     23,009 (100.0%)
+source_url_raw                      23,009 (100.0%)
+scraped_at_raw                      22,143 ( 96.2%)
+description_raw                     20,579 ( 89.4%)
+is_hybrid_raw                       17,661 ( 76.8%)
+genetics_lineage_raw                15,495 ( 67.3%)
+strain_name_raw                     13,750 ( 59.8%)
+thc_max_raw                         11,707 ( 50.9%)
+thc_min_raw                         11,707 ( 50.9%)
+thc_content_raw                      9,014 ( 39.2%)
+breeder_name_raw                     8,958 ( 38.9%)
+cbd_content_raw                      8,282 ( 36.0%)
+dominant_type_raw                    5,663 ( 24.6%)
+flavors_all_raw                      4,854 ( 21.1%)
+flowering_time_raw                   4,814 ( 20.9%)
+height_indoor_raw                    4,796 ( 20.8%)
+thc_average_raw                      4,741 ( 20.6%)
+thc_range_raw                        4,732 ( 20.6%)
+yield_indoor_raw                     4,731 ( 20.6%)
+yield_outdoor_raw                    4,418 ( 19.2%)
+height_outdoor_raw                   4,159 ( 18.1%)
+cbd_max_raw                          3,789 ( 16.5%)
+cbd_min_raw                          3,789 ( 16.5%)
+cbd_range_raw                        3,789 ( 16.5%)
+sativa_percentage_raw                3,503 ( 15.2%)
+indica_percentage_raw                3,491 ( 15.2%)
+effects_all_raw                      2,388 ( 10.4%)
+terpenes_raw                         1,183 (  5.1%)
+seed_type_raw                          882 (  3.8%)
+suitable_environments_raw              753 (  3.3%)
+generation_raw                         469 (  2.0%)
+awards_raw                             385 (  1.7%)
+climate_raw                            373 (  1.6%)
+difficulty_raw                         364 (  1.6%)
+total_grow_time_raw                    293 (  1.3%)
+cbn_content_raw                         83 (  0.4%)
+height_raw                              65 (  0.3%)
+flowering_type_raw                       1 (  0.0%)
+
+================================================================================
+KEY METRICS
+================================================================================
+Strains with THC data:        13,235 ( 57.5%)
+Strains with CBD data:         8,470 ( 36.8%)
+Strains with genetics:        15,495 ( 67.3%)
+Strains with effects:          2,388 ( 10.4%)
+Strains with flowering time:   4,814 ( 20.9%)
+
+================================================================================
+SAMPLE RECORDS
+================================================================================
+First 5 strains: ['Green Crack Autoflower Seeds', 'Gipsy King Feminized Seeds', 'Medijuana Seeds', 'Light Of Jah Feminized Seeds', 'Cappuccino 420 Feminized']
+
+================================================================================
+REPORT COMPLETE
+================================================================================
