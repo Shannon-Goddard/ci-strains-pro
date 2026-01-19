@@ -1,0 +1,13 @@
+=== Step 03: Placeholder Removal Report ===
+
+Rows processed: 21374
+Total placeholders removed: 67
+Affected columns: 6
+
+Placeholders removed by column:
+  cbd_content_raw: 33
+  genetics_lineage_raw: 26
+  yield_outdoor_raw: 3
+  thc_content_raw: 2
+  yield_indoor_raw: 2
+  source_url_raw: 1

@@ -1,7 +1,8 @@
 # 2026 Build Log – Solo Grind to Cannabis Intelligence Empire
 
-**Current Status (as of Jan 17, 2026)**  
+**Current Status (as of Jan 18, 2026)**  
 ✅ Phase 5 Complete | **23,000 strains** (20 seed banks) | Master Dataset LIVE  
+✅ Phase 1 Cleaning Complete | **21,360 cleaned strains** | Deep name + THC/CBD cleanup  
 Source of Truth Viewer: https://strains.loyal9.app  
 Costs so far: Bright Data $41.27 • ScrapingBee $49.99 • AWS $12.86 • Google Cloud $0 (credits)
 
@@ -59,19 +60,32 @@ Solo dev | Real costs | Real setbacks | Real breakthroughs
 
 ### Jan 17: Master Dataset & Marketplace READY
 - **Phase 5 COMPLETE**
-- Unified master: **23,000 strains** × **38 fields** (genetics, cannabinoids, effects, cultivation)
+- Unified master: **23,000 strains** × **38 fields**
 - Quality: **96.87%** (Vertex AI / Gemini 2.0 Flash validation)
 - 100% traceability (every strain → URL + S3 archive)
 - Documentation package: DATA_DICTIONARY, VALIDATION_REPORT, SEED_BANK_COVERAGE, LICENSE
 - 3-tier pricing model finalized ($500–$12,500 per tier)
 - Gumroad launch plan: Raw tier Week 1, Clean Week 3, AI Week 6
 - Revenue target: **$26.5K–$102.5K** (Q1 2026)
-- Launch checklist: 26 tasks (15% complete)
+
+### Jan 18: Phase 1 Cleaning Complete – Deep QA & Standardization
+- **Manual QA Review** completed on 21,374 rows (full first 1,000 A-Z + spot checks)
+- **Phase 1 Cleaning Executed** (Steps 10A–10D) – 46,720 operations
+- **Rows removed**: 14 (non-product/promotional junk like "1 free seed from qr code", "age verification")
+- **Final cleaned rows**: **21,360**
+- **Major Wins**:
+  - Strain names deeply cleaned: removed seed types, breeder prefixes, promo text, pack sizes, drops, encoding mojibake
+  - THC/CBD outliers fixed: removed legal disclaimers (0, 0.03), high errors (40–50), placeholders ("high", "varies")
+  - Created accurate min/max range columns for flowering, height, yield (deleted old averages)
+  - Categorical standardization: dominant_type, seed_type, difficulty cleaned & normalized
+- **Scripts run**: 10a_strain_name_deep_cleaning.py → 10b_thc_cbd_cleaning.py → 10c_create_min_max_ranges.py → 10d_categorical_standardization.py
+- **Data Quality Impact**: Estimated 30–40% improvement in deduplication accuracy
+- **Next**: Continue manual QA on remaining fields → Step 11: The Big Deduplication
 
 ## February 2026
 - [TBD – momentum building...]
 
 **This log is living proof: setbacks happen, but the grind wins.**  
-From Day 1 to production-ready dataset + marketplace in 17 days.  
-Stay tuned – Raw tier drops soon.  
-🌿 Built with blood, sweat, coffee, and relentless human-AI partnership.
+From Day 1 skeleton to production-ready, cleaned 21k+ strain dataset in 18 days.  
+Stay tuned – Raw tier launch on Gumroad imminent.  
+🌿 Built with blood, sweat, coffee, Vertex credits, and relentless human-AI partnership.

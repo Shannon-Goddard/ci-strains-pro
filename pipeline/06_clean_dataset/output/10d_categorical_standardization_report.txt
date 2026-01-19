@@ -1,0 +1,14 @@
+=== Step 10D: Categorical Standardization Report ===
+
+Rows processed: 21360
+
+Standardization results:
+  Dominant type standardized: 2851
+  Seed type standardized: 308
+  Flowering type standardized: 0
+  Difficulty standardized: 303
+  Awards cleaned (FALSE -> NULL): 0
+
+Columns deleted: strain_name_no_aka
+
+Total standardizations: 3462

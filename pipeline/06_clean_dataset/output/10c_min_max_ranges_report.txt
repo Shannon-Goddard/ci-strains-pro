@@ -1,0 +1,12 @@
+=== Step 10C: Min/Max Range Creation Report ===
+
+Rows processed: 21360
+
+Ranges created:
+  Flowering time min/max: 1
+  Height indoor min/max: 4707
+  Height outdoor min/max: 4070
+  Yield indoor min/max: 4510
+  Yield outdoor min/max: 4200
+
+Columns deleted: flowering_time_days_clean, height_indoor_cm_clean, height_outdoor_cm_clean, yield_indoor_g_m2_clean, yield_outdoor_g_plant_clean, total_grow_time_days_clean

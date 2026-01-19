@@ -1,0 +1,12 @@
+=== Step 02: Unit Normalization Report ===
+
+Rows processed: 21374
+
+Conversions performed:
+  Flowering time (weeks -> days): 3810
+  Height (ft/in -> cm): 12802
+  Yield indoor (oz -> g/m²): 527
+  Yield outdoor (oz -> g/plant): 526
+  Total grow time (weeks -> days): 0
+
+Total conversions: 17665

@@ -1,0 +1,14 @@
+=== Step 08: Similar Spelling Normalization Report ===
+
+Rows processed: 21374
+
+Normalization impact:
+  Unique normalized names: 13643
+  Unique similar spelling forms: 13601
+  Additional matches identified: 42
+  Additional match rate: 0.31%
+
+Examples:
+  'grand daddy purple' -> 'granddaddypurple'
+  'girl-scout-cookies' -> 'girlscoutcookies'
+  'og #1' -> 'og1'

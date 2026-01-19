@@ -1,0 +1,27 @@
+=== Step 07: AKA Extraction Report ===
+
+Rows processed: 21374
+AKA names extracted: 27
+Extraction rate: 0.13%
+
+Sample AKA extractions:
+  Seeds Of Africa Zimbabwe AKA Zim-Licious
+    AKA: Zim-Licious, Zim-Licious
+  Pakalolo
+    AKA: lolo, lolo
+  Pakalolo
+    AKA: lolo, lolo
+  Seeds Of Africa Transkei AKA Misty Kei
+    AKA: Misty Kei, Misty Kei
+  Auto-Flowering Lemon (AKA AUTO LemonBubble)
+    AKA: AUTO LemonBubble, AUTO LemonBubble)
+  Pakalolo
+    AKA: lolo, lolo
+  Pakalolo
+    AKA: lolo, lolo
+  GG Genetics Original Glue (GG4 S1) AKA Gorilla Glue 4
+    AKA: Gorilla Glue 4, Gorilla Glue 4
+  Spitfire Genetics Garlic Mushrooms and Peach aka Genetically Modified Peachez
+    AKA: Genetically Modified Peachez, Genetically Modified Peachez
+  KC Brains Double D aka Danky Doodle
+    AKA: Danky Doodle, Danky Doodle

@@ -1,0 +1,10 @@
+=== Step 04: Data Type Standardization Report ===
+
+Rows processed: 21374
+Columns converted: 4
+
+Type conversions:
+  flowering_time_raw: object -> float64
+  flowering_type_raw: object -> float64
+  indica_percentage_raw: object -> float64
+  sativa_percentage_raw: object -> float64

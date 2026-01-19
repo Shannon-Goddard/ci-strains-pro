@@ -1,0 +1,9 @@
+=== Step 09: Autoflower Classification Report ===
+
+Rows processed: 21374
+Autoflowers identified: 3944
+Autoflower rate: 18.45%
+
+Time separation:
+  Flowering times moved to seed-to-harvest: 469
+  Regular strains (kept flowering time): 17430

@@ -1,0 +1,11 @@
+=== Step 10B: THC/CBD Data Cleaning Report ===
+
+Rows processed: 21360
+
+Cleaning operations:
+  THC outliers removed (0, 0.03, 40, 50): 10997
+  CBD outliers removed (0, 0.03): 293
+  Encoding issues fixed: 478
+  Percentage symbols removed: 6260
+
+Total operations: 18028

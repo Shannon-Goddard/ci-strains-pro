@@ -1,0 +1,13 @@
+=== Step 10A: Strain Name Deep Cleaning Report ===
+
+Initial rows: 21374
+Final rows: 21360
+Rows deleted (non-products): 14
+
+Cleaning operations:
+  Seed types removed: 6641
+  Breeder prefixes removed: 685
+  Encoding issues fixed: 2
+  Promotional terms removed: 400
+
+Total cleaning operations: 7742
