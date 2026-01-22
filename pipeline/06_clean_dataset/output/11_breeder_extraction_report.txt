@@ -1,0 +1,28 @@
+BREEDER EXTRACTION REPORT
+================================================================================
+
+Total rows processed: 21,359
+Total extracted: 19,903 (93.2%)
+
+BY SEED BANK:
+--------------------------------------------------------------------------------
+amsterdam                    163 /    163 (100.0%)
+attitude                   7,659 /  7,673 ( 99.8%)
+barneys_farm                  88 /     88 (100.0%)
+compound                       0 /      1 (  0.0%)
+crop_king                  3,335 /  3,335 (100.0%)
+dutch_passion                 54 /     54 (100.0%)
+exotic                       227 /    227 (100.0%)
+gorilla                    1,850 /  1,999 ( 92.5%)
+great_lakes_genetics          11 /     16 ( 68.8%)
+herbies                      700 /    753 ( 93.0%)
+ilgm                           0 /    133 (  0.0%)
+mephisto_genetics            245 /    245 (100.0%)
+multiverse_beans               0 /    518 (  0.0%)
+neptune                    1,982 /  1,995 ( 99.3%)
+north_atlantic             2,709 /  2,716 ( 99.7%)
+royal_queen_seeds             67 /     67 (100.0%)
+seed_supreme                 350 /    353 ( 99.2%)
+seeds_here_now                39 /     43 ( 90.7%)
+seedsman_js                  309 /    865 ( 35.7%)
+sensi_seeds                  115 /    115 (100.0%)

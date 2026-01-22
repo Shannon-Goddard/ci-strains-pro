@@ -61,11 +61,11 @@ Turn messy cannabis data into the world's most comprehensive cultivation ecosyst
 - **Consolidated S3 Structure**: 21,706 HTML files in unified location
 - **Metadata System**: 21,706 JSON files with URL-to-hash mappings
 - **Elite Integration**: 3,153 elite seed bank strains added to inventory
-- **Ready for Extraction**: All 20 seed banks accessible via unified S3 path
+- **Ready for Extraction**: All 19 seed banks accessible via unified S3 path
 
 ### Phase 3: Enhanced S3 Extraction ✅ COMPLETE
 
-**Total Database**: **21,706 strains** (exceeded 20K milestone by 1,706!)
+**Total Database**: **21,706 strains** across 19 seed banks (exceeded 20K milestone by 1,706!)
 
 ### Phase 4: Source of Truth Viewer ✅ COMPLETE
 - **CloudFront Distribution**: Free-tier CDN with signed URLs (5-min expiration)
@@ -112,7 +112,6 @@ Turn messy cannabis data into the world's most comprehensive cultivation ecosyst
 | Seeds Here Now         | ✅ Complete  | 43                | 150     | 48.6%         |
 | ILGM                   | ✅ Complete  | 133             | 25      | 97.7% THC     |
 | Great Lakes Genetics   | ✅ Complete  | 16                | 41      | 52.5%         |
-| Compound Genetics      | ✅ Complete  | 1                 | 7       | Minimal       |
 | Seedsman               | ✅ Complete  | 866               | 79      | 100% THC      |
 
 **Latest Achievement**: **JavaScript Rescrape & Extraction Mission - 100% Success!** 🎯  
@@ -120,7 +119,7 @@ Turn messy cannabis data into the world's most comprehensive cultivation ecosyst
 **Extraction**: 999/1,011 strains extracted (98.8% success rate)  
 - **ILGM**: 133/133 strains, 25 columns, 97.7% THC coverage (from 6.8%)  
 - **Seedsman**: 866/878 strains, 79 columns, 100% THC coverage (from 0%)  
-**Total Database**: **21,395 strains** across 20 seed banks - ALL COMPLETE!
+**Total Database**: **21,395 strains** across 19 seed banks - ALL COMPLETE!
 
 ## 💰 Project Economics (14 Days)
 **Total Investment**: **$101.41**  
