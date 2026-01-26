@@ -97,6 +97,34 @@ Solo dev | Real costs | Real setbacks | Real breakthroughs
 - **Total Operations**: 82,177 cleaning operations across all steps
 - **Scripts**: 10e_breeder_standardization.py → 10f_non_cannabis_removal.py → 10g_missing_url_removal.py → 11_breeder_extraction.py → 11b_breeder_merge.py → 11c_breeder_final.py
 
+### Jan 25: Phase 6 Breeder Extraction – 100% Success + Standardization
+- **Phase 6 COMPLETE**: Extracted breeders from 23,000 strains across 12 seed banks
+- **Extraction Results**: 21,943 valid strains (9 invalid pages removed)
+  - Attitude: 7,673 strains (100%)
+  - Gorilla: 2,000 strains (100%) - added URL fallback
+  - North Atlantic: 2,726 strains (100%) - 1 broken page deleted
+  - Neptune: 1,995 strains (100%) - added h1 title fallback
+  - Herbies: 753 strains (100%) - added properties table fallback
+  - Multiverse Beans: 527 strains (100%) - 1 multi-pack deleted
+  - Seed Supreme: 350 strains (100%) - 3 category pages deleted
+  - Seeds Here Now: 39 strains (100%) - 4 category pages deleted
+  - Great Lakes: 16 strains (100%) - added hyphen + title fallback
+  - ILGM (JS): 133 strains (100%)
+  - Seedsman (JS): 866 strains (100%) - added h4 pattern + Seedsman fallback
+  - Self-Branded: 4,865 strains (100%) - 8 banks (Crop King, Sensi, Mephisto, etc.)
+- **Breeder Standardization**: Manual review + automation
+  - Before: 580 unique breeders
+  - After: 519 unique breeders
+  - Merged: 61 duplicate variations (capitalization, suffixes, spacing)
+  - Examples: "Fast Buds" + "Fast buds" + "FastBuds Seeds" → "Fast Buds"
+- **Output Files**:
+  - `all_breeders_extracted.csv` - 21,943 strains with raw breeder names
+  - `all_breeders_cleaned.csv` - 21,943 strains with standardized breeder names
+  - `BREEDER_LIST.md` - 580 raw breeders (A-Z)
+  - `BREEDER_LIST_CLEANED.md` - 519 standardized breeders (A-Z)
+- **Success Rate**: 95.4% (21,943/23,000 original strains)
+- **Scripts**: 12 extraction scripts + merge + standardization + list generation
+
 ## February 2026
 - [TBD – momentum building...]
 

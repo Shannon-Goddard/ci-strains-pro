@@ -44,6 +44,7 @@ https://www.cannabis-seeds-bank.co.uk/00-seeds-auto-blueberry/prod_5459
 ```
 text inside <a href="/00-seeds/cat_195">00 Seeds</a> = "00 Seeds"
 ```
+
 ---
 
 ### Crop King (3,336 strains)
@@ -78,24 +79,6 @@ https://www.northatlanticseed.com/product/sugar-spice-f/
 ```
 text inside <a href="https://www.northatlanticseed.com/product-category/seeds/twenty20-mendocino/">Twenty20 Mendocino</a> = "Twenty20 Mendocino"
 ```
-**Edge Cases**:
-```html
-<div class="description-content">
-<strong>HUMBOLDT SEEDS &gt; THE UPSETTER LEE "SCRATCH PERRY" (SQUIRT X TANGIE X HUMBOLDT DREAM)</strong>
-<p class="p1">“It was here&nbsp;from Creation It’s for the healing of the nation if you stray from the root you’ll never know the truth instead of hate and malice we should be sipping chalice” -Lee&nbsp;Scratch&nbsp;Perry</p><p class="p1">This extremely mold resistant Sativa leaning hybrid embodies our deep respect for one of reggaes founding fathers! The mighty Upsetter is full of tropical mango and guava terpenes transporting one’s senses to the heartland of cannabis deep in the bush of Negril, Jamaica where legacy Rasta culture has moved cultural mountains and created space for sustainable cultural practices to exist. a percentage from the the proceeds of these ganja seeds go to fulfilling Lees Dream to create a self-reliant community away from the madness of Babylon.</p><strong>Feminized Photoperiod</strong></div>  
-```
-If class="breeder-link" not found, then class="description-content"
-```html
-<div class="description-content">
-<strong>HUMBOLDT SEEDS &gt; THE UPSETTER LEE "SCRATCH PERRY" (SQUIRT X TANGIE X HUMBOLDT DREAM)</strong>
-```
-Text before " &gt;" in class="description-content" = breeder_extracted
-```html
-<div class="description-content">
-<strong>HUMBOLDT SEEDS &gt; THE UPSETTER LEE "SCRATCH PERRY" (SQUIRT X TANGIE X HUMBOLDT DREAM)</strong>
-
-example: breeder_extracted = HUMBOLDT SEEDS
-```
 
 ---
 
@@ -118,30 +101,7 @@ https://www.gorilla-cannabis-seeds.co.uk/00-seeds/feminized/00-cheese.html
 ```
 text inside <a href="/00-seeds" title="00 Seeds" class="white">00 Seeds</a> = "00 Seeds"
 ```
-**Edge Cases**:
-```html
-<nav class="g-breadcrumbs" aria-label="Breadcrumb">
-    <ol class="items">
-        <li class="item">
-            <a href="https://www.gorilla-cannabis-seeds.co.uk/">Cannabis Seeds</a>
-        </li>
-        <li class="item">
-            <a href="https://www.gorilla-cannabis-seeds.co.uk/caliconnection/">Caliconnection</a>
-        </li>
-        <li class="item is-current">
-            <span>Larry OG Kush</span>
-        </li>
-    </ol>
-</nav>
-```
-```html
-<li class="item">
-    <a href="https://www.gorilla-cannabis-seeds.co.uk/caliconnection/">Caliconnection</a>
-</li>
 
-Text inside = breeder_extracted
-example: breeder_extracted = Caliconnection
-```
 ---
 
 ### Neptune (1,995 strains)
