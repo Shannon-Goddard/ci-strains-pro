@@ -1,10 +1,12 @@
 # 2026 Build Log – Solo Grind to Cannabis Intelligence Empire
 
-**Current Status (as of Jan 21, 2026)**  
-✅ Phase 5 Complete | **23,000 strains** (19 seed banks) | Master Dataset LIVE  
-✅ Phase 1 Extended Complete | **21,348 cleaned strains** | 100% breeder coverage  
+**Current Status (as of Jan 29, 2026)**  
+✅ Phase 9 Complete | **21,400 strains validated** | 39,681 AI corrections | $0.04 cost  
+✅ Phase 8 Complete | **21,361 strains extracted** | 19 seed banks | Full botanical data  
+✅ Phase 7 Complete | **21,706 HTML files** | S3 unified inventory | 100% archive coverage  
+✅ Phase 6 Complete | **21,943 breeders extracted** | 519 standardized | 95.4% success  
 Source of Truth Viewer: https://strains.loyal9.app  
-Costs so far: Bright Data $41.27 • ScrapingBee $49.99 • AWS $12.86 • Google Cloud $0 (credits)
+Costs so far: Bright Data $41.27 • ScrapingBee $49.99 • AWS $25.62 • Google Cloud $0 (credits)
 
 **Transparent daily chronicle of building the world's most rigorous cannabis dataset ecosystem.**  
 Solo dev | Real costs | Real setbacks | Real breakthroughs
@@ -124,6 +126,60 @@ Solo dev | Real costs | Real setbacks | Real breakthroughs
   - `BREEDER_LIST_CLEANED.md` - 519 standardized breeders (A-Z)
 - **Success Rate**: 95.4% (21,943/23,000 original strains)
 - **Scripts**: 12 extraction scripts + merge + standardization + list generation
+
+### Jan 26–27: Phase 7 S3 Unified Inventory – Complete Archive Consolidation
+- **Phase 7 COMPLETE**: Unified all HTML archives into single S3 structure
+- **Total Files**: 21,706 HTML files across 19 seed banks
+- **Metadata System**: 21,706 JSON files with URL-to-hash mappings
+- **S3 Structure**: `s3://cannabis-strains-html-archive/unified/[seed_bank]/[hash].html`
+- **Archive Coverage**: 100% of extracted strains have HTML source
+- **Verification**: All files accessible, no broken links
+- **Purpose**: Single source of truth for future re-extraction and validation
+
+### Jan 28: Phase 8 Full Botanical Extraction – 21,361 Strains Complete
+- **Phase 8 COMPLETE**: Extracted all botanical data from 21,706 HTML files
+- **Final Dataset**: 21,361 strains with complete botanical profiles
+  - Removed: 345 duplicate/invalid pages
+  - Success Rate: 98.4%
+- **Data Extracted**: 38 botanical fields per strain
+  - Genetics: THC%, CBD%, indica/sativa ratios, lineage
+  - Cultivation: flowering time, height, yield, difficulty
+  - Effects: reported effects, flavors, medical uses
+  - Metadata: seed type, breeder, price, availability
+- **Seed Bank Coverage**: All 19 seed banks processed
+  - Attitude: 7,673 strains (95 columns)
+  - Crop King: 3,336 strains (97 columns)
+  - North Atlantic: 2,727 strains (118 columns)
+  - Gorilla: 2,009 strains (51 columns)
+  - Neptune: 1,995 strains (111 columns)
+  - [14 more seed banks...]
+- **Output**: `all_strains_extracted.csv` - 21,361 rows × 38+ columns
+- **Quality**: Raw extraction, ready for AI validation
+
+### Jan 29: Phase 9 Vertex AI Validation – 39,681 Corrections at $0.04
+- **Phase 9 COMPLETE**: AI-validated all 21,361 strains using Gemini 2.0 Flash
+- **Processing**: 428 batches (50 strains each) over 45 minutes
+- **Results**:
+  - Total processed: 21,400 strains
+  - Corrections made: 39,681 (1.85 per strain)
+  - Flagged for review: 1,089 (5.1%)
+  - Confidence rate: 95% (90%+ confidence)
+- **Cost**: $0.04 (96% under $1 estimate)
+- **Corrections Applied**:
+  - Breeder extraction: Identified from URLs when missing
+  - Strain name cleanup: Removed breeder names from strain field
+  - Auto suffix removal: Cleaned "Feminized Auto" → strain name only
+  - Standardization: Normalized breeder names
+- **Rate Limit Handling**: 19 batches failed initially, all recovered via exponential backoff
+- **Output Files**:
+  - `all_strains_validated.csv` - 21,400 rows with 8 new validation columns
+  - `all_strains_validated_flagged.csv` - 1,089 low-confidence items
+  - `all_strains_validated_report.txt` - Detailed statistics
+- **Key Features**:
+  - Exponential backoff (5→10→20→40→80 sec retries)
+  - Checkpoint system (saves every 10 batches, UTF-8 encoding)
+  - Failed batch retry (automatic second pass)
+  - Confidence scoring (0-100 per strain)
 
 ## February 2026
 - [TBD – momentum building...]

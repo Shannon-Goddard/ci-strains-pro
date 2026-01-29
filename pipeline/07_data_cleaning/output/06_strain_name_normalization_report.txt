@@ -1,0 +1,10 @@
+=== Step 06: Strain Name Normalization Report ===
+
+Rows processed: 21374
+Strain names normalized: 20892
+
+Normalization impact:
+  Unique raw names: 13762
+  Unique normalized names: 10710
+  Potential duplicates identified: 3052
+  Deduplication rate: 22.18%

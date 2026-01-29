@@ -1,0 +1,10 @@
+=== Step 05: Genetics Normalization Report ===
+
+Rows processed: 21374
+
+Genetics calculations:
+  Ruderalis percentage calculated: 229
+  Filial generation extracted: 398
+  Breeding status identified: 3292
+
+Total genetics enhancements: 3919

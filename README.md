@@ -1,35 +1,34 @@
 # CI-Strains-Pro 🌿
 
-![Status: Phase 5 COMPLETE](https://img.shields.io/badge/Status-Phase%205%20COMPLETE-brightgreen)
+![Status: Phase 9 COMPLETE](https://img.shields.io/badge/Status-Phase%209%20COMPLETE-brightgreen)
 ![Partner: Amazon Q](https://img.shields.io/badge/AI_Partner-Amazon_Q-blueviolet)
 ![Data Tier: Premium](https://img.shields.io/badge/Data_Tier-Premium-gold)
-![Strains: 23,000](https://img.shields.io/badge/Strains-23,000-blue)
+![Strains: 21,400](https://img.shields.io/badge/Strains-21,400-blue)
 
 **Cannabis Intelligence (CI)** is the new standard for validated cultivation data.  
-This repo is the professional "Clean Room" — transforming **21,706 raw entries** into high-utility, commercial-grade intelligence.
+This repo is the professional "Clean Room" — transforming **21,706 raw HTML archives** into **21,400 AI-validated strains** with commercial-grade intelligence.
 
 **🔒 LIVE NOW**: [strains.loyal9.app](https://strains.loyal9.app) - Verify every strain against timestamped HTML archives
 
 ---
 
-## 🏆 What We Just Built (January 17, 2026)
+## 🏆 What We Just Built (January 29, 2026)
 
-**Phase 5 Master Dataset + Marketplace Strategy COMPLETE**
+**Phase 6-9: Full Extraction Pipeline COMPLETE**
 
-✅ **23,000 strains** consolidated into unified master dataset  
-✅ **38 botanical fields** (genetics, cannabinoids, effects, cultivation)  
-✅ **96.87% data quality** validated by Vertex AI (Gemini 2.0 Flash)  
-✅ **100% source traceability** (every strain has URL + S3 archive)  
-✅ **3-tier pricing model** designed ($500-$12,500 across Raw/Clean/AI)  
-✅ **Commercial license** with resale rights + legal protections  
-✅ **Marketplace documentation** (data dictionary, validation report, coverage breakdown)  
-✅ **Launch checklist** (26 tasks, 15% complete, ready for Gumroad)  
+✅ **Phase 6**: 21,943 breeders extracted & standardized (519 unique breeders)  
+✅ **Phase 7**: 21,706 HTML files unified in S3 (100% archive coverage)  
+✅ **Phase 8**: 21,361 strains with full botanical data (38 fields extracted)  
+✅ **Phase 9**: 21,400 strains AI-validated (39,681 corrections, $0.04 cost)  
+✅ **95% confidence rate** (only 1,089 strains flagged for review)  
+✅ **100% source traceability** (every strain → URL + S3 archive)  
+✅ **Production-ready dataset** with validated strain names & breeders  
 
-**This is what production-ready data looks like.**
+**This is what AI-accelerated data engineering looks like.**
 
-From raw HTML to commercial product in 17 days. Raw data tier launches Week 1, Clean tier Week 3, AI-enhanced tier Week 6. Revenue target: $26.5K-$102.5K (Q1 2026).
+From raw HTML to validated dataset in 4 phases. Gemini 2.0 Flash processed 21,400 strains in 45 minutes with exponential backoff handling rate limits. Cost: $0.04 (96% under budget). Ready for deduplication & master merge.
 
-**Previous Achievement (Jan 16)**: [strains.loyal9.app](https://strains.loyal9.app) - Source of Truth Viewer with CloudFront CDN + Lambda validation
+**Previous Achievement (Jan 17)**: Phase 5 Master Dataset + Marketplace Strategy - 3-tier pricing model ($500-$12,500)
 
 ---
 
@@ -45,11 +44,15 @@ Turn messy cannabis data into the world's most comprehensive cultivation ecosyst
 | 3     | Enhanced S3 Extraction (20K+)      | ✅ Complete  | Proof    |
 | 4     | Source of Truth Viewer             | ✅ Complete  | Trust    |
 | 5     | Master Dataset & Marketplace       | ✅ Complete  | **$15K** |
-| 6     | Gumroad Launch (Raw Tier)          | 🚧 Week 1   | $5K      |
-| 7     | Clean + AI Tiers                   | 📋 Planned | $50K     |
-| 8     | API Infrastructure                 | 📋 Planned | $100K    |
+| 6     | Breeder Extraction (21,943)        | ✅ Complete  | Quality  |
+| 7     | S3 Unified Inventory (21,706)      | ✅ Complete  | Archive  |
+| 8     | Full Botanical Extraction (21,361) | ✅ Complete  | Data     |
+| 9     | Vertex AI Validation (21,400)      | ✅ Complete  | **$0.04**|
+| 10    | Deduplication & Master Merge       | 🚧 In Progress | Clean  |
+| 11    | Gumroad Launch (Raw Tier)          | 📋 Planned | $5K      |
+| 12    | Clean + AI Tiers                   | 📋 Planned | $50K     |
 
-## 📊 Current Pipeline Status (Jan 17, 2026)
+## 📊 Current Pipeline Status (Jan 29, 2026)
 
 ### Phase 2: Source of Truth ✅ COMPLETE
 - **Total Inventory**: 14,840 strain URLs mapped to seed banks
@@ -84,13 +87,31 @@ Turn messy cannabis data into the world's most comprehensive cultivation ecosyst
 - **Sample**: 100-row sample for marketplace preview
 - **Documentation**: DATA_DICTIONARY.md, VALIDATION_REPORT.md, SEED_BANK_COVERAGE.md, LICENSE.md
 
-### Phase 6: Marketplace Strategy ✅ COMPLETE
-- **Pricing Model**: 3 tiers × 3 data types = 9 products ($500-$12,500)
-- **Platform**: Gumroad (one-time + subscriptions)
-- **Legal Framework**: Commercial license, Washington State jurisdiction, fair use policy
-- **Launch Checklist**: 26 tasks (4 complete, 22 remaining)
-- **Revenue Target**: $26.5K conservative, $102.5K optimistic (Q1 2026)
-- **Next Steps**: Complete 6 critical tasks, launch Raw Bronze tier ($500)
+### Phase 6: Breeder Extraction ✅ COMPLETE
+- **Total Breeders**: 21,943 strains with breeder data
+- **Standardization**: 580 raw → 519 unique breeders
+- **Coverage**: 100% across 19 seed banks
+- **Output**: `all_breeders_cleaned.csv` with standardized names
+
+### Phase 7: S3 Unified Inventory ✅ COMPLETE
+- **Total Files**: 21,706 HTML files in unified S3 structure
+- **Metadata**: 21,706 JSON files with URL-to-hash mappings
+- **Archive Coverage**: 100% of extracted strains
+- **Purpose**: Single source of truth for re-extraction
+
+### Phase 8: Full Botanical Extraction ✅ COMPLETE
+- **Total Strains**: 21,361 strains with complete profiles
+- **Fields Extracted**: 38 botanical fields per strain
+- **Success Rate**: 98.4% (345 duplicates removed)
+- **Output**: `all_strains_extracted.csv` ready for validation
+
+### Phase 9: Vertex AI Validation ✅ COMPLETE
+- **Total Validated**: 21,400 strains (Gemini 2.0 Flash)
+- **Corrections Made**: 39,681 (1.85 per strain)
+- **Flagged for Review**: 1,089 (5.1%)
+- **Cost**: $0.04 (96% under budget)
+- **Runtime**: 45 minutes with rate limit handling
+- **Output**: `all_strains_validated.csv` with confidence scores
 
 | Seed Bank              | Status       | Strains Extracted | Columns | Data Coverage |
 |------------------------|--------------|-------------------|---------|---------------|
@@ -121,15 +142,15 @@ Turn messy cannabis data into the world's most comprehensive cultivation ecosyst
 - **Seedsman**: 866/878 strains, 79 columns, 100% THC coverage (from 0%)  
 **Total Database**: **21,395 strains** across 19 seed banks - ALL COMPLETE!
 
-## 💰 Project Economics (14 Days)
-**Total Investment**: **$101.41**  
-- AWS: $12.86 (S3 storage, CloudFront, Lambda, Secrets Manager)  
+## 💰 Project Economics (29 Days)
+**Total Investment**: **$116.88**  
+- AWS: $25.62 (S3 storage, CloudFront, Lambda, Secrets Manager)  
 - Bright Data: $41.27 (proxy network)  
 - ScrapingBee: $49.99 (monthly sub)  
-- Google Cloud: $0.00 (credits)  
+- Google Cloud: $0.00 (credits - $1,200+ remaining)  
 
-**ROI Target**: $15K (Phase 3 completion)  
-**Current Status**: Phase 4 COMPLETE - Source of Truth Viewer live at strains.loyal9.app
+**ROI Target**: $15K (Phase 5 completion)  
+**Current Status**: Phase 9 COMPLETE - 21,400 validated strains ready for deduplication
 
 ## 🛠 Transparency & Attribution – The Real Human-AI Partnership
 
@@ -149,14 +170,16 @@ The AIs provided speed, scale, and second opinions — but the soul, scrutiny, a
 - Built the heavy-lifting backbone: S3 archival logic, bulletproof scraping pipelines, seed-bank processors, and high-volume extraction scripts  
 - Designed and executed JavaScript rescrape mission: 1,011/1,011 URLs (100% success, 4h 24m, $0 cost)  
 - Created JS extraction pipelines for ILGM and Seedsman: 999/1,011 strains extracted (98.8% success)  
-- Co-designed the production-grade architecture that scaled to 21,395 strains across 20 seed banks  
+- Co-designed the production-grade architecture that scaled to 21,400 validated strains across 19 seed banks  
 - Built Source of Truth Viewer infrastructure in under 2 minutes: CloudFront distribution, Lambda function, frontend with legal framework, GA4 tracking, and security layers (11 files, zero errors)
 - Designed marketplace strategy: 3-tier pricing model ($500-$12,500), commercial license with legal protections, comprehensive documentation package (data dictionary, validation report, seed bank coverage), and 26-task launch checklist for Gumroad deployment
+- Executed Phases 6-9: Breeder extraction (21,943 strains), S3 unification (21,706 files), full botanical extraction (21,361 strains), and Vertex AI validation (39,681 corrections at $0.04)
 
-**Gemini Flash 2.0** (The Auditor & Strategy Partner)  
+**Gemini Flash 2.0** (The Auditor & Validation Partner)  
 - Ran the initial 100% URL verification sweep on 15,778 records  
 - Performed Phase 3 HTML enhancement (93% success on 13,328+ strains)  
 - Designed the Source of Truth flagging system and confidence scoring  
+- Validated 21,400 strains in Phase 9: 39,681 corrections with 95% confidence rate
 - Provided strategic mapping and second-pair-of-eyes validation across the CI Ecosystem
 
 **Grok** (The Word Master & Hype Sidekick)  

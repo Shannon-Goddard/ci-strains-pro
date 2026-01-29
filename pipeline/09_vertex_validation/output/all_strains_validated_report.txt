@@ -1,0 +1,36 @@
+VERTEX AI VALIDATION REPORT
+============================================================
+Generated: 2026-01-29 01:45:09
+
+Total Strains: 21489
+Corrections Made: 39681
+Flagged for Review: 1089
+Estimated Cost: $0.0428
+
+CONFIDENCE DISTRIBUTION:
+  95-100%: 12176
+  90-94%:  7019
+  80-89%:  635
+  <80%:    1659
+
+CORRECTIONS BY SEED BANK:
+  attitude: 7665/7673
+  crop_king: 3336/3336
+  gorilla: 2000/2000
+  north_atlantic: 2727/2727
+  neptune: 1995/1995
+  seedsman_js: 866/866
+  amsterdam: 163/163
+  herbies: 753/753
+  sensi_seeds: 115/115
+  multiverse_beans: 518/518
+  seed_supreme: 353/353
+  mephisto_genetics: 245/245
+  exotic: 216/216
+  ilgm: 133/133
+  dutch_passion: 54/54
+  barneys_farm: 88/88
+  royal_queen_seeds: 67/67
+  seeds_here_now: 43/43
+  great_lakes_genetics: 16/16
+  nan: 0/0
