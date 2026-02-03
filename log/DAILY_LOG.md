@@ -101,6 +101,29 @@ Solo dev | Real costs | Real setbacks | Real breakthroughs
 - **Quality impact:** 5.1% of dataset now triple-verified (extract → AI → human)
 - **Next:** Merge manual corrections → main 21,400-strain dataset
 
+### Feb 2: Phase 10 – Lineage Extraction (Parent Genetics)
+- **Phase 10 COMPLETE**
+- **Coverage:** **76.1%** (16,246/21,361 strains) ✅ **Exceeded 70% target**
+- **Seed banks extracted:** **12** (Attitude, Barney's, Crop King, Exotic, Gorilla, Herbies, Mephisto, Neptune, North Atlantic, Royal Queen, Seedsman JS, Seeds Here Now)
+- **Extraction method:** Seed bank-specific HTML parsing patterns
+- **Top performers:**
+  - Barney's Farm: 84.1% (74/88)
+  - Herbies: 83.9% (632/753)
+  - Attitude: 79.3% (6,082/7,673)
+  - North Atlantic: 76.0% (2,074/2,727)
+- **Lineage schema:** 21 columns
+  - Parent fields (display + slug)
+  - Grandparent fields (4 pairs)
+  - Generation markers (F1/S1/BX1)
+  - Metadata (formula, confidence, notes)
+- **Key challenges:**
+  - Each seed bank has unique HTML structure
+  - Nested crosses handled (split on last "x")
+  - UTF-8 encoding for special characters
+  - Some banks have no lineage data (Multiverse, Seed Supreme, Amsterdam)
+- **Output:** `all_strains_lineage_final.csv` (21,361 strains, 118 columns)
+- **Next:** Phase 11 – Deduplication & Master Merge
+
 **[TBD – momentum building…]**
 
 **This log is living proof: setbacks happen, but the grind wins.**  

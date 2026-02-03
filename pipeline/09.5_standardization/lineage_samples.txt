@@ -1,0 +1,16 @@
+Sample lineage patterns:
+
+Zupernova:
+  Explore Zupernova cannabis seeds from Compound Genetics. High-quality hybrid, a cross of Zlayer x Eye Candy. Available at Attitude Seedbank UK.
+
+Zoap x Lazer Gun:
+  Discover Zoap x Lazer Gun, a premium indica blend bursting with juicy Melon Sherbert and zesty Funked Citrus flavours. Experience deep couchlock, cozy comfort, and a dreamy, floaty high perfect for un
+
+Znackz x Lazer Gun:
+Traceback (most recent call last):
+  File "c:\Users\uthin\OneDrive\Desktop\ci-strains-pro\pipeline\09.5_standardization\sample_lineage.py", line 13, in <module>
+    print(f"  {desc}\n")
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\x83' in position 33: character maps to <undefined>
