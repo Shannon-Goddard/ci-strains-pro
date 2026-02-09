@@ -122,7 +122,47 @@ Solo dev | Real costs | Real setbacks | Real breakthroughs
   - UTF-8 encoding for special characters
   - Some banks have no lineage data (Multiverse, Seed Supreme, Amsterdam)
 - **Output:** `all_strains_lineage_final.csv` (21,361 strains, 118 columns)
-- **Next:** Phase 11 – Deduplication & Master Merge
+- **Next:** Phase 11 – Manual Identity Review
+
+### Feb 3-8: Phase 11 – Manual Identity Review & Standardization
+- **Phase 11 IN PROGRESS**
+- **Focus:** Seed bank, breeder, and strain name identity columns
+- **Approach:** Manual correction → S3-to-Vertex audit → Final review
+
+**Seed Banks (✅ COMPLETE)**
+- **Total strains:** 21,361
+- **Standardized:** 100% seed bank names cleaned
+- **Output column:** `seed_bank_display_manual`
+
+**Breeders (✅ COMPLETE)**
+- **Starting point:** 4,755 "Unknown" breeders
+- **Manual review:** Few hundred done by Shannon
+- **AI extraction:** 3,994 breeders extracted from S3 HTML (89.1% success)
+  - Average confidence: 99.75%
+  - Low confidence: 78 items (1.7%)
+- **Remaining unknowns:** 489 (mostly Seed Supreme - white label operation)
+- **Final manual review:** 489 unknowns completed
+- **Output column:** `breeder_display_manual`
+- **Result:** 100% breeder review complete
+
+**Strain Names (🔄 NEXT)**
+- **Status:** Ready for review/edit
+- **Tasks:**
+  1. Review `strain_name_display_manual` for display names
+  2. Create standardized slug column
+  3. Remove suffixes (Feminized, Auto unless at start, pack sizes)
+  4. Standardize capitalization (Title Case)
+  5. Preserve #, -, and phenotype markers (F1, F2, BX)
+- **Expected output columns:**
+  - `strain_name_display_manual` - Clean display name
+  - `strain_name_slug` - URL-safe slug
+
+**Key Achievement:**
+- **AI-assisted extraction saved 4,000+ manual lookups** (Gemini read S3 HTML archives)
+- **Cost:** ~$0.10-0.15 for 4,483 breeder extractions
+- **Human expertise applied:** Edge cases, Seed Supreme review, final validation
+
+**Next:** Strain name review/standardization, then Phase 11 complete
 
 **[TBD – momentum building…]**
 
