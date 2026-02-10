@@ -166,6 +166,55 @@ Solo dev | Real costs | Real setbacks | Real breakthroughs
 
 **[TBD – momentum building…]**
 
+### Feb 9: Phase 11 – Column Cleanup & Strain Name Review Begins
+- **Column Cleanup (✅ COMPLETE)**
+  - **Before:** 110 columns (chaos)
+  - **After:** 47 columns (clean foundation)
+  - **Removed:** 63 columns (57% reduction)
+  - **Deleted:**
+    - 10 Phase 9 validation columns (superseded by manual review)
+    - 53 duplicate/redundant columns (raw/extracted/normalized variants)
+  - **Kept:**
+    - 9 Identity columns (GOLD tier - 100% verified)
+    - 16 Lineage columns (SILVER tier - 76.1% coverage)
+    - 5 Genetics metadata columns
+    - 18 Botanical columns (BRONZE tier - for Phase 12+ cleaning)
+  - **Output:** `pipeline_11_clean.csv` (21,361 strains, 47 columns)
+  - **Documentation:** Column audit report + cleanup methodology
+
+**Strain Names (🔄 IN PROGRESS)**
+- **Started:** Manual review of 21,361 strain names
+- **Progress:** 500 strains reviewed (2 hours)
+- **Approach:**
+  - Remove seed type suffixes ("Feminized", "Auto", "Regular", "Seeds")
+  - Standardize spelling ("Alaskan Thunderfuck" not "Thunder Fuck")
+  - Fix typos ("Alley Oop" not "Alley Oooop")
+  - Keep phenotype markers (#1, #33, S1, F1)
+  - Preserve breeder intent (numbered variants stay separate)
+- **Key decisions:**
+  - Deduplication key: `breeder + strain_name + is_autoflower`
+  - Autoflower vs photoperiod = separate strains (different genetics)
+  - AKA names only added if explicitly on seed bank page (no inference)
+- **Estimated time:** 2-3 more days of review
+- **Next:** Complete strain name review → generate slugs + standardized names
+
+**Roadmap Updated:**
+- **Phase 13.5 added:** Dataset generation (Clean → Filtered → Filled)
+- **3-Dataset strategy:**
+  1. CLEAN: 21,361 strains (all variants, verified)
+  2. FILTERED: ~4,000 strains (deduplicated master strains)
+  3. FILLED: ~4,000 strains (100% complete with AI gap-fill)
+- **Deduplication approach:**
+  - Ranges: THC/CBD/flowering/height/yield (merge min/max)
+  - Most filled: Effects/flavors/terpenes (union all values)
+  - First verified: Lineage (flag conflicts)
+- **Launch blocker:** No Gumroad until 100% data + API (Phase 14)
+- **Revenue target:** $110K Q2 2026
+
+**Philosophy:** "Ship what's clean. Mark what's not." GOLD/SILVER/BRONZE transparency.
+
+**[TBD – momentum building…]**
+
 **This log is living proof: setbacks happen, but the grind wins.**  
 From skeleton to production-ready 21k+ strain dataset in ~18 days.  
 Raw tier Gumroad launch coming soon.  
