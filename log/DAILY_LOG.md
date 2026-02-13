@@ -213,6 +213,38 @@ Solo dev | Real costs | Real setbacks | Real breakthroughs
 
 **Philosophy:** "Ship what's clean. Mark what's not." GOLD/SILVER/BRONZE transparency.
 
+### Feb 12: Phase 11 – Strain Name Review Complete
+- **Strain Names (✅ COMPLETE)**
+  - **Time spent:** ~20 hours of manual review
+  - **Total reviewed:** 21,361 strains
+  - **Removed:** 138 non-cannabis items (seed mixes, merchandise, growing supplies)
+  - **Final count:** 21,223 verified strains
+  - **Standardization applied:**
+    - Removed seed type suffixes ("Feminized", "Auto", "Regular", "Seeds")
+    - Fixed spelling ("Alaskan Thunderfuck" not "Thunder Fuck")
+    - Corrected typos ("Alley Oop" not "Alley Oooop")
+    - Kept phenotype markers (#1, #33, S1, F1)
+    - Preserved breeder intent (numbered variants stay separate)
+  - **Key decisions enforced:**
+    - Deduplication key: `breeder + strain_name + is_autoflower`
+    - Autoflower vs photoperiod = separate strains (different genetics)
+    - AKA names only if explicitly on seed bank page (no inference)
+    - "Auto" prefix removed (flag handles it)
+  - **Columns finalized:**
+    - `strain_name_raw` - Original from seed bank (100% coverage)
+    - `strain_name_display_manual` - Shannon's cleaned version (100% verified)
+    - `strain_name_slug` - URL-safe slug (auto-generated)
+  - **Output:** `pipeline_11_clean.csv` (21,223 strains, 48 columns)
+
+**Phase 11 Status: 100% COMPLETE**
+- ✅ Seed banks: 100% verified
+- ✅ Breeders: 100% verified
+- ✅ Strain names: 100% verified
+- ✅ Column cleanup: 110 → 48 columns
+- ✅ Non-cannabis items removed: 138 deleted
+
+**Next:** Phase 12 – Botanical Data Extraction (seed bank-specific approach)
+
 **[TBD – momentum building…]**
 
 **This log is living proof: setbacks happen, but the grind wins.**  
