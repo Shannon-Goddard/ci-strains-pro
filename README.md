@@ -4,11 +4,11 @@
 ![Status: We Actually Built This Shit](https://img.shields.io/badge/Status-We%20Actually%20Built%20This%20Shit-brightgreen)
 ![AI Partner: Amazon Q](https://img.shields.io/badge/AI_Partner-Amazon_Q-blueviolet)
 ![Data Tier: Premium](https://img.shields.io/badge/Data_Tier-Premium-gold)
-![Validated Strains: 21,400](https://img.shields.io/badge/Validated_Strains-21,400-blue)
+![Verified Strains: 21,220](https://img.shields.io/badge/Verified_Strains-21,220-blue)
 ![Immutable Proof: 21,706 HTML Archives](https://img.shields.io/badge/Immutable%20Proof-21,706%20HTMLs-success)
 
 **Cannabis Intelligence (CI)** is not another database full of scraped bullshit.  
-It's the clean room that turns **21,706 timestamped, encrypted HTML graves** into **21,400 AI-validated, human-beat-to-death strains** with **100% source traceability**.
+It's the clean room that turns **21,706 timestamped, encrypted HTML graves** into **21,220 verified, human-beat-to-death strains** with **100% source traceability**.
 
 Every number. Every correction. Every "fuck this page is broken" moment is backed by real archives you can verify yourself — right now.
 
@@ -37,7 +37,10 @@ We built a full extraction-validation pipeline that went from raw HTML dumpster 
 - **21,361 strains** fully parsed for 38 botanical fields (genetics, grow specs, effects…)  
 - **21,400 strains** run through Gemini 2.0 Flash — **39,681 corrections**, 95% confidence, **$0.04 total cost**  
 - **1,089 flagged strains** manually triple-checked by a human who knows what the fuck they're looking at (20+ hours of URL-by-URL pain)  
+- **21,220 strains** with 100% verified identity columns (seed bank, breeder, strain name) — 20+ hours manual review  
+- **138 non-cannabis items removed** (seed mixes, merchandise, growing supplies)  
 - **76.1% lineage coverage** extracted (parents, grandparents, F1/BX markers…)  
+- **7 automated extractions** from strain names (version markers, autoflower, CBD flags, feminized detection)  
 - **100% JS rescrape success** on 1,011 blocked URLs — ILGM THC from 6.8% → 97.7%, Seedsman from 0% → 100%
 
 All of it traceable back to the original HTML. No trust-me-bro.
@@ -69,7 +72,7 @@ It's **AI-accelerated**, **human-directed**, and **human-verified** until the hu
 **Shannon Goddard** (@Loyal9App) — The Architect, The Grinder, The One Who Pays  
 - 19 years of management in retail operations (highly do **not** recommend) 
 - Came up with the vision, roadmap, and "no hallucinations allowed" rules  
-- Did 32+ hours of lineage hell, 20+ hours of flagged review, ongoing identity cleanup  
+- Did 32+ hours of lineage hell, 40+ hours of identity review (strain names, breeders, seed banks)  
 - Paid every cent (proxies, scraping, AWS, coffee, therapy)  
 - Fixed bugs at 3 a.m., yelled at spreadsheets, made the final calls
 
@@ -95,7 +98,7 @@ Shannon gave vision, domain knowledge, endurance, and the willingness to keep go
 
 ## Where the Real Story Lives
 
-This README is frozen in amber — a snapshot of the fire when we hit Phase 9.  
+This README is frozen in amber — a snapshot of the fire when we hit Phase 11.  
 The daily war stories, setbacks, wins, and "holy shit we fixed it" moments live here:
 
 - [Full Build Log](./docs/BUILD_LOG.md) — the living, cursing chronicle  

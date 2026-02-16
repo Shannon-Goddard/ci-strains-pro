@@ -62,6 +62,56 @@
 
 ---
 
+## Automated Extraction from strain_name_raw
+
+### Version Markers
+**Pattern:** `\b(Fast|V\d+|S\d+|F\d+|BX\d+|XXL|XL)\b` (case-insensitive)
+- Extracts: Fast, V1-V21, S1-S2, F1-F13, BX1-BX4, XL, XXL
+- Stored in `version` column
+- Keeps `strain_name_display` clean while preserving original markers
+- Coverage: 1,056 strains (5.0%)
+
+### Autoflower Detection
+**Pattern:** `\b(auto|automatic)\b` (case-insensitive)
+- Sets `is_autoflower` = TRUE if detected
+- Sets `is_autoflower` = FALSE if not detected
+- Coverage: 3,967 autoflowers (18.7%)
+
+### CBD Dominant
+**Pattern:** `\bCBD\b` (case-insensitive)
+- Sets `cbd_dominant` = TRUE if "CBD" found in name
+- Sets `cbd_dominant` = FALSE otherwise
+- Coverage: 361 CBD strains (1.7%)
+
+### CBD Level
+**Pattern:** `\b(high cbd|cbd rich|cbd crew)\b` (case-insensitive)
+- Sets `cbd_level` = "High" if detected
+- Otherwise remains NULL (to be filled in Phase 12 from actual CBD data)
+- Coverage: 17 high CBD strains (0.08%)
+
+### CBD Ratio
+**Pattern:** `(\d+:\d+)` (e.g., 1:1, 2:1, 1:20)
+- Extracts THC:CBD ratios from strain names
+- Stored in `cbd_ratio` column
+- Most common: 1:1 (19 strains), 20:1 (4), 1:20 (3)
+- Coverage: 38 strains (0.18%)
+
+### Flowering Type
+**Logic:** Derived from `is_autoflower`
+- `flowering_type` = "Autoflower" if `is_autoflower` = TRUE
+- `flowering_type` = "Photoperiod" if `is_autoflower` = FALSE
+- `flowering_type` = "Unknown" if `is_autoflower` = NULL
+- Replaces need for separate "is_regular" column
+
+### Feminized Detection
+**Pattern:** `\b(fem|feminized|feminised)\b` (case-insensitive)
+- Sets `is_feminized` = TRUE if detected
+- Sets `is_feminized` = FALSE otherwise
+- Independent of flowering type (can be feminized photoperiod OR feminized autoflower)
+- Coverage: 5,911 feminized strains (27.9%)
+
+---
+
 ## S3-to-Vertex Audit Process
 
 ### Input
@@ -109,11 +159,13 @@
 
 ## Transparency Log
 
-**Date:** February 3, 2026  
+**Date:** February 12, 2026  
 **Phase:** 11 - Manual Review & Validation  
-**Approach:** Manual correction → S3-to-Vertex audit → Final review  
-**Columns:** seed_bank_display_manual, breeder_display_manual, strain_name_display_manual  
-**Model:** Gemini 1.5 Pro (gemini-1.5-pro)  
+**Approach:** Manual correction → Automated extraction from strain_name_raw → S3-to-Vertex audit → Final review  
+**Manual Columns:** seed_bank_display, breeder_display, strain_name_display (20+ hours manual review)  
+**Automated Columns:** version, is_autoflower, cbd_dominant, cbd_level, cbd_ratio, flowering_type, is_feminized  
+**Model:** Gemini 1.5 Pro (gemini-1.5-pro) - audit only  
+**Total Strains:** 21,220 (138 non-cannabis items removed)  
 **Cost:** <$0.50 estimated  
 
 **Logic designed by Amazon Q, verified by Shannon Goddard.**

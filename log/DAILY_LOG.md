@@ -251,3 +251,65 @@ Solo dev | Real costs | Real setbacks | Real breakthroughs
 From skeleton to production-ready 21k+ strain dataset in ~18 days.  
 Raw tier Gumroad launch coming soon.  
 🌿 Built with blood, sweat, coffee, Vertex credits, and relentless human-AI teamwork.
+
+
+### Feb 15: Phase 11 – Automated Extraction from strain_name_raw
+- **Phase 11 EXTENDED (Automated Extraction)**
+- **Approach:** Mine strain_name_raw for botanical metadata
+- **Total strains:** 21,220
+
+**Version Markers (✅ COMPLETE)**
+- **Pattern:** Fast, V1-V21, S1-S2, F1-F13, BX1-BX4, XL, XXL
+- **Coverage:** 1,056 strains (5.0%)
+- **Most common:** Fast (336), S1 (143), F2 (124), XL (112)
+- **Output column:** `version`
+- **Purpose:** Preserve original markers while keeping strain_name_display clean
+
+**Autoflower Detection (✅ COMPLETE)**
+- **Pattern:** "Auto" or "Automatic" in strain_name_raw
+- **Updates:** 36 strains corrected to is_autoflower=TRUE
+- **Coverage:** 3,967 autoflowers (18.7%)
+- **Output column:** `is_autoflower` (TRUE/FALSE)
+
+**CBD Dominant (✅ COMPLETE)**
+- **Pattern:** "CBD" keyword in strain_name_raw
+- **Coverage:** 361 CBD strains (1.7%)
+- **Output column:** `cbd_dominant` (TRUE/FALSE)
+- **Result:** 100% coverage (no more NaN values)
+
+**CBD Level (✅ COMPLETE)**
+- **Pattern:** "High CBD", "CBD Rich", "CBD Crew" in strain_name_raw
+- **Coverage:** 17 high CBD strains (0.08%)
+- **Output column:** `cbd_level` (High/NULL)
+- **Note:** NULL values to be filled in Phase 12 from actual CBD data
+
+**CBD Ratio (✅ COMPLETE)**
+- **Pattern:** THC:CBD ratios (1:1, 2:1, 1:20, etc.)
+- **Coverage:** 38 strains (0.18%)
+- **Most common:** 1:1 (19), 20:1 (4), 1:20 (3)
+- **Output column:** `cbd_ratio`
+
+**Flowering Type (✅ COMPLETE)**
+- **Logic:** Derived from is_autoflower
+  - Autoflower if is_autoflower=TRUE
+  - Photoperiod if is_autoflower=FALSE
+  - Unknown if is_autoflower=NULL
+- **Coverage:** 3,967 Autoflower, 17,247 Photoperiod, 6 Unknown
+- **Output column:** `flowering_type`
+- **Purpose:** Replaces need for separate "is_regular" column
+
+**Feminized Detection (✅ COMPLETE)**
+- **Pattern:** "Fem", "Feminized", "Feminised" in strain_name_raw
+- **Coverage:** 5,911 feminized strains (27.9%)
+- **Output column:** `is_feminized` (TRUE/FALSE)
+- **Note:** Independent of flowering_type (can be feminized photoperiod OR feminized autoflower)
+
+**Results:**
+- **New columns added:** 7 (version, cbd_level, cbd_ratio, flowering_type, is_feminized + updated is_autoflower, cbd_dominant)
+- **Total columns:** 54 (was 50)
+- **Methodology updated:** All extraction rules documented
+- **Cost:** $0 (regex extraction from existing data)
+
+**Next:** Shannon reviews new data → Audit script → Phase 12 botanical extraction
+
+**[TBD – momentum building…]**
