@@ -313,3 +313,90 @@ Raw tier Gumroad launch coming soon.
 **Next:** Shannon reviews new data → Audit script → Phase 12 botanical extraction
 
 **[TBD – momentum building…]**
+
+
+### Feb 22: Phase 11 – URL-Based Extraction Pipeline (Recovery & Rebuild)
+- **Context:** Previous merge attempt failed (no backup copy made) → had to reclean strain names & breeders
+- **Lesson learned:** Always make backups before major merges 🤦
+- **Recovery complete:** Rebuilt from pipeline_11_clean.csv
+
+**URL Parsing System (✅ COMPLETE)**
+- **Challenge:** Each seed bank has different URL structures
+- **Solution:** Seed bank-specific parsing logic for all 19 banks
+- **Examples:**
+  - Barney's Farm: Remove trailing numbers (`-700`)
+  - Royal Queen: Remove leading numbers (`494-`)
+  - Cannabis Seeds Bank: Extract from path before `/prod_####`
+  - North Atlantic: Handle numeric-only product IDs
+- **Output column:** `strain_name_from_source_url`
+- **Coverage:** 21,210 strains parsed (99.97%)
+
+**Flowering Type Extraction (✅ COMPLETE)**
+- **Method:** Check both URL path AND extracted strain name
+- **Patterns detected:**
+  - Fast flowering: "fast", "ff", "quick", "rapid", "speed"
+  - Regular: "regular", "reg" + `/regular-seeds/` in URL
+  - Feminized: "feminized", "feminised", "fem" + `/feminized-seeds/` in URL
+  - Autoflower: "auto", "autoflower", "autoflowering" + `/auto` in URL
+- **Results:**
+  - `is_fast_flowering`: 373 TRUE (1.8%)
+  - `is_regular_flowering`: 150 TRUE (0.7%)
+  - `is_feminized_flowering`: 6,315 TRUE (29.8%)
+  - `is_auto_flowering`: 3,774 TRUE (17.8%)
+- **Output:** 4 new boolean columns (TRUE/FALSE strings)
+
+**AKA Names Extraction (✅ COMPLETE)**
+- **Pattern:** Extract text after "AKA", "Aka", "aka" in strain names
+- **Coverage:** 154 AKA names found (0.7%)
+- **Examples:**
+  - `00 Seeds 00 Hashchis Aka 00 Cheese` → AKA: `00 Cheese`
+  - `00 Seeds Auto 00 Hashchis Aka Auto 00 Cheese` → AKA: `Auto 00 Cheese`
+- **Output column:** `aka_strain_names`
+
+**Version Markers Extraction (✅ COMPLETE)**
+- **Patterns:** #1-#420, V1-V3, 2.0-3.5, S1-S2, BX1-BX2, F1-F3, R1-R2, IX1-IX2, Gen 1
+- **Coverage:** 688 versions found (3.2%)
+- **Examples:**
+  - `10Th Planet R1 Feminized Seeds` → `R1`
+  - `22 Feminised Seeds 6 Cc 037 F6` → `F6`
+  - `303 Seeds Bio Diesel Bx2` → `Bx2`
+  - `98 Aloha White Widow S1 Strain` → `S1`
+- **Output column:** `version`
+
+**Data Pipeline (✅ COMPLETE)**
+- **Individual CSVs created:**
+  1. `strain_name_from_source_url_v2.csv` (seed bank-specific parsing)
+  2. `is_fast_flowering.csv`
+  3. `is_regular_flowering.csv`
+  4. `is_feminized_flowering.csv`
+  5. `is_auto_flowering.csv`
+  6. `aka_strain_names.csv`
+  7. `version.csv`
+- **Review file:** `url_extraction_review.csv` (all 7 columns merged)
+- **Final merge:** `pipeline_11_final.csv` (21,216 strains, 58 columns)
+
+**New Columns Added:** 7
+- `strain_name_from_source_url` - Parsed from URL (seed bank-specific logic)
+- `is_fast_flowering` - TRUE/FALSE
+- `is_regular_flowering` - TRUE/FALSE
+- `is_feminized_flowering` - TRUE/FALSE
+- `is_auto_flowering` - TRUE/FALSE
+- `aka_strain_names` - Alternative names from URLs
+- `version` - Version markers (F1, S1, BX1, etc.)
+
+**Key Achievements:**
+- ✅ Recovered from failed merge (no data loss)
+- ✅ Built robust seed bank-specific URL parser (19 banks)
+- ✅ Extracted 5 flowering type indicators from URLs
+- ✅ Captured 154 AKA names automatically
+- ✅ Identified 688 version markers
+- ✅ Created modular CSV pipeline for review
+- ✅ Final dataset: 58 columns, 21,216 strains
+
+**Cost:** $0 (pure regex extraction)
+**Time saved:** ~10 hours of manual URL parsing
+**Lesson learned:** ALWAYS BACKUP BEFORE MERGING 🔥
+
+**Next:** Phase 12 – Botanical data extraction
+
+**[TBD – momentum building…]**

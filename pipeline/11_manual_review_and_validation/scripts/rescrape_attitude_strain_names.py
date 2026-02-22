@@ -9,7 +9,7 @@ input_file = "output/pipeline_11_clean.csv"
 output_file = "output/pipeline_11_clean.csv"
 
 print("Reading dataset...")
-df = pd.read_csv(input_file, encoding='utf-8', low_memory=False)
+df = pd.read_csv(input_file, encoding='latin-1', low_memory=False)
 
 attitude_mask = df['seed_bank_display'] == 'The Attitude Seedbank'
 attitude_count = attitude_mask.sum()
@@ -43,10 +43,10 @@ for idx, row_idx in enumerate(attitude_indices):
     strain_name = extract_attitude_strain_name(s3_key)
     
     if strain_name:
-        df.loc[row_idx, 'strain_name_raw_2'] = strain_name
+        df.loc[row_idx, 'strain_name_raw'] = strain_name
 
 # Check results
-fixed = df[attitude_mask]['strain_name_raw_2'].notna().sum()
+fixed = df[attitude_mask]['strain_name_raw'].notna().sum()
 print(f"\nFixed: {fixed:,} / {attitude_count:,} ({(fixed/attitude_count*100):.1f}%)")
 
 # Save
