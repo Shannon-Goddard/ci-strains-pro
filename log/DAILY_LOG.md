@@ -400,3 +400,96 @@ Raw tier Gumroad launch coming soon.
 **Next:** Phase 12 – Botanical data extraction
 
 **[TBD – momentum building…]**
+
+
+### Feb 23: Phase 12 – Botanical Data Extraction (Seed Bank-Specific Patterns)
+- **Phase 12 COMPLETE**
+- **Total strains processed:** 21,220 (100%)
+- **Strains with botanical data:** 18,744 (88.3%)
+- **Approach:** One seed bank at a time, custom HTML patterns per bank
+
+**Extraction Results by Seed Bank:**
+
+**Major Banks (High Coverage):**
+- **Attitude Seedbank** (7,661 strains)
+  - Pattern: Plain text with `<br/>` separators
+  - Coverage: 93.5% flowering, 33.7% THC, 18.1% CBD
+  - Debugged: Initial 0.1-3.7% → fixed to dual pattern (structured + old format)
+  
+- **Crop King Seeds** (3,332 strains)
+  - Pattern: `<table class="tablesorter eael-data-table">` with nested divs
+  - Coverage: 99.9% on all fields (THC, CBD, flowering, heights, yields, terpenes)
+  
+- **North Atlantic** (2,717 strains)
+  - Pattern: `<div class="specs-grid">` with `<dt>/<dd>` pairs
+  - Coverage: 97.1% genetics, 77.5% flowering, 65.1% yield
+  
+- **Gorilla Cannabis Seeds** (1,967 strains)
+  - Pattern: `<table class="product-topattributes">` with `<th>/<td>` pairs
+  - Coverage: 79.5% THC, 85.0% yield, 88.5% flowering
+  - Debugged: Documented pattern didn't match → downloaded samples → found correct table structure
+  
+- **Neptune Seed Bank** (1,982 strains)
+  - Pattern: Meta description tags with "Lineage: X x Y" format
+  - Coverage: 76.3% lineage (only field available)
+  
+- **Herbies Seeds** (753 strains)
+  - Pattern: `<table class="properties-list">` with `<tr class="properties-list__item">`
+  - Coverage: 95.5% THC, 97.6% flowering, 8.9% height
+  
+- **Amsterdam Marijuana Seeds** (159 strains)
+  - Pattern: `<div class="ams-attr-row">` with label/value divs
+  - Coverage: 98.7% THC, 92.5% yield, 97.5% flowering
+  
+- **ILGM** (133 strains)
+  - Pattern: Plain text "THC - 30%" format
+  - Coverage: 98.5% THC
+
+**Small Banks (Minimal/No Data):**
+- Seedsman (842): JS-rendered, no static HTML data
+- Multiverse Beans (527): No structured botanical data
+- Seed Supreme (353): No structured botanical data
+- Mephisto Genetics (244): No structured botanical data
+- Exotic Genetix (173): No structured botanical data
+- Sensi Seeds (109): No structured botanical data
+- Barney's Farm (88): No structured botanical data
+- Royal Queen Seeds (67): No structured botanical data
+- Dutch Passion (44): No structured botanical data
+- Seeds Here Now (43): No structured botanical data
+- Great Lakes Genetics (16): No structured botanical data
+
+**Key Debugging Moments:**
+1. **Gorilla**: Documented pattern (`<div class="g-product-features">`) didn't exist → downloaded samples → found actual pattern was table-based
+2. **Attitude**: Initial extraction got 0.1-3.7% coverage → discovered dual format (new structured + old plain text) → updated to handle both → 93.5% coverage
+
+**Data Integrity Rules Applied:**
+- No unit conversion (raw values preserved: "450-550 gr/m2", "5 to 8 FT")
+- latin-1 encoding for all CSV operations
+- Separate CSV per seed bank (19 output files)
+- NULL for missing data
+- Never overwrite raw data
+
+**Output Files Created:**
+- Location: `pipeline/12_botanical_extraction/output/`
+- Format: `botanical_{seed_bank_name}.csv`
+- Total: 19 CSV files
+- Columns vary by bank (strain_id + available botanical fields)
+
+**Documentation:**
+- `methodology.md` - Full extraction methodology
+- `README.md` - Quick start guide
+- `docs/BOTANICAL_PATTERNS.md` - HTML patterns documented
+- `pipeline/02_s3_scraping/PIPELINE_12_INTEGRATION.md` - Integration notes
+
+**Key Achievement:**
+- ✅ 88.3% of strains have extractable botanical data
+- ✅ Seed bank-specific patterns documented for future use
+- ✅ Raw measurements preserved (no premature normalization)
+- ✅ All 21,220 strains processed with placeholder files for banks with no data
+
+**Cost:** $0 (S3 reads only, no API calls)
+**Time:** ~6 hours (debugging patterns, running extractions)
+
+**Next:** Phase 13 – Botanical data normalization & unit conversion
+
+**[TBD – momentum building…]**

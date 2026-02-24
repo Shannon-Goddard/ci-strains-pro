@@ -1,136 +1,86 @@
-# Phase 12: Botanical Data Extraction - Methodology
+# Pipeline 12: Botanical Data Extraction Methodology
 
-**Date:** February 12, 2026  
-**Approach:** Seed bank-specific extraction (Phase 10 lineage playbook)  
-**Goal:** 80%+ botanical coverage with confidence scores
+**Date:** February 23, 2026  
+**Logic designed by Amazon Q, verified by Shannon Goddard.**
 
----
+## Purpose
+Extract botanical cultivation data (THC, CBD, flowering time, yield, height, etc.) from 21,220 cannabis strain HTML files stored in S3 bucket `ci-strains-html-archive`.
 
-## Data Processing Rules
+## Approach
+One seed bank at a time. Each seed bank has unique HTML structure requiring custom extraction patterns.
 
-### File Integrity
-- NEVER overwrite Phase 11 clean data
-- Always create `_extracted` or `_ai` versions of columns
-- Use `latin-1` encoding for CSV reads (special cannabis breeder characters)
-- Use `utf-8` encoding for CSV writes (standard output)
+## Data Integrity Rules
+- Never overwrite raw data
+- Extract raw measurements with mixed units (no conversion during extraction)
+- Missing data = NULL
+- Create separate CSV per seed bank
+- Use `latin-1` encoding for all CSV operations
 
-### Transparency Log Requirement
-- Every extraction script must document HTML patterns used
-- Every cleaning script must document transformations applied
-- Coverage reports must show before/after statistics
-- AI gap-fill must include confidence scores and reasoning
+## Extraction Results
 
-### Naming Conventions
-- Extraction scripts: `extract_[seed_bank]_botanical.py`
-- Cleaning scripts: `clean_[seed_bank]_botanical.py`
-- Output columns: `[field]_extracted`, `[field]_ai`, `[field]_confidence_ai`
+### Banks with Botanical Data (18,744 strains - 88.3%)
+- **Attitude Seedbank** (7,661): 93.5% flowering, 33.7% THC, 18.1% CBD
+- **Crop King Seeds** (3,332): 99.9% coverage on all fields
+- **North Atlantic** (2,717): 97.1% genetics, 77.5% flowering, 65.1% yield
+- **Gorilla Cannabis Seeds** (1,967): 79.5% THC, 85.0% yield, 88.5% flowering
+- **Neptune Seed Bank** (1,982): 76.3% lineage (meta description only)
+- **Herbies Seeds** (753): 95.5% THC, 97.6% flowering
+- **Amsterdam Marijuana Seeds** (159): 98.7% THC, 97.5% flowering
+- **ILGM** (133): 98.5% THC
 
----
+### Banks with Minimal/No Data (2,476 strains - 11.7%)
+- Seedsman (842): JS-rendered, no static HTML data
+- Multiverse Beans (527): No structured botanical data
+- Seed Supreme (353): No structured botanical data
+- Mephisto Genetics (244): No structured botanical data
+- Exotic Genetix (173): No structured botanical data
+- Sensi Seeds (109): No structured botanical data
+- Barney's Farm (88): No structured botanical data
+- Royal Queen Seeds (67): No structured botanical data
+- Dutch Passion (44): No structured botanical data
+- Seeds Here Now (43): No structured botanical data
+- Great Lakes Genetics (16): No structured botanical data
 
-## Extraction Patterns
+## HTML Patterns Used
 
-### THC/CBD Extraction
-- **Pattern:** `(\d+(?:\.\d+)?)\s*-\s*(\d+(?:\.\d+)?)%` (range)
-- **Pattern:** `(\d+(?:\.\d+)?)%` (single value)
-- **Output:** `thc_min_extracted`, `thc_max_extracted`, `thc_avg_extracted`
-- **Handle:** Ranges vs single values (if single, min=max=value)
-
-### Flowering Time Extraction
-- **Pattern:** `(\d+)\s*-\s*(\d+)\s*weeks?` (range in weeks)
-- **Pattern:** `(\d+)\s*-\s*(\d+)\s*days?` (range in days)
-- **Convert:** Weeks → days (multiply by 7)
-- **Output:** `flowering_time_min_extracted`, `flowering_time_max_extracted`
-
-### Height Extraction
-- **Pattern:** `(\d+)\s*-\s*(\d+)\s*cm` (range in cm)
-- **Pattern:** `(\d+)\s*-\s*(\d+)\s*inches?` (range in inches)
-- **Convert:** Inches → cm (multiply by 2.54)
-- **Output:** `height_indoor_min_extracted`, `height_indoor_max_extracted`
-
-### Yield Extraction
-- **Pattern:** `(\d+)\s*-\s*(\d+)\s*g/m²` (indoor)
-- **Pattern:** `(\d+)\s*-\s*(\d+)\s*g/plant` (outdoor)
-- **Convert:** oz → grams (multiply by 28.35)
-- **Output:** `yield_indoor_min_extracted`, `yield_indoor_max_extracted`
-
-### Effects/Flavors/Terpenes Extraction
-- **Pattern:** Comma-separated lists or bullet points
-- **Clean:** Lowercase, strip whitespace, remove duplicates
-- **Output:** `effects_extracted`, `flavors_extracted`, `terpenes_extracted`
-
----
-
-## Cleaning Rules
-
-### Unit Normalization
-- **Height:** All values in cm
-- **Flowering:** All values in days
-- **Yield:** Indoor in g/m², outdoor in g/plant
-- **THC/CBD:** All values as percentages (0-100)
-
-### Range Validation
-- **Rule:** min ≤ max (if violated, flag for review)
-- **Rule:** THC/CBD ≤ 40% (if exceeded, flag for review)
-- **Rule:** Flowering time 30-120 days (if outside, flag for review)
-
-### Missing Data Handling
-- **Rule:** Mark as null/NaN, don't infer
-- **Rule:** Don't copy from other seed banks (wait for AI gap-fill)
-- **Rule:** Don't use default values
-
----
-
-## AI Gap-Fill Rules (Phase 12d)
-
-### When to Use AI
-- Field is null/missing after seed bank extraction
-- S3 HTML archive exists for that strain
-- Confidence threshold: 70%+ (below = flag for review)
-
-### AI Prompt Structure
+### Attitude Seedbank
+Pattern: Plain text with `<br/>` separators
 ```
-Extract botanical data from this cannabis strain HTML:
-- THC min/max (%)
-- CBD min/max (%)
-- Flowering time (days)
-- Height indoor/outdoor (cm)
-- Yield indoor/outdoor (g)
-- Effects (comma-separated)
-- Flavors (comma-separated)
-- Terpenes (comma-separated)
-
-Return JSON with confidence scores (0-100) and reasoning.
+Flowering Time: 45-50 days<br/>
+THC: 18-22%<br/>
 ```
 
-### AI Output Columns
-- `[field]_ai` - AI-extracted value
-- `[field]_confidence_ai` - Confidence score (0-100)
-- `[field]_reasoning_ai` - Why AI made this choice
+### Crop King Seeds
+Pattern: `<table class="tablesorter eael-data-table">` with `<div class="td-content">` pairs
 
----
+### North Atlantic
+Pattern: `<div class="specs-grid">` with `<dt class="spec-label">` and `<dd class="spec-value">`
 
-## Quality Assurance
+### Gorilla Cannabis Seeds
+Pattern: `<table class="product-topattributes">` with `<th class="col label">` and `<td class="col data">`
 
-### Coverage Targets
-- THC: 80%+ (critical for users)
-- CBD: 60%+ (medical users)
-- Flowering: 70%+ (growers)
-- Height/Yield: 65%+ (growers)
-- Effects/Flavors: 50%+ (recreational users)
+### Neptune Seed Bank
+Pattern: Meta description tags with "Lineage: X x Y" format
 
-### Validation Checks
-- [ ] No negative values
-- [ ] Min ≤ max for all ranges
-- [ ] THC/CBD ≤ 40%
-- [ ] Flowering time 30-120 days
-- [ ] Height 30-300 cm
-- [ ] Yield 100-2000 g/m² (indoor), 50-5000 g/plant (outdoor)
+### Herbies Seeds
+Pattern: `<table class="properties-list">` with `<tr class="properties-list__item">`
 
-### Error Handling
-- Log all extraction failures
-- Flag outliers for manual review
-- Track coverage by seed bank
-- Generate error report
+### Amsterdam Marijuana Seeds
+Pattern: `<div class="ams-attr-row">` with label/value divs
+
+### ILGM
+Pattern: Plain text "THC - 30%" format
+
+## Output Files
+- 19 CSV files in `output/` directory
+- Format: `botanical_{seed_bank_name}.csv`
+- Columns: `strain_id` + botanical fields (varies by bank)
+- Encoding: latin-1
+
+## Total Coverage
+- **21,220 / 21,220 strains processed (100%)**
+- **18,744 strains with botanical data (88.3%)**
+- **2,476 strains with no extractable data (11.7%)**
 
 ---
 

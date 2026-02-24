@@ -1,0 +1,2 @@
+# This file ensures the input directory is tracked by git
+# Input files will reference pipeline/12_botanical_extraction/output/
