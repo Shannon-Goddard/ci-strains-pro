@@ -1,0 +1,11 @@
+strain_id,thc_raw,flowering_raw,height_raw,thc_min,thc_max,thc_avg,cbd_min,cbd_max,cbd_avg,flowering_days_min,flowering_days_max,flowering_days_avg,height_indoor_cm_min,height_indoor_cm_max,height_outdoor_cm_min,height_outdoor_cm_max,yield_indoor_g_m2_min,yield_indoor_g_m2_max,yield_outdoor_g_plant_min,yield_outdoor_g_plant_max
+2b38e7e8-a814-4621-bc39-289570f6d115,20 - 25%,70 - 84 days,,20.0,25.0,22.5,,,,70.0,84.0,77.0,,,,,,,,
+6e463ece-4807-45cc-91cc-89facf3bd1e7,,45 - 55 days,,,,,,,,45.0,55.0,50.0,,,,,,,,
+7a232643-f04d-4a1b-a84d-188c351d0a64,15%,63 - 70 days,,15.0,15.0,15.0,,,,63.0,70.0,66.5,,,,,,,,
+83053a5a-a0b2-4b3b-a578-ee095e5bef3c,16.22%,91 - 98 days,,16.22,16.22,16.22,,,,91.0,98.0,94.5,,,,,,,,
+da5b74e3-4e14-401a-9c9f-9495881346ef,15 - 22%,42 days,,15.0,22.0,18.5,,,,42.0,42.0,42.0,,,,,,,,
+1bf2235e-279d-427b-8f33-246978b51962,20%,56 - 63 days,,20.0,20.0,20.0,,,,56.0,63.0,59.5,,,,,,,,
+730e6ffe-5fb9-4e94-872c-3566f6ef4588,17.53%,84 - 91 days,,17.53,17.53,17.53,,,,84.0,91.0,87.5,,,,,,,,
+5034efb7-f71a-4b5d-a3eb-c6102b3c3b80,13.29%,70 days,,13.29,13.29,13.29,,,,70.0,70.0,70.0,,,,,,,,
+5efa7815-5850-401a-a721-b8c3fb56e423,25 - 30%,56 - 70 days,,25.0,30.0,27.5,,,,56.0,70.0,63.0,,,,,,,,
+7d4844be-4538-41fd-80e0-9eeb9b44db1f,26%,60 - 70 days,,26.0,26.0,26.0,,,,60.0,70.0,65.0,,,,,,,,

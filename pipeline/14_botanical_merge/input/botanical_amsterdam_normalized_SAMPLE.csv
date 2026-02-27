@@ -1,0 +1,11 @@
+strain_id,thc_raw,yield_raw,flowering_raw,thc_min,thc_max,thc_avg,cbd_min,cbd_max,cbd_avg,flowering_days_min,flowering_days_max,flowering_days_avg,height_indoor_cm_min,height_indoor_cm_max,height_outdoor_cm_min,height_outdoor_cm_max,yield_indoor_g_m2_min,yield_indoor_g_m2_max,yield_outdoor_g_plant_min,yield_outdoor_g_plant_max
+404c1743-5b66-41d1-b492-856af2138931,Up to 21%,Average,Fast (6-10 weeks),21.0,21.0,21.0,,,,42.0,70.0,56.0,,,,,,,,
+436208dd-9101-4da5-bc7b-f4cffb46add2,Up to 30%,Average,Fast (6-10 weeks),30.0,30.0,30.0,,,,42.0,70.0,56.0,,,,,,,,
+741608c9-8a62-45c9-97d3-d1a22170ecad,Up to 23%,High,Fast (6-10 weeks),23.0,23.0,23.0,,,,42.0,70.0,56.0,,,,,,,,
+0096fef0-9066-48ad-bcc1-f73a541db7fd,Up to 20%,Average,Fast (6-10 weeks),20.0,20.0,20.0,,,,42.0,70.0,56.0,,,,,,,,
+2db127f3-8bfe-4099-81e9-ce0aae7feeb2,Up to 15%,High,Fast (6-10 weeks),15.0,15.0,15.0,,,,42.0,70.0,56.0,,,,,,,,
+6af19699-a6c2-4ff0-b164-07ed0c5ff2a6,Up to 21%,High,Average (8-12 weeks),21.0,21.0,21.0,,,,56.0,84.0,70.0,,,,,,,,
+821f4358-7620-4f1a-abc3-4d010731ba96,Up to 30%,High,,30.0,30.0,30.0,,,,,,,,,,,,,,
+83448770-4bd5-4974-815b-d77914d5ee54,Up to 23%,High,Fast (6-10 weeks),23.0,23.0,23.0,,,,42.0,70.0,56.0,,,,,,,,
+856d4882-4de5-4f50-a9e4-44e7db0f999d,Up to 25%,High,Fast (6-10 weeks),25.0,25.0,25.0,,,,42.0,70.0,56.0,,,,,,,,
+8683b4d8-5a53-48ca-8c35-e7285ad4c31f,Up to 15%,High,Fast (6-10 weeks),15.0,15.0,15.0,,,,42.0,70.0,56.0,,,,,,,,

@@ -217,118 +217,175 @@ Transform the Cannabis Intelligence Database from a research proof-of-concept in
 ---
 
 ## 📋 Phase 13.5: Dataset Generation (PLANNED)
-**Timeline**: March 2026 | **Output**: 3 Commercial Datasets
+**Timeline**: March 2026 | **Output**: 4 Commercial Products
 
-### Strategy: Clean → Filtered → Filled
+### Strategy: Clean → Deduplicated → AI-Enhanced → White-Label
 
-**13.5a: Dataset 1 - CLEAN (Verified)**
+**13.5a: Product 1 - VERIFIED ($799)**
 - [ ] Export Phase 13 verified output as-is
-- [ ] 21,361 strains (all seed banks, all variants)
-- [ ] 100% verified identity columns (GOLD tier)
-- [ ] 76.1% lineage coverage (SILVER tier)
-- [ ] 80%+ botanical coverage with confidence scores (BRONZE tier)
+- [ ] 21,220 strains (all seed banks, all variants)
+- [ ] 100% verified identity columns (seed bank, breeder, strain name)
+- [ ] 76.1% lineage coverage
+- [ ] 80%+ botanical coverage with confidence scores
+- [ ] Gemini-generated descriptions (100% coverage)
 - [ ] Every field has audit trail back to S3 HTML
-- [ ] Create `data_quality_report.md`
+- [ ] Create `DATA_DICTIONARY.md` (all columns explained)
+- [ ] Create `README.md` (quick start guide)
+- [ ] Create `LICENSE.txt` (research/personal use only, must cite DOI)
+- [ ] Create `CITATION.txt` (DOI + BibTeX)
 - [ ] Create 100-strain sample for preview
-- **Use case:** Researchers, seed bank comparison, price shopping
+- **Target buyer:** Researchers, serious growers, data analysts
+- **License:** Research/personal use only. No commercial use. No redistribution.
 
-**13.5b: Dataset 2 - FILTERED (Master Strains)**
-- [ ] Deduplication logic: `breeder_display_manual` + `strain_name_standardized`
-- [ ] Merge strategy:
-  - **Ranges**: THC/CBD/flowering/height/yield (merge min/max across sources)
-  - **Most filled**: Effects/flavors/terpenes (union of all values)
-  - **First verified**: Lineage (flag conflicts for review)
-- [ ] Add `available_at` column (array of seed banks carrying this strain)
-- [ ] Add `lineage_variants` column (strains with same parent genetics)
-- [ ] Add `source_count` column (how many seed banks verified this data)
-- [ ] Estimated output: ~3,000-5,000 unique strains
+**13.5b: Product 2 - CONNECTED ($3,999)**
+- [ ] Deduplication logic: `strain_name + breeder + version`
+- [ ] Estimated output: ~20,720 unique strains
+- [ ] Everything from Product 1
+- [ ] + `lineage_network` column (strains with same parents)
+- [ ] + Generation markers (F1, BX, S1) included
+- [ ] + `available_at` column (which seed banks carry this strain)
 - [ ] Create 100-strain sample for preview
-- **Use case:** Growers, strain selection, lineage research
+- **Target buyer:** Breeders, genetics researchers, seed banks
+- **License:** Full commercial use (internal only). Cannot resell dataset.
 
-**13.5c: Dataset 3 - FILLED (100% Complete)**
-- [ ] Start with Dataset 2 (deduplicated master strains)
+**13.5c: Product 3 - COMPLETE ($9,999)**
+- [ ] Start with Product 2 (deduplicated)
 - [ ] Gemini Flash fills 100% of missing botanical data
+- [ ] Add AI-enhanced columns: `thc_avg_ai`, `cbd_avg_ai`, etc.
+- [ ] Add reasoning columns: `thc_avg_reasoning`, `cbd_avg_reasoning`, etc.
 - [ ] Add `_source` tags: "verified" or "ai_inferred" for each field
-- [ ] Add confidence scores on all AI-filled fields
-- [ ] Maintain audit trail for AI inferences
+- [ ] Maintain full audit trail for AI inferences
 - [ ] Create 100-strain sample for preview
-- **Use case:** App developers, ML training, commercial applications
+- **Target buyer:** App developers, commercial operations, enterprises
+- **License:** Full commercial use (internal only). Cannot resell dataset.
 
-**Naming & Pricing**: TBD after datasets complete (will assess actual value)
+**13.5d: Product 4 - WHITE-LABEL ($24,999)**
+- [ ] Everything in Product 3 (COMPLETE)
+- [ ] Custom white-label license agreement
+- [ ] Rebrand rights (can display as "[Company] Strain Database")
+- [ ] Can use in customer-facing products/websites/apps
+- [ ] Cannot resell raw dataset to third parties
+- [ ] Perpetual license (one-time payment)
+- [ ] Inquiry-only (not listed publicly, custom negotiation)
+- **Target buyer:** Seed banks, dispensary chains, cannabis apps, multi-location businesses
+- **License:** Full commercial use + rebrand rights. Cannot resell raw data.
 
 ---
 
-## 📋 Phase 14: Gumroad Launch (All Tiers) (PLANNED)
+## 📋 Phase 14: Lemon Squeezy Launch (PLANNED)
 **Timeline**: April 2026 | **Revenue Target**: $50,000+
 
-### Launch Requirements (100% Data + API)
+### Product Lineup (CSV Downloads Only - No API)
 
-**Data Tiers**:
-- **GOLD Tier**: Identity columns (seed bank, breeder, strain name) - 100% verified
-- **SILVER Tier**: Lineage data (76.1% coverage) - High value
-- **BRONZE Tier**: Botanical data (80%+ coverage) - AI extracted + validated
+**Product 1: VERIFIED - $799**
+- 21,220 strains (all variants)
+- Validated, traceable, descriptions included
+- Research/personal use only, must cite DOI
+- **Target:** Researchers, serious growers
 
-**All tiers include**:
-- Confidence scores per field
-- Audit trail (source HTML proof)
-- S3 archive access
-- Documentation package
+**Product 2: CONNECTED - $3,999**
+- ~20,720 unique strains (deduplicated by strain+breeder+version)
+- Everything in VERIFIED + lineage network + generation markers
+- Full commercial use (internal only)
+- **Target:** Breeders, seed banks, commercial growers
+
+**Product 3: COMPLETE - $9,999**
+- Everything in CONNECTED + 100% AI-filled data with reasoning columns
+- Full commercial use (internal only)
+- **Target:** App developers, enterprises
+
+**Product 4: WHITE-LABEL - $24,999**
+- Everything in COMPLETE + rebrand rights
+- Perpetual license, inquiry-only (custom negotiation)
+- **Target:** Seed banks, dispensary chains, cannabis apps
+
+### What Each Buyer Gets
+- CSV file(s) with complete dataset
+- DATA_DICTIONARY.md (every column explained)
+- README.md (quick start guide)
+- LICENSE.txt (usage terms)
+- CITATION.txt (DOI + BibTeX citation)
+- SAMPLE_QUERIES.md (example use cases)
 
 ### Critical Tasks (Before Launch)
-- [ ] Complete Phase 11-13.5 (3 datasets ready)
-- [ ] Build API infrastructure
-- [ ] Finalize dataset names and pricing based on actual output
-- [ ] Create `SAMPLE_DATA.csv` for each dataset (100 strains)
-- [ ] Create `GETTING_STARTED.md` (1-page quick start)
-- [ ] Create `API_DOCS.md` (endpoint documentation)
-- [ ] Create `DATA_QUALITY_REPORT.md` (coverage + confidence scores)
-- [ ] Create `DEDUPLICATION_METHODOLOGY.md` (explain merge strategy)
-- [ ] Set up support@loyal9.app email
-- [ ] Create customer registry spreadsheet
-- [ ] Create `TERMS_OF_SERVICE.md`
-- [ ] Add products to Gumroad (3 datasets + API)
+- [ ] Complete Phase 11-13.5 (4 products ready)
+- [ ] Create DATA_DICTIONARY.md (auto-generated from final CSV)
+- [ ] Create README.md per product
+- [ ] Create LICENSE.txt per product (simple, 1-page)
+- [ ] Create CITATION.txt with DOI
+- [ ] Create SAMPLE_QUERIES.md (filter by THC, find by breeder, etc.)
+- [ ] Create 100-strain sample CSV (free download)
+- [ ] Set up Lemon Squeezy account (5% fee vs Gumroad's 10%)
+- [ ] List Products 1-3 publicly on Lemon Squeezy
+- [ ] Add "Enterprise & White-Label: Contact for pricing" page
+- [ ] Create landing page with sample data + strains.loyal9.app demo
 - [ ] Test purchase flow end-to-end
-- [ ] Launch announcement
+- [ ] Launch announcement (Reddit, Twitter, email list)
 
 ### Revenue Projections (Q2 2026)
-| Product | Strains | Coverage | Price | Est. Sales | Revenue |
-|---------|---------|----------|-------|------------|---------|
-| Dataset 1: CLEAN | 21,361 | 80%+ | $1,500 | 10 | $15,000 |
-| Dataset 2: FILTERED | ~4,000 | 80%+ | $2,500 | 20 | $50,000 |
-| Dataset 3: FILLED | ~4,000 | 100% | $4,500 | 10 | $45,000 |
-| API Access | All | 100% | $99/mo | 50 | $4,950/mo |
-| **Total Q2** | | | | | **$110,000** |
+| Product | Price | Est. Sales | Revenue |
+|---------|-------|------------|---------|
+| VERIFIED | $799 | 3 | $2,397 |
+| CONNECTED | $3,999 | 4 | $15,996 |
+| COMPLETE | $9,999 | 2 | $19,998 |
+| WHITE-LABEL | $24,999 | 1 | $24,999 |
+| **Total Q2** | | **10** | **$63,390** |
 
-*Note: Final pricing and naming will be determined after Phase 13.5 completion based on actual dataset quality and value.*
+**Key insight:** One white-label customer = entire soft launch revenue target.
+
+### Launch Strategy
+**Week 1: Soft Launch**
+- Post on Reddit (r/microgrowery, r/cannabiscultivation, r/datasets)
+- Post on Twitter/X with strains.loyal9.app demo
+- Email anyone who's followed the project
+- Goal: 1-2 sales, validate pricing
+
+**Week 2-4: Marketplace**
+- Drive traffic to Lemon Squeezy via landing page
+- Offer 100-strain sample (free download)
+- Write blog post: "How we verified 21K cannabis strains"
+- Goal: 5-10 sales, $10K-30K revenue
+
+**Month 2: B2B Outreach**
+- Email 20 seed banks: "Want to license this for your site?"
+- Email 10 cannabis apps: "Need strain data?"
+- Post on Datarade (free listing for exposure)
+- Goal: 1-2 white-label deals at $15K-25K each
 
 
 
 ---
 
-## 📋 Phase 15: API Infrastructure (PLANNED)
-**Timeline**: Q2 2026 | **Revenue Target**: $100,000+
+## 📋 Phase 15: Post-Launch Optimization (PLANNED)
+**Timeline**: Q2-Q3 2026 | **Revenue Target**: $100,000+
 
-### 15.1 API Infrastructure
-- [ ] Build Lambda function (Python + FastAPI)
-- [ ] Set up DynamoDB (API keys, usage tracking)
-- [ ] Configure CloudFront (rate limiting: 10/50/100 req/sec)
-- [ ] Create API key generation system
-- [ ] Create `API_DOCS.md`
-- [ ] Test rate limiting and usage tracking
+### 15.1 Market Validation
+- [ ] Track which products sell most
+- [ ] Collect buyer feedback and testimonials
+- [ ] Adjust pricing if needed (can lower, not raise)
+- [ ] Add testimonials to landing page
+- [ ] Monitor where buyers come from (Reddit, Twitter, Datarade, etc.)
 
-### 15.2 API Monetization
-- [ ] Add 3 API subscription products to Gumroad:
-  - Bronze API ($99/month) - 10K calls
-  - Silver API ($299/month) - 50K calls
-  - Gold API ($799/month) - 250K calls
+### 15.2 B2B Expansion
+- [ ] Pursue white-label deals with seed banks
+- [ ] Pursue white-label deals with cannabis apps
+- [ ] List on Datarade for B2B exposure
+- [ ] Consider AWS Data Exchange (if demand exists)
+- [ ] Negotiate custom deals for enterprise buyers
 
-### Revenue Projections (Annual)
-| Tier | Users | Monthly | Annual |
-|------|-------|---------|--------|
-| Bronze API | 50 | $4,950 | $59,400 |
-| Silver API | 10 | $2,990 | $35,880 |
-| Gold API | 2 | $1,598 | $19,176 |
-| **Total API Revenue** | **62** | **$9,538** | **$114,456** |
+### 15.3 Optional: API Development (If Demand Exists)
+- [ ] Build simple query API (Lambda + DynamoDB)
+- [ ] Offer API access as add-on ($99-299/month)
+- [ ] Only build if customers explicitly request it
+- **Decision point:** Don't build API unless 5+ customers ask for it
+
+### Revenue Projections (Q2-Q3 2026)
+| Source | Est. Revenue |
+|--------|-------------|
+| CSV Sales (Products 1-3) | $30,000-50,000 |
+| White-Label Deals (1-3 customers) | $25,000-75,000 |
+| Custom Enterprise Deals | $10,000-30,000 |
+| **Total Q2-Q3** | **$65,000-155,000** |
 
 ---
 
@@ -337,9 +394,11 @@ Transform the Cannabis Intelligence Database from a research proof-of-concept in
 | Year | Phase | Revenue Target | Cumulative |
 |------|-------|----------------|------------|
 | 2026 Q1 | Phase 11-13 | $0 (Data Quality) | $0 |
-| 2026 Q2 | Phase 14-15 | $64,850 | $64,850 |
-| 2026 Q3-Q4 | API Growth | $150,000 | $214,850 |
-| 2027+ | Scale & Expand | $1,000,000+ | $1,214,850+ |
+| 2026 Q2 | Phase 14 Launch | $50,000-100,000 | $50,000-100,000 |
+| 2026 Q3-Q4 | White-Label Growth | $50,000-150,000 | $100,000-250,000 |
+| 2027+ | Scale & Expand | $200,000+ | $300,000-500,000+ |
+
+**Key Insight:** Focus on CSV products + white-label deals. No API unless customers demand it.
 
 ---
 
@@ -359,20 +418,24 @@ Transform the Cannabis Intelligence Database from a research proof-of-concept in
 
 ---
 
-## 📊 Current Status (February 9, 2026)
+## 📊 Current Status (February 2026)
 
-**Phase 11 Progress**:
-- ✅ Seed banks: 100% verified
-- ✅ Breeders: 100% verified (3,994 AI extracted + 489 manual)
-- ✅ Column cleanup: 110 → 47 columns
-- 🚧 Strain names: Manual review in progress
+**Pipeline 17: Gemini Re-Validation (IN PROGRESS)**
+- 🚧 THC validation: 11.8% complete (~26 hours remaining)
+- 📋 CBD, genetics, flowering, height, yield validations: Queued
+- 📋 Manual review/edits: After each validation group
+- 📋 Description generation: Gemini 2.5 Flash (all 21K strains)
+- 📋 Final validation pass: After manual edits
+- 📋 Deduplication: By strain+breeder+version (expected ~20,720 unique)
+- 📋 Lineage network generation: Strains with same parents
+- 📋 AI-enhancement: Logical fill + reasoning columns
 
-**Next Milestone**: Complete strain name review → Phase 12 botanical extraction
+**Next Milestone**: Complete all validations → Manual review → Product generation → Launch
 
-**Launch Blocker**: No Gumroad launch until 100% data + API complete (Phase 14)
+**Launch Target**: April 2026 (Lemon Squeezy, 4 products, CSV-only)
 
 ---
 
-**🌿 From proof of concept to cannabis intelligence empire. Data-driven. Community-focused. Commercially viable.**
+**🌿 From $0.99 apps to $500K+ cannabis intelligence asset. Data-driven. Commercially viable. No competition.**
 
-**📈 Ready to transform cannabis cultivation through intelligent data and real-world documentation.**
+**📈 Ready to launch the world's first verified, traceable cannabis strain database with immutable proof.**

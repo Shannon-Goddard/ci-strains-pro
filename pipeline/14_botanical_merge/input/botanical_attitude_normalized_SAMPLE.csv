@@ -1,0 +1,11 @@
+strain_id,yield_indoor_raw,yield_outdoor_raw,flowering_time_raw,outdoor_harvest_raw,height_indoor_raw,height_outdoor_raw,thc_raw,cbd_raw,thc_min,thc_max,thc_avg,cbd_min,cbd_max,cbd_avg,flowering_days_min,flowering_days_max,flowering_days_avg,height_indoor_cm_min,height_indoor_cm_max,height_outdoor_cm_min,height_outdoor_cm_max,yield_indoor_g_m2_min,yield_indoor_g_m2_max,yield_outdoor_g_plant_min,yield_outdoor_g_plant_max
+3ebb8954-56ee-41bd-8cc1-aabea661dc69,,,,,,,,,,,,,,,,,,,,,,,,,
+61f672bd-7915-47a1-8fae-0d1bc04946cb,,,8.5 -9 Weeks,,,,,,,,,,,,59.5,63.0,61.25,,,,,,,,
+22be2fd0-d6e9-4e61-87e5-adbbeae1a913,,,9 - 10 weeks,,,,CBD Ratio: 1:1 to 1:2,,1.0,2.0,1.25,,,,63.0,70.0,66.5,,,,,,,,
+33ba2887-dfd3-4629-83e2-2f82a8a5a56a,350 - 450 gr/m2,,45 - 50 days,1 - 10 October,85 - 95 cm,180 - 220 cm,22%,,22.0,22.0,22.0,,,,45.0,50.0,47.5,85.0,95.0,180.0,220.0,2.0,450.0,,
+1bc7efac-ba12-4360-8294-b565bfa87782,,,,,,,,,,,,,,,,,,,,,,,,,
+0003728b-0b33-4987-af56-2b60acc3f823,,,60 - 66 days,,,,,,,,,,,,60.0,66.0,63.0,,,,,,,,
+000d29ec-86ad-481a-b3a2-0e514d3713d5,,,,,,,,,,,,,,,,,,,,,,,,,
+002534a8-f248-4c18-b9e3-2d4268ad8af4,500 - 600 g/m2,,,,,,15%,6 - 8%,15.0,15.0,15.0,6.0,8.0,7.0,,,,,,,,2.0,600.0,,
+003bb01e-91b8-47a8-a46e-f77227c271d2,,,,,,,,,,,,,,,,,,,,,,,,,
+003e3094-05e5-465d-a68b-3a84a96199ba,1200-1400 g/plant,,58/63 Days,Late September/ Early October,,,25-27%,&lt; 0.2%,25.0,27.0,26.0,0.2,0.2,0.2,58.0,63.0,60.5,,,,,1200.0,1400.0,,

@@ -1,0 +1,11 @@
+strain_id,genetics_raw,seed_type_raw,growth_type_raw,strain_type_raw,flowering_time_raw,height_raw,yield_raw,terpene_profile_raw,flavor_profile_raw,thc_min,thc_max,thc_avg,cbd_min,cbd_max,cbd_avg,flowering_days_min,flowering_days_max,flowering_days_avg,height_indoor_cm_min,height_indoor_cm_max,height_outdoor_cm_min,height_outdoor_cm_max,yield_indoor_g_m2_min,yield_indoor_g_m2_max,yield_outdoor_g_plant_min,yield_outdoor_g_plant_max
+eb25d23e-aa28-41d8-abbf-2bbe33d99594,Mango Puff Frost Monster Phenotype F5 IBL,Regular,Photoperiod,,55 - 65 days,,Heavy,"Citrus Mango, Earthy, Rotting Fruit",,,,,,,,55.0,65.0,60.0,,,,,,,,
+000da1c0-90f2-4eed-8160-37889421cccf,OG Kush x Skywalker,Feminized,Autoflower,Indica Dominant (60%+),50 - 60 days,60-120 cm,Indoor: 450-600 g/m² Outdoor: 65-200 g/plant,,"Sweet, Fruity, Cypress, Spices, Earthy",,,,,,,50.0,60.0,55.0,60.0,120.0,,,65.0,600.0,,
+00130902-5f50-4ce4-b90c-fd82cd28dfaf,Livers Bx1 x Grape Walker Kush,Feminized,Autoflower,Hybrid,,,,,,,,,,,,,,,,,,,,,,
+0020da1f-3236-4b7d-abb4-49e19a919b28,Green Apple Candy x Green Apple Candy,Feminized,Photoperiod,Sativa Dominant (60%+),75 - 85 days,,High,"β-Caryophyllene, Myrcene, α-Humulene","Tropical, Floral",,,,,,,75.0,85.0,80.0,,,,,,,,
+00325bf5-fbe7-4194-a9af-73a70585b46e,Puffy Payton x Zawtlatti,Regular,Photoperiod,,,,,"Banana Candy, Gas",,,,,,,,,,,,,,,,,,
+004de634-2c04-4d6a-84d3-6eff06647148,Gravy x Zawtlatti,Regular,Photoperiod,,,,,"Gas, Lemon",,,,,,,,,,,,,,,,,,
+0051bbf1-2f2a-47d1-8d2d-ac51147cdac4,Gorilla Glue Auto X Z,Feminized,Autoflower,Indica Dominant (60%+),75 - 85 days,60-140 cm,400g-500g/m2,,"Fruity, Pineapple, Lemon Lime, Sour",,,,,,,75.0,85.0,80.0,60.0,140.0,,,2.0,500.0,,
+00be771a-f65c-4501-9590-a0e242d38974,Jack Herer x Lemon Skunk,Regular,Photoperiod,Sativa Dominant (60%+),56 - 70 days,,,"Tart Lemons, Skunk, Spruce Trees",,,,,,,,56.0,70.0,63.0,,,,,,,,
+00da3912-7127-478c-95bc-c1c143173dda,Unknown Bubba x Dosi Punch,Feminized,Photoperiod,,45 - 55 days,Short-Medium,,"Synthetic blueberry, hashy, earthy",,,,,,,,45.0,55.0,50.0,,,,,,,,
+0102a55b-0e63-4ed0-84c2-78afda22bb9b,World Breeders Select Clementine Phenotype x The Cali Connection Pre-98 Bubba Kush reversed male,Feminized,Photoperiod,,,,300- 900 gpsm,,"Clementine Citrus, Chocolate, Coffee, Hash Oil",,,,,,,,,,,,,,300.0,900.0,,

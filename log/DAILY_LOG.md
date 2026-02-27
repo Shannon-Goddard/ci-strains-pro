@@ -493,3 +493,47 @@ Raw tier Gumroad launch coming soon.
 **Next:** Phase 13 – Botanical data normalization & unit conversion
 
 **[TBD – momentum building…]**
+
+
+### Feb 27: Pipelines 13-16 – Data Cleaning & Consolidation
+- **Pipelines 13-16 COMPLETE**
+- **Total strains:** 21,210 (final count after cleanup)
+- **Approach:** Normalize botanical data, merge extractions, clean dataset
+
+**Pipeline 13: Botanical Data Normalization**
+- Normalized units (cm, grams, days)
+- Fixed encoding issues
+- Standardized formats
+- Validated ranges (min < max)
+
+**Pipeline 14: Data Merging**
+- Merged botanical extractions from 19 seed banks
+- Combined with identity columns (Phase 11)
+- Combined with lineage data (Phase 10)
+- Resolved conflicts across sources
+
+**Pipeline 15: Data Quality Audit**
+- Generated data quality report
+- Identified inconsistencies and outliers
+- Flagged suspicious values for review
+- Created audit trail for all fields
+
+**Pipeline 16: Final Cleanup**
+- Removed duplicate columns
+- Standardized column names
+- Applied final data quality rules
+- Output: `pipeline_16_cleaned.csv` (21,210 strains, 53 columns)
+
+**Pipeline 17: Gemini Validation Attempt**
+- Ran THC validation on all 21,210 strains (~30 hours)
+- Results: 95% error rate (19/20 manual checks failed)
+- Issue: Gemini hallucinating values not in HTML
+- Decision: Scrapping Gemini validation approach
+- Keeping original extractions (more accurate than AI validation)
+
+**Next Steps:**
+- Shannon to review Pipeline 15 audit notes
+- Manual edits based on audit findings
+- Move to product generation (skip further Gemini validation)
+
+**[TBD – momentum building…]**
