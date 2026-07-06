@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 from google import genai
 from google.genai.types import Tool, GenerateContentConfig, UrlContext
@@ -8,7 +9,7 @@ import sys
 sys.stdout.reconfigure(encoding='utf-8')
 
 # --- CONFIGURATION ---
-PROJECT_ID = "gen-lang-client-0100184589"
+PROJECT_ID = os.environ["GCP_PROJECT_ID"]
 LOCATION = "us-central1"
 INPUT_FILE = r"c:\Users\uthin\OneDrive\Desktop\ci-strains-pro\pipeline\17_gemini_revalidation\input\pipeline_16_cleaned.csv"
 OUTPUT_FILE = r"c:\Users\uthin\OneDrive\Desktop\ci-strains-pro\pipeline\17_gemini_revalidation\output\full_validation_results.json"

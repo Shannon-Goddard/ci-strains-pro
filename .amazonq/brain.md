@@ -1,77 +1,59 @@
-# Cannabis Intelligence Strains Pro - Amazon Q Brain
+# CI-Strains-Pro — Amazon Q Brain
 
 ## Project Context
-- **Cannabis Intelligence Database**: 21,706 validated strains with AI-enhanced breeding data
-- **S3 HTML Archive**: 21,706 HTML files (20,695 static + 1,011 JS-rendered) from 20 seed banks
-- **Latest Achievement**: Phase 4 Source of Truth Viewer LIVE at strains.loyal9.app
-- **Tech Stack**: Python, GraphQL, BrightData, ScrapingBee, AWS (S3/CloudFront/Lambda/Secrets Manager), Gemini 2.0 Flash
+- **Dataset**: 21,282 verified cannabis strains × 51 columns
+- **S3 HTML Archive**: 21,706 HTML files from 19 seed banks (source of truth)
+- **License**: CC BY 4.0 (data) / MIT (code) — free and open
+- **Status**: Dataset complete and published. Validation refinements pending.
+- **Tech Stack**: Python, AWS (S3/CloudFront/Lambda/Secrets Manager), Gemini 2.0 Flash, boto3
 
-## Current Phase: Phase 5 - Master Dataset Consolidation
-- **Phase 4 COMPLETE**: Enterprise-grade HTML viewer with signed URLs, legal framework, GA4 tracking
-- **Live Production**: https://strains.loyal9.app (CloudFront + Lambda + S3)
-- **Infrastructure Cost**: $0.40/month (Secrets Manager only, all else free tier)
-- **Next Phase**: Merge 20 seed bank CSVs into unified master dataset with _raw, _cleaned, _ai columns
+## Current State (July 2026)
+- Pipeline phases 1–18 complete
+- Final dataset: `raw-data.csv` (21,282 strains × 51 columns)
+- Identity fields 100% human-verified (strain name, breeder, seed bank)
+- Lineage coverage: 76.1%
+- Botanical data: 88.3% coverage
+- S3 HTML validation: 91.8% success (19,475/21,210)
+- 691 high-confidence corrections identified, pending apply
+- V2 validation script prepared but not yet executed
+- Commercial terms removed — data is free under CC BY 4.0
 
-## Key Recent Achievements
-- ✅ **Phase 4 LIVE**: Source of Truth Viewer deployed in under 2 minutes (11 files, zero errors)
-- ✅ **CloudFront Distribution**: Free-tier CDN with 5-minute signed URLs (EYOCL6B8MFZ7F)
-- ✅ **Lambda Function**: ci-strains-lookup with URL validation + signed URL generation
-- ✅ **Legal Framework**: Fair use assertion, opt-out process, federal law notice (HTML version)
-- ✅ **Custom Domain**: strains.loyal9.app with SSL (AWS Certificate Manager + Squarespace DNS)
-- ✅ **Security**: Private S3 bucket, Origin Access Control, Secrets Manager for CloudFront key
-- ✅ **Frontend**: GA4 tracking (G-YN2FMG2XT8), seed bank filters, legal disclaimer modal
-- ✅ **JavaScript Rescrape**: 1,011/1,011 URLs (ILGM + Seedsman) with 100% success rate
-- ✅ **Total Extraction**: 21,706 strains across 20 seed banks - ALL COMPLETE
+## Infrastructure
+- **S3 Bucket**: `ci-strains-html-archive`
+  - `/html/` — 20,695 static HTML files
+  - `/html_js/` — 1,011 JS-rendered files (ILGM, Seedsman)
+  - `/frontend/` — Source of Truth Viewer
+- **CloudFront**: `ci-strains-source-of-truth` (EYOCL6B8MFZ7F)
+  - Currently serving: strains.loyal9.app
+- **Lambda**: `ci-strains-lookup` (Python, URL validation + signed URL generation)
+- **Secrets Manager**: CloudFront private key for signed URLs
 
-## Data Enhancement Strategy
-**Triple-Layer Pipeline**:
-1. **Round 1 (Amazon Q)**: Enhanced extraction from descriptions/URLs using pattern recognition
-2. **Round 2 (Gemini Flash 2.0)**: AI verification and additional data mining
-3. **Round 3 (Shannon)**: Manual domain expert review and validation
+## Domain Migration (Deferred)
+- Current: `strains.loyal9.app`
+- Target: `strains.poweredbyci.live`
+- 51 references mapped across project files
+- Will require: new ACM cert, CloudFront alternate domain, CORS update in Lambda, bulk find-replace in docs
+- Separate repo `ci-strains-pro-landing` will serve the grower-facing strain tool
 
-## Technical Infrastructure
-- **S3 HTML Archive**: `ci-strains-html-archive` bucket
-  - `/html/` - 20,695 static HTML files
-  - `/html_js/` - 1,011 JS-rendered files (ILGM, Seedsman)
-  - `/frontend/` - Source of Truth Viewer (index.html, app.js, styles.css, docs/)
-  - `/pipeline/03_s3_inventory/` - Inventory CSVs (s3_html_inventory.csv, s3_js_html_inventory.csv)
-- **CloudFront Distribution**: `ci-strains-source-of-truth` (EYOCL6B8MFZ7F)
-  - Domain: strains.loyal9.app
-  - SSL: AWS Certificate Manager (validated via Squarespace DNS)
-  - Origin Access Control (OAC) for private S3 access
-- **Lambda Function**: `ci-strains-lookup` (Python 3.14, 512MB, 30s timeout)
-  - Function URL: https://wdl3umx2og7kdf447gfhaebpme0owqcb.lambda-url.us-east-1.on.aws/
-  - Handler: lookup_function.lambda_handler
-  - Dependencies: boto3, rsa (CloudFront signing)
-- **AWS Secrets Manager**: `cloudfront_private_key` (CloudFront key pair: APKASPK2KPPM2XK4DMPI)
-- **DynamoDB**: `cannabis-strains-universal` table for structured data
-- **CSV Exports**: 20 seed bank CSVs ready for Phase 5 consolidation
-- **AWS Secrets**: BrightData, ScrapingBee, Google Cloud API credentials
-- **Pipeline Structure**: `pipeline/05_master_dataset/` (ready for column analysis)
+## Pending Work
+1. Apply 691 high-confidence corrections from V1 validation
+2. Run V2 validation (`validate_s3_html_v2.py`) with improved standardization rules
+3. Review 387 low-confidence corrections manually
+4. Domain migration (when ready)
+5. `.amazonq/brain.md` domain refs will update with bulk sweep
 
 ## Data Quality Standards
-- **Transparency Requirement**: Every script generates methodology.md
-- **Attribution**: "Logic designed by Amazon Q, verified by Shannon Goddard"
-- **File Integrity**: Never overwrite raw data, create `_cleaned` versions
-- **Encoding**: `latin-1` for CSV reads (cannabis breeder characters)
+- Every data point traceable to timestamped HTML archive in S3
+- Never overwrite raw data — create cleaned versions
+- Encoding: `latin-1` for CSV reads (cannabis breeder characters)
+- Triple validation: extraction → AI validation → manual review
 
-## Current Status
-- **Phase 1**: ✅ COMPLETE (Foundation Database - 15K strains)
-- **Phase 2**: ✅ COMPLETE (Source of Truth & Inventory - 14,840 URLs mapped)
-- **Phase 3**: ✅ COMPLETE (Enhanced S3 Extraction - 21,706 strains across 20 seed banks)
-- **Phase 4**: ✅ COMPLETE (Source of Truth Viewer LIVE at strains.loyal9.app)
-- **Phase 5**: 🎯 READY TO BEGIN (Master Dataset Consolidation)
-- **Target**: Single unified CSV with _raw, _cleaned, _ai columns for API deployment
-- **Goal**: World's most comprehensive cannabis genetics database with proof of authenticity
+## Environment Variables Required
+- `GCP_PROJECT_ID` — for Gemini validation scripts in pipeline 17
 
-## Next Immediate Steps
-1. Copy 20 seed bank CSVs into `pipeline/05_master_dataset/input/`
-2. Run column analysis script (Seed Supreme has ~1,400 headers - don't pre-filter)
-3. Create unified schema with column mapping rules
-4. Merge all CSVs with _raw suffix preservation
-5. Implement data cleaning and standardization
-6. Calculate quality/completeness scores
-7. Design API endpoints and deploy to AWS
-8. Add search functionality to strains.loyal9.app frontend
-
-**Mission**: Establishing the global standard for validated botanical data through Human-AI partnership.
+## Key Files
+- `raw-data.csv` — the published dataset
+- `DATA_LICENSE.md` — CC BY 4.0 terms
+- `log/DAILY_LOG.md` — full build chronicle
+- `pipeline/17_gemini_revalidation/scripts/validate_s3_html_v2.py` — next validation to run
+- `pipeline/18_full_validation/output/high_confidence_corrections.csv` — pending corrections

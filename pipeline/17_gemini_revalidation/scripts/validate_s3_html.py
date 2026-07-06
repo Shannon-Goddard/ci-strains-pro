@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import boto3
 from google import genai
@@ -9,7 +10,7 @@ import sys
 sys.stdout.reconfigure(encoding='utf-8')
 
 # --- CONFIGURATION ---
-PROJECT_ID = "gen-lang-client-0100184589"
+PROJECT_ID = os.environ["GCP_PROJECT_ID"]
 LOCATION = "us-central1"
 INPUT_FILE = r"c:\Users\uthin\OneDrive\Desktop\ci-strains-pro\pipeline\17_gemini_revalidation\input\pipeline_16_cleaned.csv"
 OUTPUT_FILE = r"c:\Users\uthin\OneDrive\Desktop\ci-strains-pro\pipeline\17_gemini_revalidation\output\s3_validation_results.json"

@@ -1,120 +1,73 @@
-# Pipeline 17: Gemini Re-Validation Methodology
+# Pipeline 17 - Gemini Revalidation Methodology
 
-**Logic designed by Amazon Q, verified by Shannon Goddard.**
+## Purpose
+Validate 20 botanical fields across 21,210 cannabis strains using archived S3 HTML sources with Gemini 2.0 Flash.
 
----
+## Logic Designer
+Logic designed by Amazon Q, verified by Shannon Goddard.
 
-## Objective
+## Validation Approach
 
-Validate and correct ALL botanical data columns using Gemini 2.0 Flash with URL grounding to access live source pages.
+### Version 2 (Current) - With Standardization Rules
+**Date**: March 5, 2026  
+**Input**: `pipeline_16_no_avg.csv` (21,210 strains, 50 columns - removed avg columns)  
+**Output**: `s3_validation_v2_results.json`
 
----
+### Key Changes from V1
+1. **Removed Average Columns**: Deleted `thc_avg`, `cbd_avg`, `flowering_days_avg` (calculated fields, not in HTML)
+2. **Added Standardization Rules**: Gemini now converts weeks → days (1 week = 7 days)
+3. **Explicit Unit Handling**: When both weeks and days present in HTML, prefer explicit days value
+4. **Expanded Field Coverage**: Added height and yield validations (17 fields total)
 
-## Approach
+### Standardization Rules
+- **Flowering times**: MUST be in days. Convert weeks to days (1 week = 7 days)
+- **Genetics percentages**: Must add to 100% (Indica + Sativa = 100%)
+- **Genetics type**: Must be "Indica Dominant", "Sativa Dominant", or "Balanced Hybrid"
+- **Heights**: All in centimeters (cm)
+- **Yields**: Indoor in g/m², outdoor in g/plant
 
-### URL Grounding (Correct Method)
-- Uses `genai.Client` with `vertexai=True`
-- Configures `Tool(url_context=UrlContext())` for live URL access
-- Gemini accesses full webpage content (no truncation)
-- No manual HTML fetching required
+### Fields Validated (17 total)
+**Cannabinoids (4)**:
+- thc_min, thc_max
+- cbd_min, cbd_max
 
-### Previous Broken Approach (Fixed)
-- ❌ Used old `vertexai.generative_models.GenerativeModel`
-- ❌ Manually fetched HTML from S3 (truncated to 15K chars)
-- ❌ No URL context tool configured
-- ❌ Wrong model name (`gemini-2.5-flash`)
+**Genetics (3)**:
+- indica_pct, sativa_pct
+- genetics_type
 
----
+**Flowering (2)**:
+- flowering_min, flowering_max
 
-## Column Groups Validated
+**Heights (4)**:
+- height_indoor_cm_min, height_indoor_cm_max
+- height_outdoor_cm_min, height_outdoor_cm_max
 
-1. **Cannabinoids** (6 fields)
-   - thc_min, thc_max, thc_avg
-   - cbd_min, cbd_max, cbd_avg
+**Yields (4)**:
+- yield_indoor_g_m2_min, yield_indoor_g_m2_max
+- yield_outdoor_g_plant_min, yield_outdoor_g_plant_max
 
-2. **Genetics** (3 fields)
-   - indica_percentage, sativa_percentage
-   - genetics_type
+### Technical Details
+- **Model**: Gemini 2.0 Flash (gemini-2.0-flash)
+- **Batch Size**: 5 strains per API call
+- **HTML Source**: S3 bucket `ci-strains-html-archive` (first 50K chars)
+- **Response Format**: JSON with structured validation results
+- **Checkpoints**: Every 100 strains
 
-3. **Flowering Time** (3 fields)
-   - flowering_days_min, flowering_days_max, flowering_days_avg
+### Expected Improvements
+- Fewer false positives on flowering times (weeks vs days confusion eliminated)
+- No corrections on average fields (removed from validation)
+- Better alignment with pipeline's standardization approach
+- More accurate corrections on height/yield fields
 
-4. **Height Indoor** (2 fields)
-   - height_indoor_cm_min, height_indoor_cm_max
+## Version History
 
-5. **Height Outdoor** (2 fields)
-   - height_outdoor_cm_min, height_outdoor_cm_max
+### V1 - Initial S3 Validation
+- **Date**: March 5, 2026
+- **Results**: 91.8% success (19,475/21,210), 1,303 corrections
+- **Issue**: Flagged weeks→days conversions as incorrect (didn't know about standardization)
+- **Issue**: Tried to validate average columns (not in HTML)
 
-6. **Yield Indoor** (2 fields)
-   - yield_indoor_g_m2_min, yield_indoor_g_m2_max
-
-7. **Yield Outdoor** (2 fields)
-   - yield_outdoor_g_plant_min, yield_outdoor_g_plant_max
-
-**Total: 20 botanical data columns**
-
----
-
-## Validation Logic
-
-For each strain:
-1. Access live source URL via Gemini URL grounding
-2. Extract all botanical data present on page
-3. Compare with current database values
-4. Return validation status for each field:
-   - `correct`: Current value matches source
-   - `incorrect`: Current value differs from source
-   - `missing`: No current value, but found on source
-   - `not_found`: Not present on source page
-
----
-
-## Output Format
-
-```json
-{
-  "strain_id": "uuid",
-  "strain_name": "Strain Name",
-  "source_url": "https://...",
-  "validation": {
-    "cannabinoids": {
-      "thc_min": {
-        "current": 20.0,
-        "extracted": 22.0,
-        "status": "incorrect",
-        "confidence": "high",
-        "note": "Page shows 22-24% THC"
-      }
-    },
-    "genetics": { ... },
-    "flowering": { ... },
-    ...
-  },
-  "status": "success"
-}
-```
-
----
-
-## Processing
-
-- **Batch Size:** 10 strains per API call (reduces 21,220 calls to ~2,122 calls)
-- **Checkpoint Interval:** Every 100 strains
-- **Rate Limiting:** 0.5s delay between batches
-- **Error Handling:** Captures and logs all failures
-- **Encoding:** UTF-8 with latin-1 CSV read
-- **Estimated Runtime:** ~18 minutes (vs 30 hours unbatched)
-
----
-
-## Next Steps (Pipeline 18)
-
-1. Parse validation results
-2. Identify corrections needed
-3. Flag high-confidence changes
-4. Generate human review list for low-confidence items
-5. Apply approved corrections to dataset
-
----
-
-**Logic designed by Amazon Q, verified by Shannon Goddard.**
+### V2 - With Standardization
+- **Date**: March 5, 2026
+- **Status**: Ready to run
+- **Changes**: Removed avg columns, added standardization rules, expanded field coverage

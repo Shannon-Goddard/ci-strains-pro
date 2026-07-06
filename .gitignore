@@ -19,6 +19,7 @@ temp_google_creds.json
 # Data files (too large for git)
 *.csv
 !*_sample.csv
+!raw-data.csv
 *.jsonl
 *.parquet
 
